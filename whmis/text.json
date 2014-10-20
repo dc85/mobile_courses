@@ -1,0 +1,684 @@
+{
+    "prefix": "whmis",
+    "slides": [
+        {
+            "txt": "WHMIS",
+            "audio": "whmis_1_0",
+            "title": "1"
+        },
+        {
+            "txt": "Introduction: Purpose of this Training",
+            "audio": "whmis_1_1",
+            "img": "whmis_1_1"
+        },
+        {
+            "txt": "WHMIS Symbols",
+            "audio": "whmis_1_2",
+            "img": "whmis_1_1"
+        },
+        {
+            "txt": "Supplier Labels",
+            "audio": "whmis_1_3",
+            "img": "whmis_1_1"
+        },
+        {
+            "txt": "Workplace Labels",
+            "audio": "whmis_1_4",
+            "img": "whmis_1_1"
+        },
+        {
+            "txt": "Material Safety Data Sheet (MSDS)",
+            "audio": "whmis_1_5",
+            "img": "whmis_1_1"
+        },
+        {
+            "txt": "Responsibilities",
+            "audio": "whmis_1_6",
+            "img": "whmis_1_1"
+        },
+        {
+            "txt": "Health Effects",
+            "audio": "whmis_1_7",
+            "img": "whmis_1_1"
+        },
+        {
+            "txt": "Controls",
+            "audio": "whmis_1_8",
+            "img": "whmis_1_1"
+        },
+
+
+        {
+            "txt": "Purpose",
+            "audio": "whmis_2_0",
+            "title": "1"
+        },
+        {
+            "txt": "To identify hazards",
+            "audio": "whmis_2_1",
+            "img": "whmis_2_1"
+        },
+        {
+            "txt": "To know the hazards of the materials with which you work",
+            "audio": "whmis_2_2",
+            "img": "whmis_2_1"
+        },
+        {
+            "txt": "To know how you can protect yourself from accidents and illness",
+            "audio": "whmis_2_3",
+            "img": "whmis_2_1"
+        },
+
+
+        {
+            "txt": "What is WHMIS?",
+            "audio": "whmis_3_0",
+            "title": "1"
+        },
+        {
+            "txt": "Workplace Hazardous Material Information System",
+            "audio": "whmis_3_1",
+            "img": "whmis_3_1"
+        },
+        {
+            "txt": "Why was WHMIS developed?",
+            "audio": "whmis_3_2",
+            "img": "whmis_3_2"
+        },
+        {
+            "txt": "To give all working Canadians a uniform and appropriate quantity and quality of information about hazardous materials used in the workplace.",
+            "audio": "whmis_3_3",
+            "img": "whmis_3_3"
+        },
+        {
+            "txt": "Legal Basic: Under the Occupational Health and Safety Act and Regulations, all employees have the right to now WHMIS through employee training.",
+            "audio": "whmis_3_4",
+            "img": "whmis_3_4"
+        },
+
+        {
+            "txt": "Why is it important to know about WHMIS?",
+            "audio": "whmis_4_0",
+            "title": "1"
+        },
+        {
+            "txt": "Toxic Substances: Substances known to have the potential to damage human health.",
+            "audio": "whmis_4_1",
+            "img": "whmis_4_1"
+        },
+        {
+            "txt": "Over 500,000 substances are used in North American workplaces.",
+            "audio": "whmis_4_2",
+            "img": "whmis_4_1"
+        },
+        {
+            "txt": "About 25,000 are known to be toxic. Only about 600 have been given safe exposure levels.",
+            "audio": "whmis_4_3",
+            "img": "whmis_4_1"
+        },
+        {
+            "txt": "For all of the rest, health effects are unknown and there are no controls on worker exposure.",
+            "audio": "whmis_4_4",
+            "img": "whmis_4_1"
+        },
+
+
+        {
+            "txt": "WHMIS Responsibilities",
+            "audio": "whmis_5_0",
+            "title": "1"
+        },
+        {
+            "txt": "Importers and Producers: Supply the workplace WHMIS label and Material Safety Data Sheets.",
+            "audio": "whmis_5_1",
+            "img": "whmis_5_1"
+        },
+        {
+            "txt": "Suppliers must ensure that there is an MSDS and Label for the product and that it is up to date.",
+            "audio": "whmis_5_2",
+            "img": "whmis_5_2"
+        },
+
+        {"txt": "Employers must ensure that the MSDS and Labels are clear and available for the products.",
+            "audio": "whmis_6_1",
+            "img": "whmis_6_1"
+        },
+        {"txt": "Employers must provide education to help employees to identify the hazards of the product and to use the product safely.",
+            "audio": "whmis_6_2",
+            "img": "whmis_6_2"
+        },
+        {"txt": "Employees must participate in the training and apply the knowledge. The employee has the right to access the information at all times.",
+            "audio": "whmis_6_3",
+            "img": "whmis_6_3"
+        },
+
+        {   "txt": "WHMIS Symbols",
+            "audio": "whmis_7_0",
+            "title": "1"
+        },
+        {   "txt": "Hazard Class A: Compressed Gas",
+            "audio": "whmis_8_1",
+            "img": "whmis_8_1"
+        },
+        {   "txt": "A substance at room temprature is in a gaseous state and is kept under pressure.",
+            "audio": "whmis_8_2",
+            "img": "whmis_8_2"
+        },
+        {   "txt": "Hazards: Explodes if heated or struck. The container can become a missile if punctured or dropped",
+            "audio": "whmis_8_3",
+            "img": "whmis_8_3"
+        },
+        {   "txt": "Precautions: Ensure that containers are secured and capped, never drop the container, always transport containers carefully in secured carts if possible",
+            "audio": "whmis_8_4",
+            "img": "whmis_8_4"
+        },
+        {   "txt": "Examples include: Fire extinguishers, oxygen tanks",
+            "audio": "whmis_8_5",
+            "img": "whmis_8_5"
+        },
+
+
+        {   "txt": "Hazard Class B: Flammable & Combustible Material",
+            "audio": "whmis_9_0",
+            "title": "1"
+        },
+        {   "txt": "A solid, liquid or gas that can catch fire",
+            "audio": "whmis_9_2",
+            "img": "whmis_9_2"
+        },
+        {   "txt": "Flammable material will burn or catch on fire easily at room temperature",
+            "audio": "whmis_9_3",
+            "img": "whmis_9_3"
+        },
+        {   "txt": "Combustible materials must be heated before they will catch on fire",
+            "audio": "whmis_9_4",
+            "img": "whmis_9_4"
+        },
+        {   "txt": "This class also covers reactive flammable or material that will react with air or water or create a fire",
+            "audio": "whmis_9_5",
+            "img": "whmis_9_5"
+        },
+        {   "txt": "Hazards: These materials can easily catch fire if there is a source of ignition. Direct sun light can generate enough heat to ignite the material",
+            "audio": "whmis_9_5",
+            "img": "whmis_9_5"
+        },
+
+        {   "txt": "Precautions: User in areas where there are no sources of ignition",
+            "audio": "whmis_10_1",
+            "img": "whmis_10_1"
+        },
+        {   "txt": "Store containers in proper locations away from sources of heat and incompatible materials",
+            "audio": "whmis_10_2",
+            "img": "whmis_10_2"
+        },
+        {   "txt": "Some flammable liquids must be electrically bonded to prevent ignition from static electricity",
+            "audio": "whmis_10_3",
+            "img": "whmis_10_3"
+        },
+        {   "txt": "Examples include: toluene, diesel",
+            "audio": "whmis_10_4",
+            "img": "whmis_10_4"
+        },
+
+
+        {   "txt": "Hazard Class C: Oxidizers",
+            "audio": "whmis_11_0",
+            "title": "1"
+        },
+        {   "txt": "These materials cause oxygen to be released into a fire",
+            "audio": "whmis_11_1",
+            "img": "whmis_11_1"
+        },
+        {   "txt": "Hazards: Oxidizers can cause flammable and combustible materials to spontaneously ignite, causing hotter, faster and more aggressive fires or explosions",
+            "audio": "whmis_11_2",
+            "img": "whmis_11_2"
+        },
+        {   "txt": "Precautions: Oxidizers should never be stored with flammable or combustible materials",
+            "audio": "whmis_11_3",
+            "img": "whmis_11_3"
+        },
+        {   "txt": "Examples include: chlorine bleach, oxygen tanks",
+            "audio": "whmis_11_4",
+            "img": "whmis_11_4"
+        },
+
+
+        {   "txt": "Hazard Class D1: Material Causing Immediate and Serious Toxic Effect",
+            "audio": "whmis_12_0",
+            "title": "1"
+        },
+        {   "txt": "These are materials that are very poisonous and can cause immediate danger to your life and health",
+            "audio": "whmis_12_1",
+            "img": "whmis_12_1"
+        },
+        {   "txt": "Hazards: Serious health effects such as chemical burns, loss of consciousness, coma or death within just minutes or hours after exposure",
+            "audio": "whmis_12_2",
+            "img": "whmis_12_2"
+        },
+        {   "txt": "Precautions: Avoid direct contact at all times, use appropriate personal protective equipment (PPE), follow all safety precautions as required",
+            "audio": "whmis_12_3",
+            "img": "whmis_12_3"
+        },
+        {   "txt": "Examples include: Phenol, hydrogen fluoride",
+            "audio": "whmis_12_4",
+            "img": "whmis_12_4"
+        },
+
+
+        {   "txt": "Hazard Class D2: Material Causing Other Toxic Effects",
+            "audio": "whmis_13_0",
+            "title": "1"
+        },
+        {   "txt": "These are materials that are slow acting and can cause long term toxic effects in days, months or years",
+            "audio": "whmis_13_1",
+            "img": "whmis_13_1"
+        },
+        {   "txt": "Hazards: Can cause skin rashes, cancer, birth defects, or other chemical related medical problems over the long term",
+            "audio": "whmis_13_2",
+            "img": "whmis_13_2"
+        },
+        {   "txt": "Precautions: Avoid direct contact at all times, use appropriate personal protective equipment (PPE), follow all safety precautions as required",
+            "audio": "whmis_13_3",
+            "img": "whmis_13_3"
+        },
+        {   "txt": "Examples include: formaldehyde, asbestos",
+            "audio": "whmis_13_4",
+            "img": "whmis_13_4"
+        },
+
+
+        {   "txt": "Class D3: Bio Hazardous, Infectious Material",
+            "audio": "whmis_14_0",
+            "title": "1"
+        },
+        {   "txt": "These materials are organisms or the toxins they produce, that can cause diseases in people or animals",
+            "audio": "whmis_14_1",
+            "img": "whmis_14_1"
+        },
+        {   "txt": "These are bacteria, viruses, parasites and fungi. They are usually found in human and animal tissue and fluids",
+            "audio": "whmis_14_2",
+            "img": "whmis_14_2"
+        },
+        {   "txt": "The tissue, fluids and even air (in some cases) is determined to be toxic",
+            "audio": "whmis_14_3",
+            "img": "whmis_14_3"
+        },
+        {   "txt": "Hazards: Can cause severe disease and death if you come into contact with these material",
+            "audio": "whmis_14_4",
+            "img": "whmis_14_4"
+        },
+        {   "txt": "Precaustions: Avoid direct contact at all times, follow all safety precautions as required at all times.",
+            "audio": "whmis_15_1",
+            "img": "whmis_15_1"
+        },
+        {   "txt": "Use appropriate personal protective equipment as required if you are required to handle the material.",
+            "audio": "whmis_15_2",
+            "img": "whmis_15_2"
+        },
+        {   "txt": "Examples include: Virus samples (Diptheria, Polio); Lab waste (Syringes)",
+            "audio": "whmis_15_3",
+            "img": "whmis_15_3"
+        },
+
+
+        {   "txt": "Class E: Corrosive",
+            "audio": "whmis_16_0",
+            "title": "1"
+        },
+        {   "txt": "These materials can cause severe chemical burns to skin and other human tissues such as the eyes or lungs",
+            "audio": "whmis_16_1",
+            "img": "whmis_16_1"
+        },
+        {   "txt": "Hazards: Can cause severe damage to skin, eyes or lungs and the effects can be permanent.",
+            "audio": "whmis_16_2",
+            "img": "whmis_16_2"
+        },
+        {   "txt": "These materials can also damage metals and clothing.",
+            "audio": "whmis_16_3",
+            "img": "whmis_16_3"
+        },
+        {   "txt": "Precautions: Use appropriate personal protective equipment when handling these materials.",
+            "audio": "whmis_17_1",
+            "img": "whmis_17_1"
+        },
+        {   "txt": "Avoid splashing and creating mists from these chemicals.",
+            "audio": "whmis_17_2",
+            "img": "whmis_17_2"
+        },
+        {   "txt": "Examples include: Water softener, CIP100, Bleach, Hydrochloric acid, Washing and sterilizing, bioresources.",
+            "audio": "whmis_17_3",
+            "img": "whmis_17_3"
+        },
+
+
+        {   "txt": "Hazard Class F: Dangerously Reactive Material",
+            "audio": "whmis_18_0",
+            "title": "1"
+        },
+        {   "txt": "Unstable material that can do any of the following: React with water to give off a toxic gas.",
+            "audio": "whmis_18_1",
+            "img": "whmis_18_1"
+        },
+        {   "txt": "React by itself or other material to give off a heat, toxic gas or explode if these is a change in temperature or pressure.",
+            "audio": "whmis_18_2",
+            "img": "whmis_18_2"
+        },
+        {   "txt": "Hazards: Burns, fire and explosion hazards.",
+            "audio": "whmis_18_3",
+            "img": "whmis_18_3"
+        },
+
+        {   "txt": "Precautions: Handle material carefully using the proper personal protective equipment (PPE)",
+            "audio": "whmis_19_1",
+            "img": "whmis_19_1"
+        },
+        {   "txt": "Store chemical in designated areas away from incompatible materials. Examples include: Acetylene",
+            "audio": "whmis_19_2",
+            "img": "whmis_19_2"
+        },
+
+        {   "txt": "What is a Supplier Label?",
+            "audio": "whmis_20_0",
+            "title": "1"
+        },
+        {   "txt": "Supplier is defined as a manufacturer, processor or package of a controlled product of hazardous material in the business of import, export or sale.",
+            "audio": "whmis_20_1",
+            "img": "whmis_20_1"
+        },
+        {   "txt": "All suppliers must provide a label for the product they sell.",
+            "audio": "whmis_20_2",
+            "img": "whmis_20_2"
+        },
+        {   "txt": "The WHMIS label is any mark, sign, device, stamp, seal, sticker, tag, or wrapper that contains the prescribed information.",
+            "audio": "whmis_20_3",
+            "img": "whmis_20_3"
+        },
+
+        {   "txt": "The Components of a Supplier Label?",
+            "audio": "whmis_21_0",
+            "title": "1"
+        },
+        {   "txt": "A product identifier: the name of the product, which may be its common name, chemical name, generic name, or a trade name. Same name must appear on the MSDS for the product.",
+            "audio": "whmis_21_1",
+            "img": "whmis_21_1"
+        }, 
+        {   "txt": "Hazard symbols: one or more of the eight hazard symbols that applies to the product.",
+            "audio": "whmis_21_2",
+            "img": "whmis_21_2"
+        }, 
+        {   "txt": "If a controlled product comes under both Division 1 and 2 of Class D, only the Division 1 symbol must be displayed on the label.",
+            "audio": "whmis_21_3",
+            "img": "whmis_21_3"
+        }, 
+        {   "txt": "The symbols must be exact reproductions of the prescribed WHMIS symbols except for size and color.",
+            "audio": "whmis_21_4",
+            "img": "whmis_21_4"
+        }, 
+        {   "txt": "Risk phrase: these are descriptions of the effects that may result from exposure.",
+            "audio": "whmis_21_5",
+            "img": "whmis_21_5"
+        }, 
+        {   "txt": "They give further information about the hazard indicated by the symbol. For example: Dangerous if inhaled",
+            "audio": "whmis_21_6",
+            "img": "whmis_21_6"
+        }, 
+        {   "txt": "Precautionary measures: this section explains how to avoid the risks associated with the product. For example: Wear appropriate eye protection.",
+            "audio": "whmis_21_7",
+            "img": "whmis_21_7"
+        }, 
+        {   "txt": "First aid measures: this section explains how to treat a person who has been overexposed to the product.",
+            "audio": "whmis_21_8",
+            "img": "whmis_21_8"
+        }, 
+        {   "txt": "For example: wash affected area under running water.",
+            "audio": "whmis_21_9",
+            "img": "whmis_21_9"
+        }, 
+        {   "txt": "Statement indicating that a Material Safety Data Sheet is available.",
+            "audio": "whmis_21_10",
+            "img": "whmis_21_10"
+        }, 
+        {   "txt": "Supplier identifier: the name of the supplier, a distributor who buys from a supplier and re-sells without repackaging need not be mentioned on the supplier label.",
+            "audio": "whmis_21_11",
+            "img": "whmis_21_11"
+        }
+
+        {   "txt": "Workplace Label",
+            "audio": "whmis_22_0",
+            "title": "1"
+        },
+        {   "txt": "The material is decanted from the supplier's labeled container into another container.",
+            "audio": "whmis_22_1",
+            "img": "whmis_22_1"
+        },
+        {   "txt": "The original supplier label is missing or becomes unreadable.",
+            "audio": "whmis_22_2",
+            "img": "whmis_22_2"
+        },
+        {   "txt": "Workplace labels have the following information:",
+            "audio": "whmis_22_3",
+            "img": "whmis_22_3"
+        },
+        {   "txt": "Product identifier (name of the material).",
+            "audio": "whmis_22_4",
+            "img": "whmis_22_4"
+        },
+        {   "txt": "Precautionary measures (how to handle it safely).",
+            "audio": "whmis_22_5",
+            "img": "whmis_22_5"
+        },
+        {   "txt": "A statement telling the reader that MSDS is available.",
+            "audio": "whmis_22_6",
+            "img": "whmis_22_6"
+        },
+
+        {   "txt": "MSDS",
+            "audio": "whmis_23_0",
+            "title": "1"
+        },
+        {   "txt": "What is MSDS? MSDS stands for Material Safety Data Sheet. This document discloses information on a controlled or hazardous product.",
+            "audio": "whmis_23_1",
+            "img": "whmis_23_1"
+        },
+        {   "txt": "Your employer must have this information readily available in a easy to find location.",
+            "audio": "whmis_23_2",
+            "img": "whmis_23_2"
+        },
+
+        {   "txt": "Product Information: names the product by the same name that is used on the label and explains what the product is used for.",
+            "audio": "whmis_24_1",
+            "img": "whmis_24_1"
+        },
+        {   "txt": "Hazardous Ingredients: list all ingredients of the product which falls under any of the eight hazard classes.",
+            "audio": "whmis_24_2",
+            "img": "whmis_24_2"
+        },
+        {   "txt": "Physical Data: explains how the material behaves when in use. Whether the material is a gas, a solid or a liquid.",
+            "audio": "whmis_24_3",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "What it looks like and smells like when in use.",
+            "audio": "whmis_24_4",
+            "img": "whmis_24_4"
+        },
+        {   "txt": "How likely it is to evaporate (materials that evaporate easily are usually more dangerous).",
+            "audio": "whmis_24_5",
+            "img": "whmis_24_5"
+        },
+        {   "txt": "Whether its gases rise or sink (important for air monitoring and ventilation).",
+            "audio": "whmis_24_6",
+            "img": "whmis_24_6"
+        },
+        {   "txt": "How it may enter the body and the possible effects on the body.",
+            "audio": "whmis_24_7",
+            "img": "whmis_24_7"
+        },
+        {   "txt": "Fire or Explosion Hazard: describes the likelikhood of the material burning or exploding under different circumstances.",
+            "audio": "whmis_24_8",
+            "img": "whmis_24_8"
+        },
+        {   "txt": "Reactivity Data: Describes the stability of the material. How it behaves when exposed to certain other chemicals, to heat, to light and to vibration.",
+            "audio": "whmis_24_9",
+            "img": "whmis_24_9"
+        },
+
+        {   "txt": "Toxicological Properties: explains how the material can affect the worker's health and how it enters through the body.",
+            "audio": "whmis_25_1",
+            "img": "whmis_25_1"
+        },
+        {   "txt": "Preventative Measures: recommends safe procedures for handling, use and storage of the material.",
+            "audio": "whmis_25_2",
+            "img": "whmis_25_2"
+        },
+        {   "txt": "First Aid Measures: describes the immediate treatment to be given to a person who has been affected by exposure to the material.",
+            "audio": "whmis_25_3",
+            "img": "whmis_25_3"
+        },
+        {   "txt": "Preparation Information: person or department that prepared the MSDS, their telephone number and the date of preparation of the MSDS.",
+            "audio": "whmis_25_4",
+            "img": "whmis_25_4"
+        },
+        {   "txt": "MSDS must be updated at least every 3 years.",
+            "audio": "whmis_25_5",
+            "img": "whmis_25_5"
+        },
+
+        {   "txt": "Control Programs",
+            "audio": "whmis_27_0",
+            "title": "1"
+        },
+        {   "txt": "Hazards can be controlled at the following three places:",
+            "audio": "whmis_27_1",
+            "img": "whmis_27_1"
+        },
+        {   "txt": "1. At the source of the substance.",
+            "audio": "whmis_27_2",
+            "img": "whmis_27_2"
+        },
+        {   "txt": "2. Along the path.",
+            "audio": "whmis_27_3",
+            "img": "whmis_27_3"
+        },
+        {   "txt": "3. At the worker.",
+            "audio": "whmis_27_4",
+            "img": "whmis_27_4"
+        },
+
+        {   "txt": "Control at the Source",
+            "audio": "whmis_28_0",
+            "title": "1"
+        },
+        {   "txt": "Control at the source of the substance can be done in one of three ways:",
+            "audio": "whmis_28_1",
+            "img": "whmis_28_1"
+        }, 
+        {   "txt": "Elimination: the use of hazardous material can be eliminated to prevent its harmful effects.",
+            "audio": "whmis_28_2",
+            "img": "whmis_28_2"
+        }, 
+        {   "txt": "Substitution: hazardous chemicals can be substituted by a less toxic chemical.",
+            "audio": "whmis_28_3",
+            "img": "whmis_28_3"
+        }, 
+        {   "txt": "Isolation: isolate and protect the hazardous material to prevent it from accidental exposure.",
+            "audio": "whmis_28_4",
+            "img": "whmis_28_4"
+        }, 
+
+        {   "txt": "Control along the Path",
+            "audio": "whmis_29_0",
+            "title": "1"
+        },
+        {   "txt": "Control along the path is the means by which the hazard poses by the substance can be reduced. This can be done by:",
+            "audio": "whmis_29_1",
+            "img": "whmis_29_1"
+        },  
+        {   "txt": "Good Housekeeping: keeping the pathways clear through regular cleaning and organization.",
+            "audio": "whmis_29_2",
+            "img": "whmis_29_2"
+        },  
+        {   "txt": "Ventilation: reducing exposure by exhausting contaminated air away from the work area and replacing it with clean air.",
+            "audio": "whmis_29_3",
+            "img": "whmis_29_3"
+        },  
+        {   "txt": "Barriers: using portable barriers to be used as a temporary solution while avoiding unauthorized entry.",
+            "audio": "whmis_29_4",
+            "img": "whmis_29_4"
+        },  
+
+       {   "txt": "Control at the Worker",
+            "audio": "whmis_30_0",
+            "title": "1"
+        },
+        {   "txt": "Controlling hazardous effects can be achieved by the following methods:",
+            "audio": "whmis_30_1",
+            "img": "whmis_30_1"
+        },  
+        {   "txt": "Administrative controls: these are workplace policies and procedures from the company.",
+            "audio": "whmis_30_2",
+            "img": "whmis_30_2"
+        },  
+        {   "txt": "Workers must be trained to ensure that they understand how to follow the procedures accordingly.",
+            "audio": "whmis_30_3",
+            "img": "whmis_30_3"
+        },  
+        {   "txt": "Engineering controls: using technology to control the hazards, such as providing updated equipment or using less dangerous chemicals.",
+            "audio": "whmis_30_4",
+            "img": "whmis_30_4"
+        },  
+        {   "txt": "An example of control at the worker is with the use of Personal Protective Equipment.",
+            "audio": "whmis_30_5",
+            "img": "whmis_30_5"
+        },  
+        {   "txt": "Provide and train the worker with the proper personal protective equipment.",
+            "audio": "whmis_30_6",
+            "img": "whmis_30_6"
+        },  
+
+         {   "txt": "Requirements for Controlling Hazardous Substances",
+            "audio": "whmis_31_0",
+            "title": "1"
+        },
+        {   "txt": "By the Employer: Provide control of hazardous substances. The hazard should not cause the worker undue stress in the workplace.",
+            "audio": "whmis_31_1",
+            "img": "whmis_31_1"
+        },   
+        {   "txt": "Take the steps to protect the worker when exposed to the hazard. Take steps to try to eliminate the hazard from the workplace and the surrounding environment.",
+            "audio": "whmis_31_2",
+            "img": "whmis_31_2"
+        },   
+        {   "txt": "By the Worker: training to be completed annually. Follow the company's policies and procedures.",
+            "audio": "whmis_31_3",
+            "img": "whmis_31_3"
+        },   
+        {   "txt": "Participate in training. Wear all required Personal Protective Equipment.",
+            "audio": "whmis_31_4",
+            "img": "whmis_31_4"
+        },   
+
+         {   "txt": "Routes of Entry",
+            "audio": "whmis_32_0",
+            "title": "1"
+        },
+        {   "txt": "Harmful substances can enter the body through:",
+            "audio": "whmis_32_1",
+            "img": "whmis_32_1"
+        },
+        {   "txt": "Inhalation: Chemicals enter the body through the airway during respiration. Materials can pass directly into the blood stream from the lungs.",
+            "audio": "whmis_32_2",
+            "img": "whmis_32_2"
+        },
+        {   "txt": "Ingestion: Materials enter the body by being swalloed. This usually occurs due to contamination on the hands, which then touch food or the face.",
+            "audio": "whmis_32_3",
+            "img": "whmis_32_3"
+        },
+        {   "txt": "Absorption: some materials can pass through the skin's pores and enter into the bloodstream.",
+            "audio": "whmis_32_4",
+            "img": "whmis_32_4"
+        },
+        {   "txt":"Injection: this occurs when materials enter the body through a cut of piercing through the skin caused by a needle or other sharp object." ,
+            "audio": "whmis_32_5",
+            "img": "whmis_32_5"
+        },
+    ]
+}
