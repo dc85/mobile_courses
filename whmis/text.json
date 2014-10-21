@@ -1,63 +1,51 @@
 {
     "prefix": "whmis",
     "slides": [
-        {
-            "txt": "WHMIS",
+
+        {"txt": "WHMIS",
             "audio": "whmis_1_0",
-            "title": "1"
-        },
-        {
-            "txt": "Introduction: Purpose of this Training",
+            "title": "1"},
+
+        {"txt": "Introduction: Purpose of this Training",
             "audio": "whmis_1_1",
-            "img": "whmis_1_1"
-        },
-        {
-            "txt": "WHMIS Symbols",
+            "img": "whmis_1_1"},
+
+        {"txt": "WHMIS Symbols",
             "audio": "whmis_1_2",
-            "img": "whmis_1_1"
-        },
-        {
-            "txt": "Supplier Labels",
+            "img": "whmis_1_1"},
+
+        {"txt": "Supplier Labels",
             "audio": "whmis_1_3",
-            "img": "whmis_1_1"
-        },
-        {
-            "txt": "Workplace Labels",
+            "img": "whmis_1_1"},
+
+        {"txt": "Workplace Labels",
             "audio": "whmis_1_4",
-            "img": "whmis_1_1"
-        },
-        {
-            "txt": "Material Safety Data Sheet (MSDS)",
+            "img": "whmis_1_1"},
+
+        {"txt": "Material Safety Data Sheet (MSDS)",
             "audio": "whmis_1_5",
-            "img": "whmis_1_1"
-        },
-        {
-            "txt": "Responsibilities",
+            "img": "whmis_1_1"},
+
+        {"txt": "Responsibilities",
             "audio": "whmis_1_6",
-            "img": "whmis_1_1"
-        },
-        {
-            "txt": "Health Effects",
+            "img": "whmis_1_1"},
+
+        {"txt": "Health Effects",
             "audio": "whmis_1_7",
-            "img": "whmis_1_1"
-        },
-        {
-            "txt": "Controls",
+            "img": "whmis_1_1"},
+
+        {"txt": "Controls",
             "audio": "whmis_1_8",
-            "img": "whmis_1_1"
-        },
+            "img": "whmis_1_1"},
 
-
-        {
-            "txt": "Purpose",
+        {"txt": "Purpose",
             "audio": "whmis_2_0",
-            "title": "1"
-        },
-        {
-            "txt": "To identify hazards",
+            "title": "1"},
+
+        {"txt": "To identify hazards",
             "audio": "whmis_2_1",
-            "img": "whmis_2_1"
-        },
+            "img": "whmis_2_1"},
+
         {
             "txt": "To know the hazards of the materials with which you work",
             "audio": "whmis_2_2",
@@ -143,10 +131,12 @@
             "audio": "whmis_6_1",
             "img": "whmis_6_1"
         },
+
         {"txt": "Employers must provide education to help employees to identify the hazards of the product and to use the product safely.",
             "audio": "whmis_6_2",
             "img": "whmis_6_2"
         },
+
         {"txt": "Employees must participate in the training and apply the knowledge. The employee has the right to access the information at all times.",
             "audio": "whmis_6_3",
             "img": "whmis_6_3"
@@ -156,24 +146,29 @@
             "audio": "whmis_7_0",
             "title": "1"
         },
+
         {   "txt": "Hazard Class A: Compressed Gas",
             "audio": "whmis_8_1",
-            "img": "whmis_8_1"
+            "title": "1"
         },
         {   "txt": "A substance at room temprature is in a gaseous state and is kept under pressure.",
             "audio": "whmis_8_2",
-            "img": "whmis_8_2"
+            "img": "whmis_8_1"
         },
         {   "txt": "Hazards: Explodes if heated or struck. The container can become a missile if punctured or dropped",
             "audio": "whmis_8_3",
-            "img": "whmis_8_3"
+            "img": "whmis_8_2"
         },
         {   "txt": "Precautions: Ensure that containers are secured and capped, never drop the container, always transport containers carefully in secured carts if possible",
             "audio": "whmis_8_4",
+            "img": "whmis_8_3"
+        },
+        {   "txt": "Always transport containers carefully in secured carts if possible",
+            "audio": "whmis_8_5",
             "img": "whmis_8_4"
         },
         {   "txt": "Examples include: Fire extinguishers, oxygen tanks",
-            "audio": "whmis_8_5",
+            "audio": "whmis_8_6",
             "img": "whmis_8_5"
         },
 
@@ -199,8 +194,8 @@
             "img": "whmis_9_5"
         },
         {   "txt": "Hazards: These materials can easily catch fire if there is a source of ignition. Direct sun light can generate enough heat to ignite the material",
-            "audio": "whmis_9_5",
-            "img": "whmis_9_5"
+            "audio": "whmis_9_6",
+            "img": "whmis_9_6"
         },
 
         {   "txt": "Precautions: User in areas where there are no sources of ignition",
@@ -209,7 +204,7 @@
         },
         {   "txt": "Store containers in proper locations away from sources of heat and incompatible materials",
             "audio": "whmis_10_2",
-            "img": "whmis_10_2"
+            "img": "whmis_10_1"
         },
         {   "txt": "Some flammable liquids must be electrically bonded to prevent ignition from static electricity",
             "audio": "whmis_10_3",
@@ -261,7 +256,7 @@
         },
         {   "txt": "Examples include: Phenol, hydrogen fluoride",
             "audio": "whmis_12_4",
-            "img": "whmis_12_4"
+            "img": "whmis_12_3"
         },
 
 
@@ -283,7 +278,7 @@
         },
         {   "txt": "Examples include: formaldehyde, asbestos",
             "audio": "whmis_13_4",
-            "img": "whmis_13_4"
+            "img": "whmis_13_3"
         },
 
 
@@ -301,11 +296,11 @@
         },
         {   "txt": "The tissue, fluids and even air (in some cases) is determined to be toxic",
             "audio": "whmis_14_3",
-            "img": "whmis_14_3"
+            "img": "whmis_14_2"
         },
         {   "txt": "Hazards: Can cause severe disease and death if you come into contact with these material",
             "audio": "whmis_14_4",
-            "img": "whmis_14_4"
+            "img": "whmis_14_2"
         },
         {   "txt": "Precaustions: Avoid direct contact at all times, follow all safety precautions as required at all times.",
             "audio": "whmis_15_1",
@@ -313,11 +308,11 @@
         },
         {   "txt": "Use appropriate personal protective equipment as required if you are required to handle the material.",
             "audio": "whmis_15_2",
-            "img": "whmis_15_2"
+            "img": "whmis_15_1"
         },
         {   "txt": "Examples include: Virus samples (Diptheria, Polio); Lab waste (Syringes)",
             "audio": "whmis_15_3",
-            "img": "whmis_15_3"
+            "img": "whmis_15_1"
         },
 
 
@@ -335,7 +330,7 @@
         },
         {   "txt": "These materials can also damage metals and clothing.",
             "audio": "whmis_16_3",
-            "img": "whmis_16_3"
+            "img": "whmis_16_2"
         },
         {   "txt": "Precautions: Use appropriate personal protective equipment when handling these materials.",
             "audio": "whmis_17_1",
@@ -365,12 +360,12 @@
         },
         {   "txt": "Hazards: Burns, fire and explosion hazards.",
             "audio": "whmis_18_3",
-            "img": "whmis_18_3"
+            "img": "whmis_18_2"
         },
 
         {   "txt": "Precautions: Handle material carefully using the proper personal protective equipment (PPE)",
             "audio": "whmis_19_1",
-            "img": "whmis_19_1"
+            "img": "whmis_17_1"
         },
         {   "txt": "Store chemical in designated areas away from incompatible materials. Examples include: Acetylene",
             "audio": "whmis_19_2",
@@ -387,11 +382,11 @@
         },
         {   "txt": "All suppliers must provide a label for the product they sell.",
             "audio": "whmis_20_2",
-            "img": "whmis_20_2"
+            "img": "whmis_20_1"
         },
         {   "txt": "The WHMIS label is any mark, sign, device, stamp, seal, sticker, tag, or wrapper that contains the prescribed information.",
             "audio": "whmis_20_3",
-            "img": "whmis_20_3"
+            "img": "whmis_20_1"
         },
 
         {   "txt": "The Components of a Supplier Label?",
