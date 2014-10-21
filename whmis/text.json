@@ -477,7 +477,7 @@
         },
         {   "txt": "Your employer must have this information readily available in a easy to find location.",
             "audio": "whmis_23_2",
-            "img": "whmis_23_2"
+            "img": "whmis_23_1"
         },
 
         {   "txt": "Product Information: names the product by the same name that is used on the label and explains what the product is used for.",
@@ -535,7 +535,7 @@
         },
         {   "txt": "MSDS must be updated at least every 3 years.",
             "audio": "whmis_25_5",
-            "img": "whmis_25_5"
+            "img": "whmis_25_4"
         },
 
         {   "txt": "Control Programs",
@@ -565,20 +565,20 @@
         },
         {   "txt": "Control at the source of the substance can be done in one of three ways:",
             "audio": "whmis_28_1",
-            "img": "whmis_28_1"
-        }, 
+            "img": "whmis_28_1"},
+
         {   "txt": "Elimination: the use of hazardous material can be eliminated to prevent its harmful effects.",
             "audio": "whmis_28_2",
-            "img": "whmis_28_2"
-        }, 
+            "img": "whmis_28_2"},
+
         {   "txt": "Substitution: hazardous chemicals can be substituted by a less toxic chemical.",
             "audio": "whmis_28_3",
-            "img": "whmis_28_3"
-        }, 
+            "img": "whmis_28_3"},
+
         {   "txt": "Isolation: isolate and protect the hazardous material to prevent it from accidental exposure.",
             "audio": "whmis_28_4",
-            "img": "whmis_28_4"
-        }, 
+            "img": "whmis_28_4"},
+
 
         {   "txt": "Control along the Path",
             "audio": "whmis_29_0",
@@ -611,11 +611,11 @@
         },  
         {   "txt": "Administrative controls: these are workplace policies and procedures from the company.",
             "audio": "whmis_30_2",
-            "img": "whmis_30_2"
+            "img": "whmis_30_1"
         },  
         {   "txt": "Workers must be trained to ensure that they understand how to follow the procedures accordingly.",
             "audio": "whmis_30_3",
-            "img": "whmis_30_3"
+            "img": "whmis_30_1"
         },  
         {   "txt": "Engineering controls: using technology to control the hazards, such as providing updated equipment or using less dangerous chemicals.",
             "audio": "whmis_30_4",
@@ -627,7 +627,7 @@
         },  
         {   "txt": "Provide and train the worker with the proper personal protective equipment.",
             "audio": "whmis_30_6",
-            "img": "whmis_30_6"
+            "img": "whmis_30_5"
         },  
 
          {   "txt": "Requirements for Controlling Hazardous Substances",
@@ -640,7 +640,7 @@
         },   
         {   "txt": "Take the steps to protect the worker when exposed to the hazard. Take steps to try to eliminate the hazard from the workplace and the surrounding environment.",
             "audio": "whmis_31_2",
-            "img": "whmis_31_2"
+            "img": "whmis_31_1"
         },   
         {   "txt": "By the Worker: training to be completed annually. Follow the company's policies and procedures.",
             "audio": "whmis_31_3",
@@ -648,7 +648,7 @@
         },   
         {   "txt": "Participate in training. Wear all required Personal Protective Equipment.",
             "audio": "whmis_31_4",
-            "img": "whmis_31_4"
+            "img": "whmis_31_3"
         },   
 
          {   "txt": "Routes of Entry",
