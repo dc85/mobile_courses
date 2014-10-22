@@ -41,112 +41,93 @@
         {"txt": "Purpose",
             "audio": "whmis_2_0",
             "title": "1"},
-
         {"txt": "To identify hazards",
             "audio": "whmis_2_1",
             "img": "whmis_2_1"},
-
-        {
-            "txt": "To know the hazards of the materials with which you work",
+        {"txt": "To know the hazards of the materials with which you work",
             "audio": "whmis_2_2",
             "img": "whmis_2_1"
         },
-        {
-            "txt": "To know how you can protect yourself from accidents and illness",
+        {"txt": "To know how you can protect yourself from accidents and illness",
             "audio": "whmis_2_3",
             "img": "whmis_2_1"
         },
 
 
-        {
-            "txt": "What is WHMIS?",
+        {"txt": "What is WHMIS?",
             "audio": "whmis_3_0",
             "title": "1"
         },
-        {
-            "txt": "Workplace Hazardous Material Information System",
+        {"txt": "Workplace Hazardous Material Information System",
             "audio": "whmis_3_1",
             "img": "whmis_3_1"
         },
-        {
-            "txt": "Why was WHMIS developed?",
+        {"txt": "Why was WHMIS developed?",
             "audio": "whmis_3_2",
             "img": "whmis_3_2"
         },
-        {
-            "txt": "To give all working Canadians a uniform and appropriate quantity and quality of information about hazardous materials used in the workplace.",
+        {"txt": "To give all working Canadians a uniform and appropriate quantity and quality of information about hazardous materials used in the workplace.",
             "audio": "whmis_3_3",
             "img": "whmis_3_3"
         },
-        {
-            "txt": "Legal Basic: Under the Occupational Health and Safety Act and Regulations, all employees have the right to now WHMIS through employee training.",
+        {"txt": "Legal Basic: Under the Occupational Health and Safety Act and Regulations, all employees have the right to now WHMIS through employee training.",
             "audio": "whmis_3_4",
             "img": "whmis_3_4"
         },
 
-        {
-            "txt": "Why is it important to know about WHMIS?",
+
+        {"txt": "Why is it important to know about WHMIS?",
             "audio": "whmis_4_0",
             "title": "1"
         },
-        {
-            "txt": "Toxic Substances: Substances known to have the potential to damage human health.",
+        {"txt": "Toxic Substances: Substances known to have the potential to damage human health.",
             "audio": "whmis_4_1",
             "img": "whmis_4_1"
         },
-        {
-            "txt": "Over 500,000 substances are used in North American workplaces.",
+        {"txt": "Over 500,000 substances are used in North American workplaces.",
             "audio": "whmis_4_2",
             "img": "whmis_4_1"
         },
-        {
-            "txt": "About 25,000 are known to be toxic. Only about 600 have been given safe exposure levels.",
+        {"txt": "About 25,000 are known to be toxic. Only about 600 have been given safe exposure levels.",
             "audio": "whmis_4_3",
             "img": "whmis_4_1"
         },
-        {
-            "txt": "For all of the rest, health effects are unknown and there are no controls on worker exposure.",
+        {"txt": "For all of the rest, health effects are unknown and there are no controls on worker exposure.",
             "audio": "whmis_4_4",
             "img": "whmis_4_1"
         },
 
 
-        {
-            "txt": "WHMIS Responsibilities",
+        {"txt": "WHMIS Responsibilities",
             "audio": "whmis_5_0",
             "title": "1"
         },
-        {
-            "txt": "Importers and Producers: Supply the workplace WHMIS label and Material Safety Data Sheets.",
+        {"txt": "Importers and Producers: Supply the workplace WHMIS label and Material Safety Data Sheets.",
             "audio": "whmis_5_1",
             "img": "whmis_5_1"
         },
-        {
-            "txt": "Suppliers must ensure that there is an MSDS and Label for the product and that it is up to date.",
+        {"txt": "Suppliers must ensure that there is an MSDS and Label for the product and that it is up to date.",
             "audio": "whmis_5_2",
             "img": "whmis_5_2"
         },
-
         {"txt": "Employers must ensure that the MSDS and Labels are clear and available for the products.",
             "audio": "whmis_6_1",
             "img": "whmis_6_1"
         },
-
         {"txt": "Employers must provide education to help employees to identify the hazards of the product and to use the product safely.",
             "audio": "whmis_6_2",
             "img": "whmis_6_2"
         },
-
         {"txt": "Employees must participate in the training and apply the knowledge. The employee has the right to access the information at all times.",
             "audio": "whmis_6_3",
             "img": "whmis_6_3"
         },
 
+
         {   "txt": "WHMIS Symbols",
             "audio": "whmis_7_0",
             "title": "1"
         },
-
         {   "txt": "Hazard Class A: Compressed Gas",
             "audio": "whmis_8_1",
             "title": "1"
@@ -197,6 +178,7 @@
             "audio": "whmis_9_6",
             "img": "whmis_9_6"
         },
+
 
         {   "txt": "Precautions: User in areas where there are no sources of ignition",
             "audio": "whmis_10_1",
@@ -362,6 +344,7 @@
             "audio": "whmis_18_3",
             "img": "whmis_18_2"
         },
+        
 
         {   "txt": "Precautions: Handle material carefully using the proper personal protective equipment (PPE)",
             "audio": "whmis_19_1",
