@@ -450,18 +450,24 @@
             "img": "whmis_22_6"
         },
 
+
         {   "txt": "MSDS",
             "audio": "whmis_23_0",
             "title": "1"
         },
-        {   "txt": "What is MSDS? MSDS stands for Material Safety Data Sheet. This document discloses information on a controlled or hazardous product.",
+        {   "txt": "What is MSDS? MSDS stands for Material Safety Data Sheet.",
             "audio": "whmis_23_1",
             "img": "whmis_23_1"
         },
-        {   "txt": "Your employer must have this information readily available in a easy to find location.",
+        {   "txt": "This document discloses information on a controlled or hazardous product.",
             "audio": "whmis_23_2",
             "img": "whmis_23_1"
         },
+        {   "txt": "Your employer must have this information readily available in a easy to find location.",
+            "audio": "whmis_23_3",
+            "img": "whmis_23_1"
+        },
+
 
         {   "txt": "Product Information: names the product by the same name that is used on the label and explains what the product is used for.",
             "audio": "whmis_24_1",
@@ -613,6 +619,7 @@
             "img": "whmis_30_5"
         },  
 
+
          {   "txt": "Requirements for Controlling Hazardous Substances",
             "audio": "whmis_31_0",
             "title": "1"
@@ -633,6 +640,7 @@
             "audio": "whmis_31_4",
             "img": "whmis_31_3"
         },   
+        
 
          {   "txt": "Routes of Entry",
             "audio": "whmis_32_0",
