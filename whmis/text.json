@@ -386,39 +386,39 @@
         }, 
         {   "txt": "If a controlled product comes under both Division 1 and 2 of Class D, only the Division 1 symbol must be displayed on the label.",
             "audio": "whmis_21_3",
-            "img": "whmis_21_3"
+            "img": "whmis_21_2"
         }, 
         {   "txt": "The symbols must be exact reproductions of the prescribed WHMIS symbols except for size and color.",
             "audio": "whmis_21_4",
-            "img": "whmis_21_4"
+            "img": "whmis_21_2"
         }, 
         {   "txt": "Risk phrase: these are descriptions of the effects that may result from exposure.",
             "audio": "whmis_21_5",
-            "img": "whmis_21_5"
+            "img": "whmis_21_3"
         }, 
         {   "txt": "They give further information about the hazard indicated by the symbol. For example: Dangerous if inhaled",
             "audio": "whmis_21_6",
-            "img": "whmis_21_6"
+            "img": "whmis_21_3"
         }, 
         {   "txt": "Precautionary measures: this section explains how to avoid the risks associated with the product. For example: Wear appropriate eye protection.",
             "audio": "whmis_21_7",
-            "img": "whmis_21_7"
+            "img": "whmis_21_4"
         }, 
         {   "txt": "First aid measures: this section explains how to treat a person who has been overexposed to the product.",
             "audio": "whmis_21_8",
-            "img": "whmis_21_8"
+            "img": "whmis_21_5"
         }, 
         {   "txt": "For example: wash affected area under running water.",
             "audio": "whmis_21_9",
-            "img": "whmis_21_9"
+            "img": "whmis_21_5"
         }, 
         {   "txt": "Statement indicating that a Material Safety Data Sheet is available.",
             "audio": "whmis_21_10",
-            "img": "whmis_21_10"
+            "img": "whmis_21_6"
         }, 
         {   "txt": "Supplier identifier: the name of the supplier, a distributor who buys from a supplier and re-sells without repackaging need not be mentioned on the supplier label.",
             "audio": "whmis_21_11",
-            "img": "whmis_21_11"
+            "img": "whmis_21_7"
         }
 
         {   "txt": "Workplace Label",
@@ -483,27 +483,27 @@
         },
         {   "txt": "What it looks like and smells like when in use.",
             "audio": "whmis_24_4",
-            "img": "whmis_24_4"
+            "img": "whmis_24_3"
         },
         {   "txt": "How likely it is to evaporate (materials that evaporate easily are usually more dangerous).",
             "audio": "whmis_24_5",
-            "img": "whmis_24_5"
+            "img": "whmis_24_3"
         },
         {   "txt": "Whether its gases rise or sink (important for air monitoring and ventilation).",
             "audio": "whmis_24_6",
-            "img": "whmis_24_6"
+            "img": "whmis_24_3"
         },
         {   "txt": "How it may enter the body and the possible effects on the body.",
             "audio": "whmis_24_7",
-            "img": "whmis_24_7"
+            "img": "whmis_24_3"
         },
         {   "txt": "Fire or Explosion Hazard: describes the likelikhood of the material burning or exploding under different circumstances.",
             "audio": "whmis_24_8",
-            "img": "whmis_24_8"
+            "img": "whmis_24_4"
         },
         {   "txt": "Reactivity Data: Describes the stability of the material. How it behaves when exposed to certain other chemicals, to heat, to light and to vibration.",
             "audio": "whmis_24_9",
-            "img": "whmis_24_9"
+            "img": "whmis_24_5"
         },
 
         {   "txt": "Toxicological Properties: explains how the material can affect the worker's health and how it enters through the body.",
