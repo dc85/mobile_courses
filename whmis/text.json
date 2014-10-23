@@ -419,7 +419,7 @@
         {   "txt": "Supplier identifier: the name of the supplier, a distributor who buys from a supplier and re-sells without repackaging need not be mentioned on the supplier label.",
             "audio": "whmis_21_11",
             "img": "whmis_21_7"
-        }
+        },
 
         {   "txt": "Workplace Label",
             "audio": "whmis_22_0",
@@ -665,6 +665,6 @@
         {   "txt":"Injection: this occurs when materials enter the body through a cut of piercing through the skin caused by a needle or other sharp object." ,
             "audio": "whmis_32_5",
             "img": "whmis_32_5"
-        },
+        }
     ]
 }
