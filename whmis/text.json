@@ -120,7 +120,7 @@
         },
         {"txt": "Employees must participate in the training and apply the knowledge. The employee has the right to access the information at all times.",
             "audio": "whmis_6_3",
-            "img": "whmis_6_3"
+            "img": "whmis_6_2"
         },
 
 
@@ -208,7 +208,7 @@
         },
         {   "txt": "Hazards: Oxidizers can cause flammable and combustible materials to spontaneously ignite, causing hotter, faster and more aggressive fires or explosions",
             "audio": "whmis_11_2",
-            "img": "whmis_11_2"
+            "img": "whmis_11_1"
         },
         {   "txt": "Precautions: Oxidizers should never be stored with flammable or combustible materials",
             "audio": "whmis_11_3",
@@ -575,7 +575,7 @@
         },
         {   "txt": "Control along the path is the means by which the hazard poses by the substance can be reduced. This can be done by:",
             "audio": "whmis_29_1",
-            "img": "whmis_29_1"
+            "img": "whmis_27_3"
         },  
         {   "txt": "Good Housekeeping: keeping the pathways clear through regular cleaning and organization.",
             "audio": "whmis_29_2",
