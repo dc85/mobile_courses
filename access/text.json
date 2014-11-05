@@ -944,7 +944,7 @@
                 "audio":"39_8",
                 "img":"39_8"
                 },   
-			    {"txt":"American Sign Language may be the person's first language and it has its own grammatical rules and sentence structure.",
+			   {"txt":"American Sign Language may be the person's first language and it has its own grammatical rules and sentence structure.",
                 "audio":"39_9",
                 "img":"39_9"
                 },   
@@ -965,5 +965,237 @@
                 "audio":"40_2",
                 "img":"40_2"
                 }, 
+
+        	    {"txt":"Assistive Devices",
+                "audio":"41_0",
+                "title":"1"
+                },  
+			    {"txt":"An assistive device is a tool, technology or other mechanism that enables a person with a disability to do everyday tasks.",
+                "audio":"41_1",
+                "img":"41_1"
+                },  
+			    {"txt":"It helps the person to maintain their independence at home, at work and in the community.",
+                "audio":"41_2",
+                "img":"41_2"
+                },  
+			    {"txt":"Many people with disabilities will have their own personal assistive devices, such as wheelchairs, scooters or walkers.",
+                "audio":"41_3",
+                "img":"41_3"
+                },  
+			    {"txt":"Tips on assistive devices:",
+                "audio":"41_4",
+                "img":"41_4"
+                },  
+			    {"txt":"Do not touch or handle an assistive device without permission.",
+                "audio":"41_5",
+                "img":"41_5"
+                },  
+			    {"txt":"Do not move items or equipment, such as canes and walkers, out of your customer's reach.",
+                "audio":"41_6",
+                "img":"41_6"
+                },  
+			    {"txt":"Respect the person's persnal space.",
+                "audio":"41_7",
+                "img":"41_7"
+                },  
+			    {"txt":"Let the person know about accessible features in the immediate environment (e.g., automatic doors, accessible washrooms, etc.).",
+                "audio":"41_8",
+                "img":"41_8"
+                },  
+			    {"txt":"If you have permission to move a person in a wheelchair, remember to:",
+                "audio":"42_1",
+                "img":"42_1"
+                },  
+			    {"txt":"Wait for and follow the person's instructions.",
+                "audio":"42_2",
+                "img":"42_2"
+                },  
+			    {"txt":"Confirm that the person is ready to move.",
+                "audio":"42_3",
+                "img":"42_3"
+                },  
+			    {"txt":"Describe what you are going to do before you do it.",
+                "audio":"42_4",
+                "img":"42_4"
+                },  
+			    {"txt":"Try to avoid uneven ground and objects.",
+                "audio":"42_5",
+                "img":"42_5"
+                },  
+			    {"txt":"Do not leave the person in an awkward, dangerous or undignified position, such as facing a wall or in the path of opening doors.",
+                "audio":"42_6",
+                "img":"42_6"
+                },  
+
+        	    {"txt":"Service Animal",
+                "audio":"43_0",
+                "title":"1"
+                },  
+			    {"txt":"The customer service standard requires you to let people with disabilities use their service animals on the parts of your premises open to the public or to third parties,",
+                "audio":"43_1",
+                "img":"43_1"
+                },  
+			    {"txt":"unless the animal is otherwise excluded by law from premises.",
+                "audio":"43_2",
+                "img":"43_2"
+                },  
+			    {"txt":"Under the standard, an animal is a service animal if it is readily apparent that the animal is used by the person for reasons relating to his or her disability,",
+                "audio":"43_3",
+                "img":"43_3"
+                },  
+			    {"txt":"or if the person has a letter from a physician or nurse verifying that the animal is required for reasons relating to his or her disability.",
+                "audio":"43_4",
+                "img":"43_4"
+                },  
+			    {"txt":"If it is not obvious that the animal is a service animal,",
+                "audio":"43_5",
+                "img":"43_5"
+                },  
+			    {"txt":"you are not required to allow the animal on your premises if the person does not have a letter from a physician or nurse,",
+                "audio":"43_6",
+                "img":"43_6"
+                },  
+			    {"txt":"or an identification card from the Ministry of the Attorney General.",
+                "audio":"43_7",
+                "img":"43_7"
+                },  
+			    {"txt":"Tips on interacting with a customer who uses a service animal:",
+                "audio":"44_1",
+                "img":"44_1"
+                },  
+			    {"txt":"Avoid touching, interacting, feeding or addressing service animals as they are working and have to pay attention at all times.",
+                "audio":"44_2",
+                "img":"44_2"
+                },  
+			    {"txt":"Avoid making assumptions about the animal as not all service animals wear special collars or harnesses.",
+                "audio":"44_3",
+                "img":"44_3"
+                },  
+			    {"txt":"If you are not sure if the animal is a pet or a service animal, ask the person.",
+                "audio":"44_4",
+                "img":"44_4"
+                },  
+			    {"txt":"How do you serve a person if their animal is not allowed because of another law?",
+                "audio":"44_5",
+                "img":"44_5"
+                },  
+			    {"txt":"Where an animal is excluded by law from your premises, consider explaining why the animal is excluded.",
+                "audio":"44_6",
+                "img":"44_6"
+                },  
+			    {"txt":"Explore or discuss another way of providing goods or services. For example:",
+                "audio":"44_7",
+                "img":"44_7"
+                },  
+			    {"txt":"Bring goods or services to the person in a part of your premises where the animal is not restricted.",
+                "audio":"44_8",
+                "img":"44_8"
+                },  
+			    {"txt":"Direct them to another location where the service animal can wait, if the person is able to be separated from the animal while obtaining service,",
+                "audio":"44_9",
+                "img":"44_9"
+                },  
+			    {"txt":"and offer assistance to the person with a disability while he or she is prepared from the service animal.",
+                "audio":"44_10",
+                "img":"44_10"
+                },  
+
+         	    {"txt":"Support Persons",
+                "audio":"45_0",
+                "title":"1"
+                },  
+			    {"txt":"A support person is an individual hired or chosen to accompany a person with disability to provide services",
+                "audio":"45_1",
+                "img":"45_1"
+                },  
+			    {"txt":"or assistance with communication, mobility, personal care, medical needs or access to goods or services.",
+                "audio":"45_2",
+                "img":"45_2"
+                },  
+			    {"txt":"The support person can be a paid personal support worker, volunteer, a friend or a family member.",
+                "audio":"45_3",
+                "img":"45_3"
+                },  
+			    {"txt":"Customers with disabilities must be allowed to use their support persons while accessing your organization's goods or services on the parts of the premises open to the public or third parties.",
+                "audio":"45_4",
+                "img":"45_4"
+                },  
+			    {"txt":"If your organization charges for admission, you are required to have a policy regarding what amount,",
+                "audio":"45_5",
+                "img":"45_5"
+                },  
+			    {"txt":"if any, is charged for support persons, Advance notification of a fee, if any, is required.",
+                "audio":"45_6",
+                "img":"45_6"
+                },  
+			    {"txt":"Tips on interacting with a customer who has a support person:",
+                "audio":"46_1",
+                "img":"46_1"
+                },  
+			    {"txt":"A person with a disability might not introduce their support person.",
+                "audio":"46_2",
+                "img":"46_2"
+                },  
+			    {"txt":"If you are not sure which person is the customer, take your lead from the person using or requesting your goods or services or simply ask.",
+                "audio":"46_3",
+                "img":"46_3"
+                },  
+			    {"txt":"Once you have determined who your customer is, speak directly to them, not to their support person.",
+                "audio":"46_4",
+                "img":"46_4"
+                },  
+			    {"txt":"Be familiar with your organization's policies, practices and procedures about providing accessible customer service.",
+                "audio":"46_5",
+                "img":"46_5"
+                },  
+
+        	    {"txt":"General Tips on Interacting with People with Disabilities",
+                "audio":"47_0",
+                "title":"1"
+                },  
+			    {"txt":"The following are general tips on providing service to people with disabilities:",
+                "audio":"47_1",
+                "img":"47_1"
+                },  
+			    {"txt":"If you are not sure what to do, ask, 'May I help you?' or 'May I be assistance?'.",
+                "audio":"47_2",
+                "img":"47_2"
+                },  
+			    {"txt":"People with disabilities konw if they need help and how you can provide it.",
+                "audio":"47_3",
+                "img":"47_3"
+                },  
+			    {"txt":"Make no assumptions about what type of disability or disabilities the person has.",
+                "audio":"47_4",
+                "img":"47_4"
+                },  
+			    {"txt":"Some disabilities are not visible and a person is not required to give you any information about any disabilities they may have.",
+                "audio":"47_5",
+                "img":"47_5"
+                },  
+			    {"txt":"Speak directly to the person with a disability, not to their support person or companion.",
+                "audio":"47_6",
+                "img":"47_6"
+                },  
+			    {"txt":"Take the time to get to know the person's needs and focus on meeting those needs just as you would with any other person.",
+                "audio":"47_7",
+                "img":"47_7"
+                },  
+			    {"txt":"Be patient. People with certain types of disabilities may take a little longer to understand and respond.",
+                "audio":"47_8",
+                "img":"47_8"
+                },  
+			    {"txt":"If you cannot understand what the person is saying, politely ask them to repeat themselves.",
+                "audio":"47_9",
+                "img":"47_9"
+                },  
+			    {"txt":"Do not touch or interact with service animals.",
+                "audio":"47_10",
+                "img":"47_10"
+                },  
+			    {"txt":"Do not touch assistive devices, including wheelchairs, without permission.",
+                "audio":"47_11",
+                "img":"47_11"
+                },  
             ]
 }
