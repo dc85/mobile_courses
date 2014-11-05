@@ -16,19 +16,19 @@
                 },
                 {"txt":"People are either born with disabilities, become disabled due to accidents or illnesses, or become disabled as they age.",
                 "audio":"2_2",
-                "img":"2_2"
+                "img":"2_1"
                 },
                 {"txt":"People with disabilities represent a large pool of untapped employment potential.",
                 "audio":"2_3",
-                "img":"2_3"
+                "img":"2_1"
                 },
                 {"txt":"There are many people who have made great contributions to society despite their disability.",
                 "audio":"2_4",
-                "img":"2_4"
+                "img":"2_1"
                 },
                 {"txt":"Overall, improving accessibility is not just the right thing to do BUT it is also REQUIRED by the law.",
                 "audio":"2_5",
-                "img":"2_5"
+                "img":"2_1"
                 },
 
 	            {"txt":"The Accesibility for Ontarians with Disabilities Act, 2005",
@@ -45,15 +45,15 @@
                 },
                 {"txt":"To achieve this target the government will develop and enforce accessibility standards.",
                 "audio":"3_3",
-                "img":"3_3"
+                "img":"3_2"
                 },
                 {"txt":"The accessibility standards will identify, remove and prevent barriers for people with disabilities in key areas of daily living.", "audio":"3_3",
                 "audio":"3_4",
-                "img":"3_4"
+                "img":"3_2"
                 },
                 {"txt":"Standards have been developed to achieve real results in stages.",
                 "audio":"3_5",
-                "img":"3_5"
+                "img":"3_2"
                 },
 
                {"txt":"Barriers to Accessibility",
@@ -66,27 +66,27 @@
                 }, 
                 {"txt":"Some of the barriers to accessibility are:",
                 "audio":"4_2",
-                "img":"4_2"
+                "img":"4_1"
                 }, 
                 {"txt":"People's attitudes to a person with disabilities. People sometimes ignore or avoid people with disabilities.",
                 "audio":"4_3",
-                "img":"4_3"
+                "img":"4_1"
                 }, 
                 {"txt":"Architectural or structural design of a building that makes it difficult for wheelchair access.",
                 "audio":"4_4",
-                "img":"4_4"
+                "img":"4_1"
                 }, 
                 {"txt":"Systematic barriers, such as company policies and procedures of the product or service that limits accessibility.",
                 "audio":"4_5",
-                "img":"4_5"
+                "img":"4_2"
                 },  
                 {"txt":"Information and communication barriers, such as voice only support that prevents a customer who is deaf to get information.",
                 "audio":"4_6",
-                "img":"4_6"
+                "img":"4_2"
                 },  
                 {"txt":"Lack of readily available technology to help a person access the services, such as TTY that support to assist customers who are hard of hearing.",
                 "audio":"4_7",
-                "img":"4_7"
+                "img":"4_2"
                 },  
 
                 {"txt":"Accessibility Standards",
@@ -99,23 +99,23 @@
                 },  
 			    {"txt":"1. Customer Service",
                 "audio":"5_2",
-                "img":"5_2"
+                "img":"5_1"
                 },  
 			    {"txt":"2. Information and Communications",
                 "audio":"5_3",
-                "img":"5_3"
+                "img":"5_1"
                 },  
 			    {"txt":"3. Employment",
                 "audio":"5_4",
-                "img":"5_4"
+                "img":"5_1"
                 },  
 			    {"txt":"4. Transportation",
                 "audio":"5_5",
-                "img":"5_5"
+                "img":"5_1"
                 },  
 			    {"txt":"5. Build Environment",
                 "audio":"5_6",
-                "img":"5_6"
+                "img":"5_1"
                 },  
 
                {"txt":"Accessibility Standards for Customer Service",
@@ -130,9 +130,13 @@
                 "audio":"7_2",
                 "img":"7_2"
                 },  
-			    {"txt":"This standard has been in effect from January 1, 2010 for the designated public sector organizations and from January 1, 2012 for other providers of goods or services.",
+			    {"txt":"This standard has been in effect from January 1, 2010 for the designated public sector organizations",
                 "audio":"7_3",
                 "img":"7_3"
+                },  
+                {"txt":"and from January 1, 2012 for other providers of goods or services.",
+                "audio":"7_4",
+                "img":"7_4"
                 },  
 
                 {"txt":"Who is a Customer?",
@@ -145,23 +149,23 @@
                 }, 
 			    {"txt":"A person who comes to purchase goods or services that you provide to the general public.",
                 "audio":"8_2",
-                "img":"8_2"
+                "img":"8_1"
                 }, 
 			    {"txt":"A person who interacts and does business with your organization from another organization.",
                 "audio":"8_3",
-                "img":"8_3"
+                "img":"8_1"
                 }, 
 			    {"txt":"A person who comes to a conference or to an event that the company has set up.",
                 "audio":"8_4",
-                "img":"8_4"
+                "img":"8_1"
                 }, 
 			    {"txt":"A person who enquires and receives technical support.",
                 "audio":"8_5",
-                "img":"8_5"
+                "img":"8_1"
                 }, 
 			    {"txt":"An employee of a company that uses your product or service.",
                 "audio":"8_6",
-                "img":"8_6"
+                "img":"8_1"
                 }, 
 
                 {"txt":"How Does it Affect You?",
@@ -174,7 +178,7 @@
                 },  
 			    {"txt":"An organization that provides goods or services to the public or other third parties and has at least one employee in Ontario.",
                 "audio":"9_2",
-                "img":"9_2"
+                "img":"9_1"
                 },  
 			    {"txt":"All full-time, part-time, seasonal and contract employees, regardless of status, must be counted.",
                 "audio":"9_3",
@@ -211,7 +215,7 @@
                 "img":"11_1"
                 },  
 			    {"txt":"1. Communication",
-                "audio":"11_2",
+                "audio":"11_1",
                 "img":"11_2"
                 },  
 			    {"txt":"2. Assistive devices",
@@ -220,7 +224,7 @@
                 },  
 			    {"txt":"3. Service animals",
                 "audio":"11_4",
-                "img":"11_4"
+                "img":"11_3"
                 },  
 			    {"txt":"4. Support persons",
                 "audio":"11_5",
@@ -232,7 +236,7 @@
                 },  
 			    {"txt":"6. Feedback process",
                 "audio":"11_7",
-                "img":"11_7"
+                "img":"11_6"
                 },  
 
                 {"txt":"Principles to Integrate in the Plan",
@@ -245,11 +249,11 @@
                 }, 
 			    {"txt":"Dignity: policies, procedures and practices that treat persons with disabilities as customers",
                 "audio":"12_2",
-                "img":"12_2"
+                "img":"12_1"
                 }, 
 			    {"txt":"and clients who are as valued and as deserving of effective and full service as any other customer.",
                 "audio":"12_3",
-                "img":"12_3"
+                "img":"12_1"
                 }, 
 			    {"txt":"Example: during a sale presentation, a disabled participant with a speech impediment asks a question.",
                 "audio":"12_4",
@@ -257,55 +261,58 @@
                 }, 
 			    {"txt":"The presenter takes the time to understand the participant's concern, confirms it and addresses the issue just as they would with any other participant in the presentation.",
                 "audio":"12_5",
-                "img":"12_5"
+                "img":"12_4"
                 }, 
+
 			    {"txt":"Independence: the freedom to do things in one's own way.",
                 "audio":"13_1",
                 "img":"13_1"
                 },  
 			    {"txt":"People who are disabled should be given the time and conveniences needed to participate in the program or service.",
                 "audio":"13_2",
-                "img":"13_2"
+                "img":"13_1"
                 },  
 			    {"txt":"Example: in a controlled access building, the security guard will give the disabled person the time to get their identification on their own, rather than rush the person.",
                 "audio":"13_3",
-                "img":"13_3"
+                "img":"13_1"
                 },  
+
    			    {"txt":"Integration: integrated services are those that allow people with disabilities to fully benefit from the same services,",
                 "audio":"14_1",
                 "img":"14_1"
                 },   
    			    {"txt":"in the same place and in the same or similar way as other customers.",
                 "audio":"14_2",
-                "img":"14_2"
+                "img":"14_1"
                 },   
    			    {"txt":"Integration may require an organization to take alternate measures to meet the needs of people with disabilities.",
                 "audio":"14_3",
-                "img":"14_3"
+                "img":"14_1"
                 },   
    			    {"txt":"Example: a disabled driver is having a hard time inserting the ticket to exit the parking lot.",
                 "audio":"14_4",
-                "img":"14_4"
+                "img":"14_1"
                 },   
    			    {"txt":"The parking lot attendent gets out of the booth to assist the person.",
                 "audio":"14_5",
-                "img":"14_5"
+                "img":"14_1"
                 },   
+
    			    {"txt":"Equal opportunity: equal opportunity means having the same chances, options, benefits and results as others.",
                 "audio":"15_1",
                 "img":"15_1"
                 },   
    			    {"txt":"People with disabilities should not have to make significantly more effort to access or to obtain service.",
                 "audio":"15_2",
-                "img":"15_2"
+                "img":"15_1"
                 },   
    			    {"txt":"They should also not have to accept lesser quality or more inconvenience.",
                 "audio":"15_3",
-                "img":"15_3"
+                "img":"15_1"
                 },   
    			    {"txt":"Example: the company ensures its technical support is available by phone and by live chat software.",
                 "audio":"15_4",
-                "img":"15_4"
+                "img":"15_1"
                 },   
 
                {"txt":"Integrated Accessibility Standards",
@@ -318,27 +325,27 @@
                 },  
 			    {"txt":"This standard came into force on July 1, 2011 with phased compliance.",
                 "audio":"16_2",
-                "img":"16_2"
+                "img":"16_1"
                 },  
 			    {"txt":"The Integrated Accessibility Standard addresses the following four areas:",
                 "audio":"16_3",
-                "img":"16_3"
+                "img":"16_1"
                 },  
 			    {"txt":"1. Information and Communications",
                 "audio":"16_4",
-                "img":"16_4"
+                "img":"16_1"
                 },  
 			    {"txt":"2. Employment",
                 "audio":"16_5",
-                "img":"16_5"
+                "img":"16_1"
                 },  
 			    {"txt":"3. Transportation",
                 "audio":"16_6",
-                "img":"16_6"
+                "img":"16_1"
                 },  
 			    {"txt":"4. Built Environment",
                 "audio":"16_7",
-                "img":"16_7"
+                "img":"16_1"
                 },  
 
 	            {"txt":"General Requirements for Organizations under the Integrated Accessibility Standards",
@@ -351,7 +358,7 @@
                 }, 
 			    {"txt":"They should include a statement of organizational commitment to meet the accessibility needs of persons with disabilities in their policies.",
                 "audio":"17_2",
-                "img":"17_2"
+                "img":"17_1"
                 }, 
 			    {"txt":"All organizations must develop written documents on policies.",
                 "audio":"17_3",
@@ -363,39 +370,41 @@
                 }, 
 			    {"txt":"Small private organizations with less than 50 employees are exempt from developing written documents and statements of commitment.",
                 "audio":"17_5",
-                "img":"17_5"
+                "img":"17_4"
                 }, 
+
 			    {"txt":"Accessibily Plans: all organizations in Ontario must develop a multi-year accessibility plan.",
                 "audio":"18_1",
                 "img":"18_1"
                 }, 
 			    {"txt":"It should be posted on the website and provided in an accessible format upon request.",
                 "audio":"18_2",
-                "img":"18_2"
+                "img":"18_1"
                 }, 
 			    {"txt":"The plan should be reviewed and updated at least once every five years.",
                 "audio":"18_3",
-                "img":"18_3"
+                "img":"18_1"
                 }, 
 			    {"txt":"Small private organizations with less than 50 employees are excempt from developing accessibility plans.",
                 "audio":"18_4",
-                "img":"18_4"
+                "img":"18_1"
                 }, 
+
 			    {"txt":"Training: all organizations in Ontario must train their staff on the Accessibility Standards and Human Rights Code.",
                 "audio":"19_1",
                 "img":"19_1"
                 }, 
 			    {"txt":"The training should be based on their duties. The organizations must keep a record of the training provided.",
                 "audio":"19_2",
-                "img":"19_2"
+                "img":"19_1"
                 }, 
 			    {"txt":"Other General Requirements: there are accessibility criteria for procuring or acquiring goods, services or facilities for public sectors.",
                 "audio":"19_3",
-                "img":"19_3"
+                "img":"19_1"
                 }, 
 			    {"txt":"Self-service kiosks.",
                 "audio":"19_4",
-                "img":"19_4"
+                "img":"19_1"
                 }, 
 
 			    {"txt":"Accessibility Report",
@@ -408,7 +417,7 @@
                 }, 
 			    {"txt":"Small private organizations with less than 50 employees are excempt from filling accessibility reports.",
                 "audio":"20_2",
-                "img":"20_2"
+                "img":"20_1"
                 }, 
 
 			    {"txt":"Integrated Accessibility Standards",
@@ -421,12 +430,68 @@
                 }, 
 			    {"txt":"All the organizations in Ontario must notify the availability of accessible formats and communication supports to the public.",
                 "audio":"21_2",
-                "img":"21_2"
+                "img":"21_1"
                 }, 
-			    {"txt":"For Example: braille, audio formats, electronic formats, large print, sign language, captioning, assistive listening systems.",
+			    {"txt":"For Example: braille, audio formats",
                 "audio":"21_3",
                 "img":"21_3"
                 }, 
+                {"txt":"electronic formats, large print, sign language, captioning, assistive listening systems.",
+                "audio":"21_4",
+                "img":"21_4"
+                }, 
+                {"txt":"sign language, captioning,",
+                "audio":"21_5",
+                "img":"21_5"
+                }, 
+                {"txt":"assistive listening systems.",
+                "audio":"21_6",
+                "img":"21_6"
+                }, 
+
+                {"txt":"Employment Standards: all organizations in Ontario must notify the availability of accomodation for applicants with disabilities in their recruitment processes to their employees and to the public.",
+                "audio":"22a_1",
+                "img":"22a_1"
+                }, 
+                {"txt":"Selected job applicants for any assessment should be notified that accommodations are available upon request.",
+                "audio":"22a_2",
+                "img":"22a_2"
+                }, 
+                {"txt":"The organizations must ensure that the accessibility needs of employees are to be incorporated into their human resources policies.",
+                "audio":"22a_3",
+                "img":"22a_3"
+                }, 
+                {"txt":"The employees must be notified on company policies.",
+                "audio":"22a_4",
+                "img":"22a_4"
+                }, 
+                {"txt":"For example: return to work program, performance management, career development and advancement, redeployment.",
+                "audio":"22a_5",
+                "img":"22a_5"
+                }, 
+
+                 {"txt":"The organizations must develop and implement a return to work process for their employees and the process should be documented.",
+                "audio":"22b_1",
+                "img":"22b_1"
+                }, 
+                 {"txt":"The organizations must develop and implement a written process for the development of documented individual accommodation plans for employees with disabilities.",
+                "audio":"22b_2",
+                "img":"22b_2"
+                }, 
+                 {"txt":"Individualized emergency response information should be provided to an employee with a disability, when necessary.",
+                "audio":"22b_3",
+                "img":"22b_3"
+                }, 
+                 {"txt":"Accessible formats and communication supports on any information should be provided upon request.",
+                "audio":"22b_4",
+                "img":"22b_4"
+                }, 
+                 {"txt":"Small private organizations with less than 50 employees are exempt from developing a return to work process and a documented individual accommodation plan.",
+                "audio":"22b_5",
+                "img":"22b_5"
+                }, 
+
+
 			    {"txt":"The organizations must ensure that the processes for receiving and responding to feedback will be incorporated with provision of accessibility formats and communications supports at no extra cost.",
                 "audio":"22_1",
                 "img":"22_1"
