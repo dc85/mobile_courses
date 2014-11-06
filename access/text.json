@@ -436,7 +436,7 @@
                 "audio":"21_3",
                 "img":"21_3"
                 }, 
-                {"txt":"electronic formats, large print, sign language, captioning, assistive listening systems.",
+                {"txt":"electronic formats, large print",
                 "audio":"21_4",
                 "img":"21_4"
                 }, 
@@ -571,11 +571,11 @@
                 "audio":"26_1",
                 "img":"26_1"
                 }, 
-			    {"txt":"a) any degree of physical disability, infirmity, malformation or disfigurement that is caused by:",
+			    {"txt":"a) any degree of physical disability, infirmity, malformation or disfigurement that is caused by: bodily injury,",
                 "audio":"26_2",
                 "img":"26_1"
                 }, 
-			    {"txt":"bodily injury, birth defect or illness and, without limiting the generality of the foregoing, includes:",
+			    {"txt":"birth defect or illness and, without limiting the generality of the foregoing, includes:",
                 "audio":"26_3",
                 "img":"26_1"
                 }, 
@@ -670,6 +670,7 @@
                 "audio":"29_9",
                 "img":"29_1"
                 }, 
+
 			    {"txt":"Identify landmarks or other details to orient the person to the environment.",
                 "audio":"30_1",
                 "img":"30_1"
@@ -682,11 +683,11 @@
                 "audio":"30_3",
                 "img":"30_1"
                 }, 
-			    {"txt":"Be clear and precise when giving directions, for example, 'two steps behind you, a metre to your left'",
+			    {"txt":"Be clear and precise when giving directions, for example, 'two steps behind you, a metre to your left' etc.",
                 "audio":"30_4",
                 "img":"30_1"
                 }, 
-			    {"txt":"etc. Do not use 'over there' or point in the direction.",
+			    {"txt":"Do not use 'over there' or point in the direction.",
                 "audio":"30_5",
                 "img":"30_1"
                 }, 
@@ -1119,7 +1120,7 @@
                 "audio":"43_1",
                 "img":"43_1"
                 },  
-			    {"txt":"unless the animal is otherwise excluded by law from premises.",
+			    {"txt":"unless the animal is otherwise excluded by law from the premises.",
                 "audio":"43_2",
                 "img":"43_1"
                 },  
@@ -1191,11 +1192,11 @@
                 "audio":"45_0",
                 "title":"1"
                 },  
-			    {"txt":"A support person is an individual hired or chosen to accompany a person with disability to provide services",
+			    {"txt":"A support person is an individual hired or chosen to accompany a person with disability ",
                 "audio":"45_1",
                 "img":"45_1"
                 },  
-			    {"txt":"or assistance with communication, mobility, personal care, medical needs or access to goods or services.",
+			    {"txt":"to provide services or assistance with communication, mobility, personal care, medical needs or access to goods or services.",
                 "audio":"45_2",
                 "img":"45_1"
                 },  
