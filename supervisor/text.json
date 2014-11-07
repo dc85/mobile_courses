@@ -1,7 +1,7 @@
 {
     "prefix":"",
     "slides":[
-                {"txt":"Supervisor Health and Safety Awareness in 5 Steps",
+                {"txt":"Health and Safety at Work: Supervisor Health and Safety Awareness in 5 Steps",
                 "audio":"1_0",
                 "title":"1"
                 },
@@ -27,19 +27,19 @@
                 "audio":"3_0",
                 "title":"1"
                 },
-                {"txt":"Step 1: Make a difference",
+                {"txt":"Step 1: Make a difference\n\n\n\n\n",
                 "audio":"3_1",
                 "bullet":"1"
                 },
-                {"txt":"Step 1: Make a difference\nStep 2: Lead the Way",
+                {"txt":"Step 1: Make a difference\nStep 2: Lead the Way\n\n\n\n",
                 "audio":"3_2",
                 "bullet":"1"
                 },
-                {"txt":"Step 1: Make a difference\nStep 2: Lead the Way\nStep 3: The Supervisor's Toolkit",
+                {"txt":"Step 1: Make a difference\nStep 2: Lead the Way\nStep 3: The Supervisor's Toolkit\n\n\n",
                 "audio":"3_3",
                 "bullet":"1"
                 },
-                {"txt":"Step 1: Make a difference\nStep 2: Lead the Way\nStep 3: The Supervisor's Toolkit\nStep 4: You Are Not Alone",
+                {"txt":"Step 1: Make a difference\nStep 2: Lead the Way\nStep 3: The Supervisor's Toolkit\nStep 4: You Are Not Alone\n\n",
                 "audio":"3_4",
                 "bullet":"1"
                 },
@@ -344,12 +344,8 @@
                 "audio":"16_1",
                 "img":"16_1"
                 },
-                {"txt":"Workers can become involved by:",
+                {"txt":"Workers can become involved by: asking questions regarding the health and safety practices in the workplace.",
                 "audio":"16_2",
-                "img":"16_1"
-                },
-                {"txt":"Asking questions regarding the health and safety practices in the workplace.",
-                "audio":"16_3",
                 "img":"16_1"
                 },
                 {"txt":"Raising concerns.",
@@ -360,7 +356,7 @@
                 "audio":"16_5",
                 "img":"16_1"
                 },
-                {"txt":"Becoming a member of the joint health and safety committee (JHSC).",
+                {"txt":"By becoming a member of the joint health and safety committee (JHSC).",
                 "audio":"16_6",
                 "img":"16_1"
                 },
@@ -485,7 +481,7 @@
                 "img":"20_1"
                 },
                 {"txt":"Supervisors may exercise the right to refuse unsafe work in the circumstances specified in the OHSA.",
-                "audio":"20_2",
+                "audio":"20_3",
                 "img":"20_1"
                 },
 
@@ -764,12 +760,8 @@
                 "audio":"33_0",
                 "title":"1"
                 }, 
-                {"txt":"If a supervisor feels that they lack the necessary knowledge,",
+                {"txt":"If a supervisor feels that they lack the necessary knowledge, training and experience to carry out their duties,",
                 "audio":"33_1",
-                "img":"33_1"
-                }, 
-                {"txt":"training and experience to carry out their duties,",
-                "audio":"33_2",
                 "img":"33_1"
                 }, 
                 {"txt":"it is important that you talk to the employer.",
