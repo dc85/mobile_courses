@@ -126,11 +126,11 @@
                 "audio":"5_0",
                 "title":"1"
                 },
-                {"txt":"Workplace harassment is defined as: engaging in a course of vexatious comment or conduct against a worker,",
+                {"txt":"Workplace harassment is defined as: engaging in a course of vexatious comment or conduct against a worker in a workplace,",
                 "audio":"5_1",
                 "img":"3_1"
                 },
-                {"txt":"in a workplace, that is known or ought reasonably to be known to be unwelcome.",
+                {"txt":"that is known or ought reasonably to be known to be unwelcome.",
                 "audio":"5_2",
                 "img":"3_1"
                 },
@@ -239,7 +239,7 @@
                 "img":"10_1"
                 },
 
-                {"txt":"Handling a Workplace Harassment Incident",
+                {"txt":"Handling a Workplace Violence Incident",
                 "audio":"11_0",
                 "title":"1"
                 },
@@ -325,7 +325,7 @@
                 "audio":"14_3",
                 "img":"14_1"
                 },
-                {"txt":"Rude and offensive behavior, bullying insubordination, unintentional violent behavior because of medical conditions, history of violence.",
+                {"txt":"Rude and offensive behavior, bullying, insubordination, unintentional violent behavior because of medical conditions, history of violence.",
                 "audio":"14_4",
                 "img":"14_1"
                 },
@@ -395,6 +395,29 @@
                 "audio":"16_5",
                 "img":"6_1"
                 },
+                
+                {"txt":"Managers or supervisors who feel that member(s) of their team are being bullied are recommended to do the following:",
+                "audio":"16b_1",
+                "img":"16b_1"
+                },
+                {"txt":"Talk to the victim(s) and get the details of all incidents of bullying:",
+                "audio":"16b_2",
+                "img":"16b_1"
+                },
+                {"txt":"Document the incidents to include the following:",
+                "audio":"16b_3",
+                "img":"16b_1"
+                },
+                {"txt":"The date, time and what happened in as much detail as possible; the names of witnesses; the outcome of the event.",
+                "audio":"16b_4",
+                "img":"16b_1"
+                },
+                {"txt":"The key to identifying bullying behaviour is the number and frequency of incidents that can establish a pattern of harassment.",
+                "audio":"16b_5",
+                "img":"16b_1"
+                },
+
+
 
                 {"txt":"Responding to Behavioural Issues: Insubordination",
                 "audio":"17_0",
