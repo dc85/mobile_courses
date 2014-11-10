@@ -2,187 +2,183 @@
     "prefix":"",
     "slides":[
                 {"txt":"Handling and Preventing Workplace Violence & Harassment for Managers",
-                "audio":"1_0",
+                "audio":"0_0",
                 "title":"1"
                 },
 
                 {"txt":"Course Outline",
+                "audio":"1_0",
+                "title":"1"
+                },
+                {"txt":"Introduction",
+                "audio":"1_1",
+                "bullet":"1"
+                },
+                {"txt":"Introduction\nDefinitions",
+                "audio":"1_2",
+                "bullet":"1"
+                },
+                {"txt":"Introduction\nDefinitions\nSources of Workplace Violence and Harassment",
+                "audio":"1_3",
+                "bullet":"1"
+                },
+                {"txt":"Introduction\nDefinitions\nSources of Workplace Violence and Harassment\nWarning signs for Workplace Violence and Harassment",
+                "audio":"1_4",
+                "bullet":"1"
+                },
+                {"txt":"Responding to Workplace Violence and Harassment",
+                "audio":"1_5",
+                "bullet":"1"
+                },
+                {"txt":"Responding to Workplace Violence and Harassment\nResponsibilities",
+                "audio":"1_6",
+                "bullet":"1"
+                },
+                {"txt":"Responding to Workplace Violence and Harassment\nResponsibilities\nRespect in the workplace",
+                "audio":"1_7",
+                "bullet":"1"
+                },
+
+                {"txt":"Introduction",
                 "audio":"2_0",
                 "title":"1"
                 },
-                {"txt":"Introduction",
-                "audio":"2_1",
-                "bullet":"2_1"
-                },
-                {"txt":"Introduction\nDefinitions",
-                "audio":"2_2",
-                "bullet":"2_2"
-                },
-                {"txt":"Introduction\nDefinitions\nSources of Workplace Violence and Harassment",
-                "audio":"2_3",
-                "bullet":"2_3"
-                },
-                {"txt":"Introduction\nDefinitions\nSources of Workplace Violence and Harassment\nWarning signs for Workplace Violence and Harassment",
-                "audio":"2_4",
-                "bullet":"2_4"
-                },
-                {"txt":"Responding to Workplace Violence and Harassment",
-                "audio":"2_5",
-                "bullet":"2_5"
-                },
-                {"txt":"Responding to Workplace Violence and Harassment\nResponsibilities",
-                "audio":"2_6",
-                "bullet":"2_6"
-                },
-                {"txt":"Responding to Workplace Violence and Harassment\nResponsibilities\nRespect in the workplace",
-                "audio":"2_7",
-                "bullet":"2_7"
-                },
-
-                {"txt":"Introduction",
-                "audio":"3_0",
-                "title":"1"
-                },
                 {"txt":"The purpose of this training is to raise awareness of actions and situations that could contribute to workplace violence and harassment.",
-                "audio":"3_1",
-                "img":"3_1"
+                "audio":"2_1",
+                "bullet":"1"
                 }, 
                 {"txt":"The objective of this training is to make the participants aware of the laws,",
-                "audio":"3_2",
-                "img":"3_2"
+                "audio":"2_2",
+                "bullet":"1"
                 }, 
                 {"txt":"regulations and the organization's policies to handle workplace violence and harassment.",
-                "audio":"3_3",
-                "img":"3_3"
+                "audio":"2_3",
+                "bullet":"1"
                 }, 
                 {"txt":"This training does not address all possible situations or conditions and is not intended to be a substitute for seeking help from legal and human resources professionals when required.",
-                "audio":"3_4",
-                "img":"3_4"
+                "audio":"2_4",
+                "bullet":"1"
                 }, 
                 {"txt":"If you have any questions or issues regarding workplace violence or harassment, please contact your Human Resources Manager.",
-                "audio":"3_5",
-                "img":"3_5"
+                "audio":"2_5",
+                "bullet":"1"
                 }, 
 
                 {"txt":"What is Workplace Violence?",
-                "audio":"4_0",
+                "audio":"3_0",
                 "title":"1"
                 },
                 {"txt":"Workplace violence is defined as: the exercise of a physical force by a person against a worker, in a workplace, that causes or could cause physical injury to the worker.",
-                "audio":"4_1",
-                "img":"4_1"
+                "audio":"3_1",
+                "img":"3_1"
                 },
                 {"txt":"It also includes: an attempt to exercise physical force against a worker, in a workplace, that could cause physical injury to the worker.",
-                "audio":"4_2",
-                "img":"4_2"
+                "audio":"3_2",
+                "img":"3_1"
                 },
                 {"txt":"And: a statement or behaviour that is reasonable for a worker to interpret as a threat to exercise physical force against the worker,",
-                "audio":"4_3",
-                "img":"4_3"
+                "audio":"3_3",
+                "img":"3_1"
                 },
                 {"txt":"in a workplace, that could cause physical injury to the worker.",
-                "audio":"4_4",
-                "img":"4_4"
+                "audio":"3_4",
+                "img":"3_1"
                 },
 
                 {"txt":"Examples of Workplace Violence",
-                "audio":"5_0",
+                "audio":"4_0",
                 "title":"1"
                 },
                 {"txt":"Hitting or trying to hit someone",
-                "audio":"5_1",
-                "img":"5_1"
+                "audio":"4_1",
+                "img":"4_1"
                 },
                 {"txt":"Verbally threatening to attack a person",
-                "audio":"5_2",
-                "img":"5_2"
+                "audio":"4_2",
+                "img":"4_1"
                 },
                 {"txt":"Leaving threatening notes or sending threatening e-mails to a workplace",
-                "audio":"5_3",
-                "img":"5_3"
+                "audio":"4_3",
+                "img":"4_1"
                 },
                 {"txt":"Shaking a fist at someone's face",
-                "audio":"5_4",
-                "img":"5_4"
+                "audio":"4_4",
+                "img":"4_4"
                 },
                 {"txt":"Wielding a weapon at work",
-                "audio":"5_5",
-                "img":"5_5"
+                "audio":"4_5",
+                "img":"4_4"
                 },
                 {"txt":"Throwing an object at someone",
-                "audio":"5_6",
-                "img":"5_6"
+                "audio":"4_6",
+                "img":"4_4"
                 },
                 {"txt":"Sexual violence against someone",
-                "audio":"5_7",
-                "img":"5_7"
+                "audio":"4_7",
+                "img":"4_4"
                 },
                 {"txt":"Trying to run down a person using a vehicle or equipment, such as a forklift",
-                "audio":"5_8",
-                "img":"5_8"
+                "audio":"4_8",
+                "img":"4_4"
                 },
 
                 {"txt":"What is Workplace Harassment?",
-                "audio":"6_0",
+                "audio":"5_0",
                 "title":"1"
                 },
                 {"txt":"Workplace harassment is defined as: engaging in a course of vexatious comment or conduct against a worker,",
-                "audio":"6_1",
-                "img":"6_1"
+                "audio":"5_1",
+                "img":"3_1"
                 },
                 {"txt":"in a workplace, that is known or ought reasonably to be known to be unwelcome.",
-                "audio":"6_2",
-                "img":"6_2"
+                "audio":"5_2",
+                "img":"3_1"
                 },
                 {"txt":"Workplace harassment can involve unwelcome words or actions that are known or should be known to be offensive, embarassing, humiliating or demeaning to another employee(s).",
-                "audio":"6_3",
-                "img":"6_3"
+                "audio":"5_3",
+                "img":"3_1"
                 },
                 {"txt":"It can also include behavior that intimidates, isolates or even discriminates against targeted individuals.",
-                "audio":"6_4",
-                "img":"6_4"
+                "audio":"5_4",
+                "img":"3_1"
                 },
 
                 {"txt":"Examples of workplace Harassment",
-                "audio":"7_0",
+                "audio":"6_0",
                 "title":"1"
                 },
                 {"txt":"Making remarks, jokes or innuendos that demean, redicule, intimidate, or offend a person.",
-                "audio":"7_1",
-                "img":"7_1"
+                "audio":"6_1",
+                "img":"6_1"
                 },
                 {"txt":"Displaying or circulating offensive pictures or materials in print or electronic form.",
-                "audio":"7_2",
-                "img":"7_2"
+                "audio":"6_2",
+                "img":"6_1"
                 },
-                {"txt":"Bullying",
-                "audio":"7_3",
-                "img":"7_3"
-                },
-                {"txt":"Inappropriate touching, advances, suggestions or requests.",
-                "audio":"7_4",
-                "img":"7_4"
+                {"txt":"Bullying; Inappropriate touching, advances, suggestions or requests.",
+                "audio":"6_3",
+                "img":"6_1"
                 },
 
                 {"txt":"What is not Harassment?",
-                "audio":"8_0",
+                "audio":"7_0",
                 "title":"1"
                 },
                 {"txt":"Any reasonable conduct or action that is considered to be part of a manager's or supervisor's work function",
-                "audio":"8_1",
-                "img":"8_1"
+                "audio":"7_1",
+                "img":"7_1"
                 },
                 {"txt":"that produces an unpleasant consequence for an employee is not considered to be workplace harassment.",
-                "audio":"8_2",
-                "img":"8_2"
+                "audio":"7_2",
+                "img":"7_1"
                 },
                 {"txt":"Examples of such actions or conduct are",
-                "audio":"8_3",
-                "img":"8_3"
+                "audio":"7_3",
+                "img":"7_3"
                 },
                 {"txt":"Disciplinary actions; job assessment and evaluation; implementation of dress codes; change in work schedules and assignments; workplace inspections.",
-                "audio":"8_4",
-                "img":"8_4"
+                "audio":"7_4",
+                "img":"7_3"
                 },
 
                 {"txt":"Handling Workplace Violence Incidents",
@@ -195,15 +191,15 @@
                 },
                 {"txt":"Critical information such as the following must be provided:",
                 "audio":"9_2",
-                "img":"9_2"
+                "img":"9_1"
                 },
                 {"txt":"The nature of the incident; whether emergency services are required; whether alleged offender(s) are still present; whether weapons are invovled.",
                 "audio":"9_3",
-                "img":"9_3"
+                "img":"9_1"
                 },
                 {"txt":"Human resources or senior management must then be immediately contacted and informed of the situation.",
                 "audio":"9_4",
-                "img":"9_4"
+                "img":"9_1"
                 },
 
                 {"txt":"Responding to Violence",
@@ -216,31 +212,31 @@
                 },
                 {"txt":"Always remain calm; if you are going to signal for help, do so quietly.",
                 "audio":"10_2",
-                "img":"10_2"
+                "img":"10_1"
                 },
                 {"txt":"Maintain eye contact with the person.",
                 "audio":"10_3",
-                "img":"10_3"
+                "img":"10_1"
                 },
                 {"txt":"Do not risk the possibility of harm for yourself or others.",
                 "audio":"10_4",
-                "img":"10_4"
+                "img":"10_1"
                 },
                 {"txt":"Do not try to grab the weapon.",
                 "audio":"10_5",
-                "img":"10_5"
+                "img":"10_1"
                 },
                 {"txt":"Follow all instructions from the person who is threatening you.",
                 "audio":"10_6",
-                "img":"10_6"
+                "img":"10_1"
                 },
                 {"txt":"Escape to a safe location only if you can do so without risk.",
                 "audio":"10_7",
-                "img":"10_7"
+                "img":"10_1"
                 },
                 {"txt":"It is important to note that an individual may become unintentionally violent due to medical conditions.",
                 "audio":"10_8",
-                "img":"10_8"
+                "img":"10_1"
                 },
 
                 {"txt":"Handling a Workplace Harassment Incident",
@@ -253,19 +249,19 @@
                 },
                 {"txt":"Managers and Supervisors are recommended to perform the following:",
                 "audio":"11_2",
-                "img":"11_2"
+                "img":"11_1"
                 },
                 {"txt":"Inform the person who is harassing to stop the behavior immediately.",
                 "audio":"11_3",
-                "img":"11_3"
+                "img":"11_1"
                 },
                 {"txt":"If it is not possible to inform that the person or if the person does not stop the behavior, contact human resources immediately.",
                 "audio":"11_4",
-                "img":"11_4"
+                "img":"11_1"
                 },
                 {"txt":"It is important to ensure all employees of the organization are trained and that they understand what is workplace violence and harassment.",
                 "audio":"11_5",
-                "img":"11_5"
+                "img":"11_1"
                 },
 
                 {"txt":"Sources of Violence and Harassment",
@@ -275,13 +271,14 @@
                 {"txt":"The key to preventing violence and harassment is to understand all potential sources of violence.",
                 "audio":"12_1",
                 "img":"12_1"
-                }, {"txt":"Workplace violence and harassment can come from the following sources:",
+                }, 
+                {"txt":"Workplace violence and harassment can come from the following sources:",
                 "audio":"12_2",
-                "img":"12_2"
+                "img":"12_1"
                 },
                 {"txt":"Employees: workers, managers and supervisors who work for the organization.",
                 "audio":"12_3",
-                "img":"12_3"
+                "img":"12_1"
                 },
                 {"txt":"Domestic relationships: domestic relationships are persons who have or have had a personal relationship outside of work with an employee.",
                 "audio":"12_4",
@@ -289,7 +286,7 @@
                 },
                 {"txt":"Domestic relationships include current or former spouse, relative, friend or an acquaintance.",
                 "audio":"12_5",
-                "img":"12_5"
+                "img":"12_4"
                 },
                 {"txt":"Customers: customers are people who regularly conduct business with the organization. Customers can be clients, patients, shoppers, etc.",
                 "audio":"12_6",
@@ -301,7 +298,7 @@
                 },
                 {"txt":"Examples of external staff are contractors, consultants, couriers, etc.",
                 "audio":"12_8",
-                "img":"12_8"
+                "img":"12_7"
                 },
                 {"txt":"Outsiders: outsiders are individuals who have no legitimate business with the organization.",
                 "audio":"12_9",
@@ -309,7 +306,7 @@
                 },
                 {"txt":"Managers must know and understand the company policies and procedures in dealing with and preventing the violence and harassment from any of the sources.",
                 "audio":"12_10",
-                "img":"12_10"
+                "img":"12_9"
                 },
 
                 {"txt":"Preventing Employee Violence and Harassment",
@@ -322,23 +319,23 @@
                 },
                 {"txt":"Warning signs for workplace violence or harassment can come from:",
                 "audio":"14_2",
-                "img":"14_2"
+                "img":"14_1"
                 },
                 {"txt":"A person's behavior or personality, such as:",
                 "audio":"14_3",
-                "img":"14_3"
+                "img":"14_1"
                 },
                 {"txt":"Rude and offensive behavior, bullying insubordination, unintentional violent behavior because of medical conditions, history of violence.",
                 "audio":"14_4",
-                "img":"14_4"
+                "img":"14_1"
                 },
                 {"txt":"Changes in work conditions, such as corporate restructuring or change in job assignments.",
                 "audio":"14_5",
-                "img":"14_5"
+                "img":"14_1"
                 },
                 {"txt":"Changes in their personal life, such as the loss of a loved one, divorce or bankruptcy.",
                 "audio":"14_6",
-                "img":"14_6"
+                "img":"14_1"
                 },
 
                 {"txt":"Responding to Behavioural Issues: Rude and Offensive Behavior",
@@ -351,27 +348,27 @@
                 },
                 {"txt":"Using foul and inappropriate language, presenting offensive material, slamming doors, being loud and disturbing.",
                 "audio":"15_2",
-                "img":"15_2"
+                "img":"15_1"
                 },
                 {"txt":"Managers and supervisors have the following options when it comes to responding to rude behaviour:",
                 "audio":"15_3",
-                "img":"15_3"
+                "img":"15_1"
                 },
                 {"txt":"Politesly but firmly inform the person(s) of the behaviour and tell them to stop it.",
                 "audio":"15_4",
-                "img":"15_4"
+                "img":"15_1"
                 },
                 {"txt":"Talk to the person(s) privately about the offensive behaviour and inform them that such behaviour is unacceptable.",
                 "audio":"15_5",
-                "img":"15_5"
+                "img":"15_1"
                 },
                 {"txt":"Talk to the person(s) in the presence of Human Resources. Human resources can assist in investigating the incident and initiating the appropriate actions.",
                 "audio":"15_6",
-                "img":"15_6"
+                "img":"15_1"
                 },
                 {"txt":"Managers and supervisors invovled in responding to incidents will have full support from human resources and senior management.",
                 "audio":"15_7",
-                "img":"15_7"
+                "img":"15_1"
                 },
 
                 {"txt":"Responding to Behavioural Issues: Bullying",
@@ -380,23 +377,23 @@
                 },
                 {"txt":"The most common form of disruptive behavior in the workplace is bullying.",
                 "audio":"16_1",
-                "img":"16_1"
+                "img":"6_1"
                 },
                 {"txt":"Bullying usually involves repeated incidents or a pattern of behaviour that is intended to intimidate, offend or humiliate a particular person or group of people.",
                 "audio":"16_2",
-                "img":"16_2"
+                "img":"6_1"
                 },
                 {"txt":"Examples include: targeting a person(s) for gossip or rumours;",
                 "audio":"16_3",
-                "img":"16_3"
+                "img":"6_1"
                 },
                 {"txt":"Ridiculing a person(s) regularly in front of others;",
                 "audio":"16_4",
-                "img":"16_4"
+                "img":"6_1"
                 },
                 {"txt":"Consistently having a person or a group of people be the victim of unwanted statements or jokes.",
                 "audio":"16_5",
-                "img":"16_5"
+                "img":"6_1"
                 },
 
                 {"txt":"Responding to Behavioural Issues: Insubordination",
@@ -405,43 +402,44 @@
                 },
                 {"txt":"Insubordinate employee behaviour can become a cause of harassment and violence to managers and supervisors.",
                 "audio":"17_1",
-                "img":"17_1"
+                "img":"7_3"
                 },
                 {"txt":"Examples of insubordination are: refusal to accept criticism relating to job performance.",
                 "audio":"17_2",
-                "img":"17_2"
+                "img":"7_3"
                 },
                 {"txt":"Refusal to accept work assignments. Refusal to follow company policies and procedures.",
                 "audio":"17_3",
-                "img":"17_3"
+                "img":"7_3"
                 },
                 {"txt":"It is critical to deal with these difficult issues before the behaviour worsens or spreads.",
                 "audio":"17_4",
-                "img":"17_4"
+                "img":"7_3"
                 },
                 {"txt":"Allowing undisciplined behaviour to continue undermines your authority and sets a bad example for others.",
                 "audio":"17_5",
-                "img":"17_5"
+                "img":"7_3"
                 },
+
                 {"txt":"The following are recommended actions when dealing with insubordination:",
                 "audio":"17b_1",
                 "img":"17b_1"
                 },
                 {"txt":"You must clearly understand your organizations's policies, procedures, regulations and the best practices,",
                 "audio":"17b_2",
-                "img":"17b_2"
+                "img":"17b_1"
                 },
                 {"txt":"and ensure that you are not overstepping your boundaries or undervaluing your authority. Consult human resources to help you clarify your position.",
                 "audio":"17b_3",
-                "img":"17b_3"
+                "img":"17b_1"
                 },
                 {"txt":"Document all details of the infractions and keep accurate records to help establish a pattern of inappropriate behaviour.",
                 "audio":"17b_4",
-                "img":"17b_4"
+                "img":"17b_1"
                 },
                 {"txt":"Be objective when documenting dates, locations and details of the incidents.",
                 "audio":"17b_5",
-                "img":"17b_5"
+                "img":"17b_1"
                 },
 
                 {"txt":"Meet with the person in private (with human resources if needed) to discuss the nature of the incidents.",
@@ -450,19 +448,19 @@
                 },
                 {"txt":"Provide company policies that support your position as well as concrete examples of unacceptable behaviour.",
                 "audio":"17c_2",
-                "img":"17c_2"
+                "img":"17c_1"
                 },
                 {"txt":"Never make threats, get into shouting matches or launch personal attacks and compromise your professionalism.",
                 "audio":"17c_3",
-                "img":"17c_3"
+                "img":"17c_1"
                 },
                 {"txt":"Issue oral and written warnings as necessary to demonstrate the seriousness of the situation in accordance to the disciplinary policy.",
                 "audio":"17c_4",
-                "img":"17c_4"
+                "img":"17c_1"
                 },
                 {"txt":"Backing up your position with professional reprimands demonstrates your commitment to prevent insubordination.",
                 "audio":"17c_5",
-                "img":"17c_5"
+                "img":"17c_1"
                 },
 
                {"txt":"Responding to Behavioural issues: Unintentional Violence",
@@ -471,19 +469,19 @@
                 },
                 {"txt":"Managers and supervisors can face violence from people who do not have the intention to be violent.",
                 "audio":"18_1",
-                "img":"18_1"
+                "img":"4_1"
                 }, 
                 {"txt":"Examples of these situations are:",
                 "audio":"18_2",
-                "img":"18_2"
+                "img":"4_1"
                 }, 
                 {"txt":"Dealing with people who are unwell or who are under the influence of medications.",
                 "audio":"18_3",
-                "img":"18_3"
+                "img":"4_1"
                 }, 
                 {"txt":"Putting yourself at risk by trying to stop a violent situation.",
                 "audio":"18_4",
-                "img":"18_4"
+                "img":"4_1"
                 }, 
                 {"txt":"All employees who are unwell or who are under the influence of medication that could cause mood disorders should report the condition to their managers and supervisors.",
                 "audio":"18_5",
@@ -491,11 +489,11 @@
                 }, 
                 {"txt":"Employees are not to put themselves at risk if they witness a violent incident.",
                 "audio":"18_6",
-               "img":"18_6"
+               "img":"9_1"
                 }, 
                 {"txt":"They are encouraged to call security immediately.",
                 "audio":"18_7",
-                "img":"18_7"
+                "img":"9_1"
                 }, 
 
                 {"txt":"Responding to Behavioral Issues: History of Violence",
@@ -504,19 +502,19 @@
                 },
                 {"txt":"All managers and supervisors have the right to know about an employee's past history of violent behaviour.",
                 "audio":"19_1",
-                "img":"19_1"
+                "img":"17c_1"
                 },
                 {"txt":"If an employee has an history of violence, the circumstance relating to their past history must be informed to their colleagues",
                 "audio":"19_2",
-                "img":"19_2"
+                "img":"17c_1"
                 },
                 {"txt":"without disclosing any information on the violent person that is not needed for protection of other employees.",
                 "audio":"19_3",
-                "img":"19_3"
+                "img":"17c_1"
                 },
                 {"txt":"Managers and supervisors will be contacted by human resources about how to deal with employees who have a past history of violent behaviour.",
                 "audio":"19_4",
-                "img":"19_4"
+                "img":"17c_1"
                 },
 
                 {"txt":"Responding to Sudden Behaviour Changes",
@@ -529,27 +527,27 @@
                 },
                 {"txt":"Persistent complaints about unfair treatment; sharp rise in absenteeism; deterioration of work performance.",
                 "audio":"20_2",
-                "img":"20_2"
+                "img":"20_1"
                 },
                 {"txt":"Mood swings or depression; constant blame on colleagues for personal problems;",
                 "audio":"20_3",
-                "img":"20_3"
+                "img":"20_1"
                 },
                 {"txt":"Unwanted attention towards other colleagues, such as sending inappropriate gifts, notes or phone calls;",
                 "audio":"20_4",
-                "img":"20_4"
+                "img":"20_1"
                 },
                 {"txt":"Unreasonably high demand for a manager's or supervisor's time.",
                 "audio":"20_5",
-                "img":"20_5"
+                "img":"20_1"
                 },
                 {"txt":"A sudden change in employee behaviour is usually due to changes at work or in their personal life.",
                 "audio":"20_6",
-                "img":"20_6"
+                "img":"20_1"
                 },
                 {"txt":"Managers and supervisors should seek advice from human resources in handling such situations.",
                 "audio":"20_7",
-                "img":"20_7"
+                "img":"20_1"
                 },
 
                {"txt":"Violence due to Changes in Work Conditions",
@@ -562,27 +560,27 @@
                 }, 
                 {"txt":"The following are changes in work conditions that could create violent situations:",
                 "audio":"21_2",
-                "img":"21_2"
+                "img":"21_1"
                 }, 
                 {"txt":"Layoffs and re-structuring; public criticism or redicule by a colleague, supervisor or manager.",
                 "audio":"21_3",
-                "img":"21_3"
+                "img":"21_1"
                 }, 
                 {"txt":"Sudden and sharp rise in the employee's workload; inability to cope in a new job, promotion or transfer.",
                 "audio":"21_4",
-                "img":"21_4"
+                "img":"21_1"
                 }, 
                 {"txt":"Job discipline, denial of promotions, demotions or poor job appraisals.",
                 "audio":"21_5",
-                "img":"21_5"
+                "img":"21_1"
                 }, 
                 {"txt":"Managers and supervisors must be attentive to their team members morale and well being during a change in work conditions.",
                 "audio":"21_6",
-                "img":"21_6"
+                "img":"21_1"
                 },
                 {"txt":"As soon as a manger or supervisor feels that an employee is not able to cope with the work conditions, they should consult with human resources.",
                 "audio":"21_7",
-                "img":"21_7"
+                "img":"21_1"
                 },
 
                 {"txt":"Responding to Work Changes",
@@ -595,23 +593,23 @@
                 },
                 {"txt":"Managers or supervisors are encouraged to follow the motto of 'praise in public' and 'criticise in private'.",
                 "audio":"22_2",
-                "img":"22_2"
+                "img":"22_1"
                 },
                 {"txt":"All remarks must be made in private and ridiculing a person at work is clearly unprofessional behaviour.",
                 "audio":"22_3",
-                "img":"22_3"
+                "img":"22_1"
                 },
                 {"txt":"Job discipline, promotions and appraisals have to be completed in accordance to established standards and policies.",
                 "audio":"22_4",
-                "img":"22_4"
+                "img":"22_1"
                 },
                 {"txt":"Managers and supervisors should be trained on giving fair the impartial job appraisals based on facts, incidents and objectives.",
                 "audio":"22_5",
-                "img":"22_5"
+                "img":"22_1"
                 },
                 {"txt":"The key to establishing a pattern is to document the incidents and performance deterioration in detail, prior to presenting to human resources.",
                 "audio":"22_6",
-                "img":"22_6"
+                "img":"22_1"
                 },
 
                 {"txt":"Adverse Personal Life Changes",
@@ -620,19 +618,19 @@
                 },
                 {"txt":"Tragic events and changes in an employee's personal life can have a profound influence on behaviour at work.",
                 "audio":"23_1",
-                "img":"23_1"
+                "img":"20_1"
                 },
                 {"txt":"The following are some of the triggering incidents that can cause an employee to become violent:",
                 "audio":"23_2",
-                "img":"23_2"
+                "img":"20_1"
                 },
                 {"txt":"Loss of a loved one; divorce or separation; illness or health issues involving family members;",
                 "audio":"23_3",
-                "img":"23_3"
+                "img":"20_1"
                 },
                 {"txt":"Adverse financial problems, such as home foreclosure or bankruptcy; personal or family crisis.",
                 "audio":"23_4",
-                "img":"23_4"
+                "img":"20_1"
                 },
 
                 {"txt":"Responding to Adverse Personal Life Changes",
@@ -645,11 +643,11 @@
                 }, 
                 {"txt":"Managers and supervisors should also consult with human resources as certain cases would require a lot more attention as well as professional help.",
                 "audio":"24_2",
-                "img":"24_2"
+                "img":"24_1"
                 }, 
                 {"txt":"Employees should be informed that they can report their concerns to their employer if they fear domestic violence can enter the workplace.",
                 "audio":"24_3",
-                "img":"24_3"
+                "img":"24_1"
                 }, 
 
                 {"txt":"Workplace Domestic Violence",
@@ -662,67 +660,69 @@
                 },
                 {"txt":"Workplace domestic violence occurs when a person who has a personal relationship with an employee, such as:",
                 "audio":"25_2",
-                "img":"25_2"
+                "img":"25_1"
                 },
                 {"txt":"a current or former spouse, partner or family member may physically harm, threaten or hrass that employee at work.",
                 "audio":"25_3",
-                "img":"25_3"
+                "img":"25_1"
                 },
+
                 {"txt":"If you witness a cluster of the following warning signs in the workplace, you can reasonably suspect domestic abuse:",
                 "audio":"25b_1",
                 "img":"25b_1"
                 },
                 {"txt":"Bruises and other signs of impact on the skin, with the excuse of 'accidents'",
                 "audio":"25b_2",
-                "img":"25b_2"
+                "img":"25b_1"
                 },
                 {"txt":"Depression, crying; frequent and sudden absences; frequent lateness;",
                 "audio":"25b_3",
-                "img":"25b_3"
+                "img":"25b_1"
                 },
                 {"txt":"Frequent, harassing phone calls to the person while they are at work;",
                 "audio":"25b_4",
-                "img":"25b_4"
+                "img":"25b_1"
                 },
                 {"txt":"Fear of the partner, references to the partner's anger;",
                 "audio":"25b_5",
-                "img":"25b_5"
+                "img":"25b_1"
                 },
                 {"txt":"Decreased productivity and attentiveness;",
                 "audio":"25b_6",
-                "img":"25b_6"
+                "img":"25b_1"
                 },
                 {"txt":"Isolation from friends and family;",
                 "audio":"25b_7",
-                "img":"25b_7"
+                "img":"25b_1"
                 },
                 {"txt":"Insufficient finances (money, credit cards, car).",
                 "audio":"25b_8",
-                "img":"25b_8"
+                "img":"25b_1"
                 },
+
                 {"txt":"If the manager or supervisor witnesses some of these signs, it is reasonable to suspect domestic abuse.",
                 "audio":"25c_1",
                 "img":"25c_1"
                 },
                 {"txt":"Managers and supervisors must contact human resources immediately and keeps matter confidential.",
                 "audio":"25c_2",
-                "img":"25c_2"
+                "img":"25c_1"
                 },
                 {"txt":"Managers should not discuss their suspicions with other employees,",
                 "audio":"25c_3",
-                "img":"25c_3"
+                "img":"25c_1"
                 },
                 {"txt":"however they may inquire about the employee's behaviour at work to confirm their suspicion of domestic violence.",
                 "audio":"25c_4",
-                "img":"25c_4"
+                "img":"25c_1"
                 },
                 {"txt":"Managers and supervisors must maintain discretion and respect the privacy of the person at all times.",
                 "audio":"25c_5",
-                "img":"25c_5"
+                "img":"25c_1"
                 },
                 {"txt":"The company has policies and procedures to help employees who are victims of domestic violence.",
                 "audio":"25c_6",
-                "img":"25c_6"
+                "img":"25c_1"
                 },
 
                 {"txt":"Work Refusals Involving Workplace Violence and Harassment",
@@ -731,19 +731,19 @@
                 },
                 {"txt":"Managers or supervisors must consider the following when dealing with a work refusal situation involving an employee.",
                 "audio":"26_1",
-                "img":"26_1"
+                "img":"3_1"
                 },
                 {"txt":"An employee can refuse work if they have reason to believe that the current condition of the workplace exposes them to workplace violence.",
                 "audio":"26_2",
-                "img":"26_2"
+                "img":"3_1"
                 },
                 {"txt":"An employee cannot refuse to work on the grounds of workplace harassment.",
                 "audio":"26_3",
-                "img":"26_3"
+                "img":"3_1"
                 },
                 {"txt":"An employee cannot refuse to work with someone who has a history of violence unless the person starts to exhibit violent of threatening behaviour when working with the employee.",
                 "audio":"26_4",
-                "img":"26_4"
+                "img":"3_1"
                 },
 
                 {"txt":"Investigating Workplace Violence Incidents",
@@ -756,23 +756,23 @@
                 },
                 {"txt":"Managers and supervisors will be required to play an important role in this process.",
                 "audio":"27_2",
-                "img":"27_2"
+                "img":"27_1"
                 },
                 {"txt":"During an investigation, the victim and the accused must be treated according to the organization's policies and procedures.",
                 "audio":"27_3",
-                "img":"27_3"
+                "img":"27_1"
                 },
                 {"txt":"Remember: for a workplace violent incident, the key is getting all information and conversations recorded in writing and signed (if needed) as soon as possible.",
                 "audio":"27_4",
-                "img":"27_4"
+                "img":"27_1"
                 },
                 {"txt":"Interviews with the victim, witnesses and accused must be completed individually and in private.",
                 "audio":"27_5",
-                "img":"27_5"
+                "img":"27_1"
                 },
                 {"txt":"All information that is collected must be kept confidential and be made available only to authorized individuals.",
                 "audio":"27_6",
-                "img":"27_6"
+                "img":"27_1"
                 },
 
                 {"txt":"Responsibilities",
@@ -781,7 +781,7 @@
                 },
                 {"txt":"All employees have the responsibility of making the workplace violence program effective and they must clearly understand their role on handling each sitaution.",
                 "audio":"29_1",
-                "img":"29_1"
+                "img":"11_1"
                 },
 
                 {"txt":"Management Responsibilities",
@@ -790,35 +790,35 @@
                 },
                 {"txt":"Managers and supervisors play an important role in implementing a healthy work environment.",
                 "audio":"30_1",
-                "img":"30_1"
+                "img":"27_1"
                 },
                 {"txt":"When it comes to workplace violence and harassment, managers and supervisors must be responsible for:",
                 "audio":"30_2",
-                "img":"30_2"
+                "img":"27_1"
                 },
                 {"txt":"Taking their role in preventing violence and harassment very seriously;",
                 "audio":"30_3",
-                "img":"30_3"
+                "img":"27_1"
                 },
                 {"txt":"Being familiar with workplace violence policies and procedures;",
                 "audio":"30_4",
-                "img":"30_4"
+                "img":"27_1"
                 },
                 {"txt":"Discussing and ensuring that workplace violence policies and procedures are understood by employees;",
                 "audio":"30_5",
-                "img":"30_5"
+                "img":"27_1"
                 },
                 {"txt":"Ensuring that employees feel comfortable in coming forward with issues pertaining to workplace violence and harassment;",
                 "audio":"30_6",
-                "img":"30_6"
+                "img":"27_1"
                 },
                 {"txt":"Holding all conversations in private and keeping all information confidential.",
                 "audio":"30_7",
-                "img":"30_7"
+                "img":"27_1"
                 },
                 {"txt":"When it comes to workplace violence and harassment, managers and supervisors must not neglect their duties.",
                 "audio":"30_8",
-                "img":"30_8"
+                "img":"27_1"
                 },
 
                 {"txt":"Employee Responsibilities",
@@ -827,23 +827,23 @@
                 },
                 {"txt":"To prevent workplace violence, all employees must be trained and understand their responsibilities, which include:",
                 "audio":"31_1",
-                "img":"31_1"
+                "img":"17c_1"
                 },
                 {"txt":"Understanding the organization's policies and procedures regarding workplace violence and harassment.",
                 "audio":"31_2",
-                "img":"31_2"
+                "img":"17c_1"
                 },
                 {"txt":"Knowing the kinds of behaviours that can be interpreted as workplace violence or harassment.",
                 "audio":"31_3",
-                "img":"31_3"
+                "img":"17c_1"
                 },
                 {"txt":"Being awware of any disruptive behaviours by other employees and reporting such behaviours to the manager or supervisor.",
                 "audio":"31_4",
-                "img":"31_4"
+                "img":"17c_1"
                 },
                 {"txt":"Knowing how to get immediate assistance if a violent situation arises.",
                 "audio":"31_5",
-                "img":"31_5"
+                "img":"17c_1"
                 },
 
                 {"txt":"Joint Health and Safety Committees (JHSC) Role in Workplace Violence",
@@ -856,23 +856,23 @@
                 },
                 {"txt":"have the same powers and responsibilities for workplace violence as they do for other occupational health and safety issues.",
                 "audio":"32_2",
-                "img":"32_2"
+                "img":"32_1"
                 },
                 {"txt":"If a workplace violence of harassment issue occurs, the JHSC will investigate and respond to the situation the same way as any other occupational health and safety hazard.",
                 "audio":"32_3",
-                "img":"32_3"
+                "img":"32_1"
                 },
                 {"txt":"The Minitry of Labour Health and Safety inspectors will check to ensure that employers,",
                 "audio":"32_4",
-                "img":"32_4"
+                "img":"32_1"
                 },
                 {"txt":"supervisors and workers are complying with workplace violence and workplace harassment requirements.",
                 "audio":"32_5",
-                "img":"32_5"
+                "img":"32_1"
                 },
                 {"txt":"They will do this as part of a general inspection of a workplace or when investigating a specific complaint or incident.",
                 "audio":"32_6",
-                "img":"32_6"
+                "img":"32_1"
                 },
 
                 {"txt":"Electronic Communication",
@@ -885,31 +885,31 @@
                 },
                 {"txt":"Electronic communication is increasingly becoming a source of workplace harassment and has been a cause for workplace violence.",
                 "audio":"33_2",
-                "img":"33_2"
+                "img":"33_1"
                 },
                 {"txt":"To prevent harassment in the workplace employees must:",
                 "audio":"33_3",
-                "img":"33_3"
+                "img":"33_1"
                 },
                 {"txt":"Ensure that all electronic communication is performed in a professional manner;",
                 "audio":"33_4",
-                "img":"33_4"
+                "img":"33_1"
                 },
                 {"txt":"Refrain from sending any offensive material to anyone via company phones, email, voicemail, etc.",
                 "audio":"33_5",
-                "img":"33_5"
+                "img":"33_1"
                 },
                 {"txt":"Maintain respect outside the workplace and refrain from circulating any derogatory material about the company or staff on public websites, social networks or any other electronic media.",
                 "audio":"33_6",
-                "img":"33_6"
+                "img":"33_1"
                 },
                 {"txt":"Managers and supervisors must ensure that employees are aware of this policy and ensure that all electronic communication is performed in a professional manner.",
                 "audio":"33_7",
-                "img":"33_7"
+                "img":"33_1"
                 },
                 {"txt":"Any violations of this policy must be reported to human resources.",
                 "audio":"33_8",
-                "img":"33_8"
+                "img":"33_1"
                 },
 
                 {"txt":"Importance of Respect in the Workplace",
@@ -922,15 +922,15 @@
                 },
                 {"txt":"Over time, disrespect in the workplace can lead to an unhealthy work environment and a high rate of employee turnover.",
                 "audio":"34_2",
-                "img":"34_2"
+                "img":"34_1"
                 },
                 {"txt":"In a respectful workplace, conflict is addressed in a positive and respectful manner.",
                 "audio":"34_3",
-                "img":"34_3"
+                "img":"34_1"
                 },
                 {"txt":"People must understand and value different points of views.",
                 "audio":"34_4",
-                "img":"34_4"
+                "img":"34_1"
                 },
 
                 {"txt":"Steps to Demonstrate Respect with Simple, Yet Powerful Actions",
@@ -943,15 +943,15 @@
                 },
                 {"txt":"2. Encourage coworkers to express opinions and ideas with respect.",
                 "audio":"35_2",
-                "img":"35_2"
+                "img":"35_1"
                 },
                 {"txt":"3. Listen to what others have to say before expressing your viewpoint.",
                 "audio":"35_3",
-                "img":"35_3"
+                "img":"35_1"
                 },
                 {"txt":"4. Never speak over, butt in, or cut off another person.",
                 "audio":"35_4",
-                "img":"35_4"
+                "img":"35_1"
                 },
                 {"txt":"5. Never insult people, name all or put down people or their ideas.",
                 "audio":"35_5",
@@ -959,23 +959,22 @@
                 },
                 {"txt":"6. Do not nit-pick, constantly criticize over little things, belittle, judge, demean or patronize.",
                 "audio":"35_6",
-                "img":"35_6"
+                "img":"35_5"
                 },
                 {"txt":"7. Treat people fairly no matter their race, religion, gender, size, age, or country of origin.",
                 "audio":"35_7",
-                "img":"35_7"
+                "img":"35_5"
                 },
                 {"txt":"8. Implement policies and procedures consistently so people feel that they are treated fairly and equally.",
                 "audio":"35_8",
-                "img":"35_8"
+                "img":"35_5"
                 },
                 {"txt":"9. Provide an equal opportunity for employees to participate in committees, task forces, or continuous improvement teams.",
                 "audio":"35_9",
-                "img":"35_9"
+                "img":"35_5"
                 },
                 {"txt":"10. Praise much more frequently than you criticize.",
                 "audio":"35_10",
-                "img":"35_10"
-                },
- ]}
+                "img":"35_5"
+                }
 ]}
