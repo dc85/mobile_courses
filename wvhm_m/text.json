@@ -668,7 +668,314 @@
                 "audio":"25_3",
                 "img":"25_3"
                 },
-                
+                {"txt":"If you witness a cluster of the following warning signs in the workplace, you can reasonably suspect domestic abuse:",
+                "audio":"25b_1",
+                "img":"25b_1"
+                },
+                {"txt":"Bruises and other signs of impact on the skin, with the excuse of 'accidents'",
+                "audio":"25b_2",
+                "img":"25b_2"
+                },
+                {"txt":"Depression, crying; frequent and sudden absences; frequent lateness;",
+                "audio":"25b_3",
+                "img":"25b_3"
+                },
+                {"txt":"Frequent, harassing phone calls to the person while they are at work;",
+                "audio":"25b_4",
+                "img":"25b_4"
+                },
+                {"txt":"Fear of the partner, references to the partner's anger;",
+                "audio":"25b_5",
+                "img":"25b_5"
+                },
+                {"txt":"Decreased productivity and attentiveness;",
+                "audio":"25b_6",
+                "img":"25b_6"
+                },
+                {"txt":"Isolation from friends and family;",
+                "audio":"25b_7",
+                "img":"25b_7"
+                },
+                {"txt":"Insufficient finances (money, credit cards, car).",
+                "audio":"25b_8",
+                "img":"25b_8"
+                },
+                {"txt":"If the manager or supervisor witnesses some of these signs, it is reasonable to suspect domestic abuse.",
+                "audio":"25c_1",
+                "img":"25c_1"
+                },
+                {"txt":"Managers and supervisors must contact human resources immediately and keeps matter confidential.",
+                "audio":"25c_2",
+                "img":"25c_2"
+                },
+                {"txt":"Managers should not discuss their suspicions with other employees,",
+                "audio":"25c_3",
+                "img":"25c_3"
+                },
+                {"txt":"however they may inquire about the employee's behaviour at work to confirm their suspicion of domestic violence.",
+                "audio":"25c_4",
+                "img":"25c_4"
+                },
+                {"txt":"Managers and supervisors must maintain discretion and respect the privacy of the person at all times.",
+                "audio":"25c_5",
+                "img":"25c_5"
+                },
+                {"txt":"The company has policies and procedures to help employees who are victims of domestic violence.",
+                "audio":"25c_6",
+                "img":"25c_6"
+                },
 
-  ]}
+                {"txt":"Work Refusals Involving Workplace Violence and Harassment",
+                "audio":"26_0",
+                "title":"1"
+                },
+                {"txt":"Managers or supervisors must consider the following when dealing with a work refusal situation involving an employee.",
+                "audio":"26_1",
+                "img":"26_1"
+                },
+                {"txt":"An employee can refuse work if they have reason to believe that the current condition of the workplace exposes them to workplace violence.",
+                "audio":"26_2",
+                "img":"26_2"
+                },
+                {"txt":"An employee cannot refuse to work on the grounds of workplace harassment.",
+                "audio":"26_3",
+                "img":"26_3"
+                },
+                {"txt":"An employee cannot refuse to work with someone who has a history of violence unless the person starts to exhibit violent of threatening behaviour when working with the employee.",
+                "audio":"26_4",
+                "img":"26_4"
+                },
+
+                {"txt":"Investigating Workplace Violence Incidents",
+                "audio":"27_0",
+                "title":"1"
+                },
+                {"txt":"All workplace harassment and violence incidents will be investigated.",
+                "audio":"27_1",
+                "img":"27_1"
+                },
+                {"txt":"Managers and supervisors will be required to play an important role in this process.",
+                "audio":"27_2",
+                "img":"27_2"
+                },
+                {"txt":"During an investigation, the victim and the accused must be treated according to the organization's policies and procedures.",
+                "audio":"27_3",
+                "img":"27_3"
+                },
+                {"txt":"Remember: for a workplace violent incident, the key is getting all information and conversations recorded in writing and signed (if needed) as soon as possible.",
+                "audio":"27_4",
+                "img":"27_4"
+                },
+                {"txt":"Interviews with the victim, witnesses and accused must be completed individually and in private.",
+                "audio":"27_5",
+                "img":"27_5"
+                },
+                {"txt":"All information that is collected must be kept confidential and be made available only to authorized individuals.",
+                "audio":"27_6",
+                "img":"27_6"
+                },
+
+                {"txt":"Responsibilities",
+                "audio":"29_0",
+                "title":"1"
+                },
+                {"txt":"All employees have the responsibility of making the workplace violence program effective and they must clearly understand their role on handling each sitaution.",
+                "audio":"29_1",
+                "img":"29_1"
+                },
+
+                {"txt":"Management Responsibilities",
+                "audio":"30_0",
+                "title":"1"
+                },
+                {"txt":"Managers and supervisors play an important role in implementing a healthy work environment.",
+                "audio":"30_1",
+                "img":"30_1"
+                },
+                {"txt":"When it comes to workplace violence and harassment, managers and supervisors must be responsible for:",
+                "audio":"30_2",
+                "img":"30_2"
+                },
+                {"txt":"Taking their role in preventing violence and harassment very seriously;",
+                "audio":"30_3",
+                "img":"30_3"
+                },
+                {"txt":"Being familiar with workplace violence policies and procedures;",
+                "audio":"30_4",
+                "img":"30_4"
+                },
+                {"txt":"Discussing and ensuring that workplace violence policies and procedures are understood by employees;",
+                "audio":"30_5",
+                "img":"30_5"
+                },
+                {"txt":"Ensuring that employees feel comfortable in coming forward with issues pertaining to workplace violence and harassment;",
+                "audio":"30_6",
+                "img":"30_6"
+                },
+                {"txt":"Holding all conversations in private and keeping all information confidential.",
+                "audio":"30_7",
+                "img":"30_7"
+                },
+                {"txt":"When it comes to workplace violence and harassment, managers and supervisors must not neglect their duties.",
+                "audio":"30_8",
+                "img":"30_8"
+                },
+
+                {"txt":"Employee Responsibilities",
+                "audio":"31_0",
+                "title":"1"
+                },
+                {"txt":"To prevent workplace violence, all employees must be trained and understand their responsibilities, which include:",
+                "audio":"31_1",
+                "img":"31_1"
+                },
+                {"txt":"Understanding the organization's policies and procedures regarding workplace violence and harassment.",
+                "audio":"31_2",
+                "img":"31_2"
+                },
+                {"txt":"Knowing the kinds of behaviours that can be interpreted as workplace violence or harassment.",
+                "audio":"31_3",
+                "img":"31_3"
+                },
+                {"txt":"Being awware of any disruptive behaviours by other employees and reporting such behaviours to the manager or supervisor.",
+                "audio":"31_4",
+                "img":"31_4"
+                },
+                {"txt":"Knowing how to get immediate assistance if a violent situation arises.",
+                "audio":"31_5",
+                "img":"31_5"
+                },
+
+                {"txt":"Joint Health and Safety Committees (JHSC) Role in Workplace Violence",
+                "audio":"32_0",
+                "title":"1"
+                },
+                {"txt":"Joint health and safety committees (JHSC), or safety representatives,",
+                "audio":"32_1",
+                "img":"32_1"
+                },
+                {"txt":"have the same powers and responsibilities for workplace violence as they do for other occupational health and safety issues.",
+                "audio":"32_2",
+                "img":"32_2"
+                },
+                {"txt":"If a workplace violence of harassment issue occurs, the JHSC will investigate and respond to the situation the same way as any other occupational health and safety hazard.",
+                "audio":"32_3",
+                "img":"32_3"
+                },
+                {"txt":"The Minitry of Labour Health and Safety inspectors will check to ensure that employers,",
+                "audio":"32_4",
+                "img":"32_4"
+                },
+                {"txt":"supervisors and workers are complying with workplace violence and workplace harassment requirements.",
+                "audio":"32_5",
+                "img":"32_5"
+                },
+                {"txt":"They will do this as part of a general inspection of a workplace or when investigating a specific complaint or incident.",
+                "audio":"32_6",
+                "img":"32_6"
+                },
+
+                {"txt":"Electronic Communication",
+                "audio":"33_0",
+                "title":"1"
+                },
+                {"txt":"Electronic communication is any form of communication, such as phone, voicemail, email, internet or any other electronic means.",
+                "audio":"33_1",
+                "img":"33_1"
+                },
+                {"txt":"Electronic communication is increasingly becoming a source of workplace harassment and has been a cause for workplace violence.",
+                "audio":"33_2",
+                "img":"33_2"
+                },
+                {"txt":"To prevent harassment in the workplace employees must:",
+                "audio":"33_3",
+                "img":"33_3"
+                },
+                {"txt":"Ensure that all electronic communication is performed in a professional manner;",
+                "audio":"33_4",
+                "img":"33_4"
+                },
+                {"txt":"Refrain from sending any offensive material to anyone via company phones, email, voicemail, etc.",
+                "audio":"33_5",
+                "img":"33_5"
+                },
+                {"txt":"Maintain respect outside the workplace and refrain from circulating any derogatory material about the company or staff on public websites, social networks or any other electronic media.",
+                "audio":"33_6",
+                "img":"33_6"
+                },
+                {"txt":"Managers and supervisors must ensure that employees are aware of this policy and ensure that all electronic communication is performed in a professional manner.",
+                "audio":"33_7",
+                "img":"33_7"
+                },
+                {"txt":"Any violations of this policy must be reported to human resources.",
+                "audio":"33_8",
+                "img":"33_8"
+                },
+
+                {"txt":"Importance of Respect in the Workplace",
+                "audio":"34_0",
+                "title":"1"
+                },
+                {"txt":"A workplace lacking respect between employees hurts the working relationships and can drastically lower productivity.",
+                "audio":"34_1",
+                "img":"34_1"
+                },
+                {"txt":"Over time, disrespect in the workplace can lead to an unhealthy work environment and a high rate of employee turnover.",
+                "audio":"34_2",
+                "img":"34_2"
+                },
+                {"txt":"In a respectful workplace, conflict is addressed in a positive and respectful manner.",
+                "audio":"34_3",
+                "img":"34_3"
+                },
+                {"txt":"People must understand and value different points of views.",
+                "audio":"34_4",
+                "img":"34_4"
+                },
+
+                {"txt":"Steps to Demonstrate Respect with Simple, Yet Powerful Actions",
+                "audio":"35_0",
+                "title":"1"
+                },
+                {"txt":"1. Treat people with courtesy, politeness, and kindness.",
+                "audio":"35_1",
+                "img":"35_1"
+                },
+                {"txt":"2. Encourage coworkers to express opinions and ideas with respect.",
+                "audio":"35_2",
+                "img":"35_2"
+                },
+                {"txt":"3. Listen to what others have to say before expressing your viewpoint.",
+                "audio":"35_3",
+                "img":"35_3"
+                },
+                {"txt":"4. Never speak over, butt in, or cut off another person.",
+                "audio":"35_4",
+                "img":"35_4"
+                },
+                {"txt":"5. Never insult people, name all or put down people or their ideas.",
+                "audio":"35_5",
+                "img":"35_5"
+                },
+                {"txt":"6. Do not nit-pick, constantly criticize over little things, belittle, judge, demean or patronize.",
+                "audio":"35_6",
+                "img":"35_6"
+                },
+                {"txt":"7. Treat people fairly no matter their race, religion, gender, size, age, or country of origin.",
+                "audio":"35_7",
+                "img":"35_7"
+                },
+                {"txt":"8. Implement policies and procedures consistently so people feel that they are treated fairly and equally.",
+                "audio":"35_8",
+                "img":"35_8"
+                },
+                {"txt":"9. Provide an equal opportunity for employees to participate in committees, task forces, or continuous improvement teams.",
+                "audio":"35_9",
+                "img":"35_9"
+                },
+                {"txt":"10. Praise much more frequently than you criticize.",
+                "audio":"35_10",
+                "img":"35_10"
+                },
+ ]}
 ]}
