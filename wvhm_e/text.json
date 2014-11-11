@@ -31,7 +31,7 @@
                 "bullet":"1"
                 },
                 {"txt":"Responsibilities",
-                "audio":"1_5",
+                "audio":"1_6",
                 "bullet":"1"
                 },
 
@@ -214,7 +214,7 @@
                 "audio":"10_3",
                 "img":"10_1"
                 }, 
-                {"txt":"Do not risk the possibility of harm for yourself or others.",
+                {"txt":"Do not risk the possibility of harm for yourself or others, do not try to grab the weapon.",
                 "audio":"10_4",
                 "img":"10_1"
                 }, 
@@ -310,7 +310,7 @@
                 "audio":"25_3",
                 "img":"25_1"
                 }, 
-                
+
                 {"txt":"If you witness a cluster of the following warning signs in the workplace, you can reasonably suspect domestic abuse:",
                 "audio":"25b_1",
                 "img":"25b_1"
@@ -410,11 +410,11 @@
                 "audio":"30_6",
                 "bullet":"1"
                 },
-                {"txt":"Ensure that workers are provided with information and instruction that is appropriate for the worker,",
+                {"txt":"Ensure that workers are provided with information and instruction that is appropriate for the worker, on the contents of the policy and program",
                 "audio":"30_7",
                 "bullet":"1"
                 },
-                {"txt":"on the contents of the policy and program with respect to the prevention of workplace violence and harassment.",
+                {"txt":"with respect to the prevention of workplace violence and harassment.",
                 "audio":"30_8",
                 "bullet":"1"
                 },
@@ -452,15 +452,15 @@
                 "img":"30b_1"
                 },
                 {"txt":"Notify the designated area managers or the human resources department as soon as possible",
-                "audio":"30b_4",
-                "img":"30b_1"
-                },
-                {"txt":"in the case of observed or suspicious actions that could lead to an incident of violence or harassment in the workplace.",
                 "audio":"30b_5",
                 "img":"30b_1"
                 },
-                {"txt":"Assist in investigating claims of workplace violence and harassment.",
+                {"txt":"in the case of observed or suspicious actions that could lead to an incident of violence or harassment in the workplace.",
                 "audio":"30b_6",
+                "img":"30b_1"
+                },
+                {"txt":"Assist in investigating claims of workplace violence and harassment.",
+                "audio":"30b_7",
                 "img":"30b_1"
                 },
 
