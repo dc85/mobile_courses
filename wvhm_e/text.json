@@ -41,19 +41,19 @@
                 },
                 {"txt":"The purpose of this training is to raise awareness of actions and situations that could contribute to workplace violence and harassment.",
                 "audio":"2_1",
-                "img":"2_1"
+                "bullet":"1"
                 },
                 {"txt":"The objective of this training is to make the participants aware of the laws, regulations and the organization's policies to handle workplace violence and harassment.",
                 "audio":"2_2",
-                "img":"2_2"
+                "bullet":"1"
                 },
                 {"txt":"This training does not address all possible situations or conditions and is not intended to be a substitute for seeking help from a legal and/or human resources professionals when required.",
                 "audio":"2_3",
-                "img":"2_3"
+                "bullet":"1"
                 },
                 {"txt":"If you have any questions or issues regarding workplace violence or harassment, please contact your manager or human resources.",
                 "audio":"2_4",
-                "img":"2_4"
+                "bullet":"1"
                 },
 
                 {"txt":"What is Workplace Violence?",
@@ -66,15 +66,15 @@
                 },
                 {"txt":"The exercise of physical force by a person against a worker, in a workplace, that causes or could cause physical injury to the worker.",
                 "audio":"3_2",
-                "img":"3_2"
+                "img":"3_1"
                 },
                 {"txt":"It also includes: an attempt to exercise physical force against a worker, in a workplace, that could cause physical injury to the worker.",
                 "audio":"3_3",
-                "img":"3_3"
+                "img":"3_1"
                 },
                 {"txt":"And: a statement or behaviour that is reasonable for a worker to interpret as a threat to exercise physical force against the worker, in a workplace, that could cause physical injury to the worker.",
                 "audio":"3_4",
-                "img":"3_4"
+                "img":"3_1"
                 },
 
                 {"txt":"Examples of Conduct which may be considered Workplace Violence",
@@ -83,15 +83,15 @@
                 },
                 {"txt":"Examples of conduct which may be considered workplace violence include, but are not limited to, the following:",
                 "audio":"4_1",
-                "img":"4_1"
+                "img":"4_4"
                 },
                 {"txt":"Intimidating behaviour and/or physical contact that is threatening or aggressive.",
                 "audio":"4_2",
-                "img":"4_2"
+                "img":"4_4"
                 },
                 {"txt":"Threatening an individual, his/her family or associates with physical harm.",
                 "audio":"4_3",
-                "img":"4_3"
+                "img":"4_4"
                 },
                 {"txt":"The intentional destruction of company property or threat of destruction.",
                 "audio":"4_4",
@@ -99,7 +99,7 @@
                 },
                 {"txt":"Harassing or threatening communications; stalking.",
                 "audio":"4_5",
-                "img":"4_5"
+                "img":"4_4"
                 },
 
                 {"txt":"What is Workplace Harassment?",
@@ -108,11 +108,11 @@
                 },
                 {"txt":"Workplace harassment is defined as:",
                 "audio":"5_1",
-                "img":"5_1"
+                "img":"3_1"
                 },
                 {"txt":"Engaging in a course of vexatious comment or conduct against a worker in a workplace that is known or ought reasonably to be known to be unwelcome.",
                 "audio":"5_2",
-                "img":"5_2"
+                "img":"3_1"
                 },
 
                 {"txt":"Examples of Workplace Harassment",
@@ -125,31 +125,31 @@
                 },
                 {"txt":"Unwelcome sexual flirtations, advances, or propositions.",
                 "audio":"6_2",
-                "img":"6_2"
+                "img":"6_1"
                 },
                 {"txt":"Verbal abuse of a sexual, racial, ethnic, religious, or other nature.",
                 "audio":"6_3",
-                "img":"6_3"
+                "img":"6_1"
                 },
                 {"txt":"Verbal abuse about physical or mental limitations.",
                 "audio":"6_4",
-                "img":"6_4"
+                "img":"6_1"
                 },
                 {"txt":"Graphic verbal comments about an individuals body.",
                 "audio":"6_5",
-                "img":"6_5"
+                "img":"6_1"
                 },
                 {"txt":"Sexually degrading words used to describe an individual.",
                 "audio":"6_6",
-                "img":"6_6"
+                "img":"6_1"
                 },
                 {"txt":"The display in the workplace of sexually suggestive objects or pictures, or other material derogatory to racial, ethnic or religious groups, etc.",
                 "audio":"6_7",
-                "img":"6_7"
+                "img":"6_1"
                 },
                 {"txt":"Unwelcome or unwanted conduct based on individual sexual orientation.",
                 "audio":"6_8",
-                "img":"6_8"
+                "img":"6_1"
                 },
 
                 {"txt":"What is not Harassment?",
@@ -162,7 +162,7 @@
                 },
                 {"txt":"Examples of such actions or conduct are:",
                 "audio":"7_2",
-                "img":"7_2"
+                "img":"7_1"
                 },
                 {"txt":"Disciplinary actions; job assessment and evaluation; implementation of dress codes; changes in work schedules and assignments; workplace inspections.",
                 "audio":"7_3",
@@ -179,23 +179,23 @@
                 },
                 {"txt":"Call emergency response contacts; security, foreman's office, safety specialist, HES team leader",
                 "audio":"9_2",
-                "img":"9_2"
+                "img":"9_1"
                 },
                 {"txt":"Report as much information as possible (if you are in a position to explain your situation) including:",
                 "audio":"9_3",
-                "img":"9_3"
+                "img":"9_1"
                 },
                 {"txt":"Your name, your location (building, floor, office, room, etc.), what is/has happened, if anyone is injured, nature of assistance required.",
                 "audio":"9_4",
-                "img":"9_4"
+                "img":"9_1"
                 },
                 {"txt":"Emergency reponse contact will immediately contact the police and any other appropriate emergency services, such as ambulance or fire department (7-911).",
                 "audio":"9_5",
-                "img":"9_5"
+                "img":"9_1"
                 },
                 {"txt":"Human resources and senior management must then be immediately contacted and informed of the situation.",
                 "audio":"9_6",
-                "img":"9_6"
+                "img":"9_1"
                 },
 
                {"txt":"Responding to Violence",
@@ -208,27 +208,27 @@
                 },
                 {"txt":"Always remain calm; if you are going to signal for help, do so quietly.",
                 "audio":"10_2",
-                "img":"10_2"
+                "img":"10_1"
                 }, 
                 {"txt":"Maintain eye contact with the person.",
                 "audio":"10_3",
-                "img":"10_3"
+                "img":"10_1"
                 }, 
                 {"txt":"Do not risk the possibility of harm for yourself or others.",
                 "audio":"10_4",
-                "img":"10_4"
+                "img":"10_1"
                 }, 
                 {"txt":"Follow all instructions from the person who is threatening you.",
                 "audio":"10_5",
-                "img":"10_5"
+                "img":"10_1"
                 }, 
                 {"txt":"Escape to a safe location only if you can do so without rick.",
                 "audio":"10_6",
-                "img":"10_6"
+                "img":"10_1"
                 }, 
                 {"txt":"An individual may become violent unintentionally because of medical conditions.",
                 "audio":"10_7",
-                "img":"10_7"
+                "img":"10_1"
                 },
 
                 {"txt":"Handling Workplace Harassment Incident",
@@ -241,11 +241,11 @@
                 }, 
                 {"txt":"Inform the person who is harassing to stop the behaviour immediately.",
                 "audio":"11_2",
-                "img":"11_2"
+                "img":"11_1"
                 }, 
                 {"txt":"If it is not possible to inform the person or if the person does not stop the behaviour, contact human resources immediately.",
                 "audio":"11_3",
-                "img":"11_3"
+                "img":"11_1"
                 }, 
 
                 {"txt":"Sources of Violence and Harassment",
@@ -258,11 +258,11 @@
                 },
                 {"txt":"Workplace violence and harassment can come from the following sources:",
                 "audio":"12_2",
-                "img":"12_2"
+                "img":"12_1"
                 },
                 {"txt":"Employees: workers, managers and upservisors who work for the organization.",
                 "audio":"12_3",
-                "img":"12_3"
+                "img":"12_1"
                 },
                 {"txt":"Domestic relationships: domestic relationships are persons who have or have had a personal relationship outside of work with an employee.",
                 "audio":"12_4",
@@ -270,27 +270,28 @@
                 },
                 {"txt":"Domestic relationships include current or former spouse, relative, friend or an acquaintance.",
                 "audio":"12_5",
-                "img":"12_5"
+                "img":"12_4"
                 },
                 {"txt":"Customers: customers are people who regularly conduct business with the organization. customers can be clients, patients, shoppers, etc.",
                 "audio":"12_6",
                 "img":"12_6"
                 },
+
                 {"txt":"External staff: external staff are employees of another organization who are required to conduct legitimate business with the organization.",
                 "audio":"12b_1",
-                "img":"12b_1"
+                "img":"12_7"
                 },
                 {"txt":"Examples of external staff are contractors, consultants, couriers, etc.",
                 "audio":"12b_2",
-                "img":"12b_2"
+                "img":"12_7"
                 },
                 {"txt":"Outsiders: outsiders are individuals who have no legitimate business with the organization.",
                 "audio":"12b_3",
-                "img":"12b_3"
+                "img":"12_9"
                 },
                 {"txt":"Managers must know and understand the company policies and procedures in dealing with and preventing violence and harassment from any of the sources.",
                 "audio":"12b_4",
-                "img":"12b_4"
+                "img":"12_9"
                 },
 
                 {"txt":"Workplace Domestic Violence",
@@ -303,43 +304,44 @@
                 },
                 {"txt":"Workplace domestic violence is the situation where a person who has a personal relationship with an employee, such as: a current or former spouse, partner or, family member.",
                 "audio":"25_2",
-                "img":"25_2"
+                "img":"25_1"
                 },
                 {"txt":"may physically harm, threaten or harass that employee at work.",
                 "audio":"25_3",
-                "img":"25_3"
+                "img":"25_1"
                 }, 
+                
                 {"txt":"If you witness a cluster of the following warning signs in the workplace, you can reasonably suspect domestic abuse:",
                 "audio":"25b_1",
                 "img":"25b_1"
                 }, 
                 {"txt":"Bruises and other signs of impact on the skin, with the excuse of 'accidents'.",
                 "audio":"25b_2",
-                "img":"25b_2"
+                "img":"25b_1"
                 }, 
                 {"txt":"Depression, crying; frequent and sudden absences; frequent lateness.",
                 "audio":"25b_3",
-                "img":"25b_3"
+                "img":"25b_1"
                 }, 
                 {"txt":"Frequent harassing phone calls to the person while they are at work.",
                 "audio":"25b_4",
-                "img":"25b_4"
+                "img":"25b_1"
                 }, 
                 {"txt":"Fear of the partner, references to the partner's anger.",
                 "audio":"25b_5",
-                "img":"25b_5"
+                "img":"25b_1"
                 }, 
                 {"txt":"Decreased productivity and attentiveness; isolation from friends and family; insufficient finances (money, credit cards, car).",
                 "audio":"25b_6",
-                "img":"25b_6"
+                "img":"25b_1"
                 }, 
                 {"txt":"If you witness some of these signs, it is reasonable to suspect domestic violence abuse.",
                 "audio":"25b_7",
-                "img":"25b_7"
+                "img":"25b_1"
                 }, 
                 {"txt":"Please contact your manager, supervisor or human resources.",
                 "audio":"25b_8",
-                "img":"25b_8"
+                "img":"25b_1"
                 }, 
 
                 {"txt":"If the manager or supervisor witnesses some of these signs, it is reasonable to suspect domestic abuse.",
@@ -348,19 +350,19 @@
                 }, 
                 {"txt":"Managers and supervisors must contact human resources immediately and keep matters confidential.",
                 "audio":"25c_2",
-                "img":"25c_2"
+                "img":"25c_1"
                 }, 
                 {"txt":"Managers should not discuss their suspicions with other employees, however, they may inquire about the employee's behaviour at work to confirm their suspicion of domestic violence.",
                 "audio":"25c_3",
-                "img":"25c_3"
+                "img":"25c_1"
                 }, 
                 {"txt":"Managers and supervisors must maintain discretion and respect the privacy of the person at all times.",
                 "audio":"25c_4",
-                "img":"25c_4"
+                "img":"25c_1"
                 }, 
                 {"txt":"The company has policies and procedures to help employees who are victims of domestic violence.",
                 "audio":"25c_5",
-                "img":"25c_5"
+                "img":"25c_1"
                 }, 
 
                 {"txt":"Work Refusals Involving Workplace Violence and Harassment",
@@ -373,11 +375,11 @@
                 }, 
                 {"txt":"An employee cannot refuse to work on the grounds of workplace harassment.",
                 "audio":"26_2",
-                "img":"26_2"
+                "img":"26_1"
                 }, 
                 {"txt":"An employee cannot refuse to work with someone who has a history of violence, unless the person starts to exhibit violent or threatening behaviour when working with the employee.",
                 "audio":"26_3",
-                "img":"26_3"
+                "img":"26_1"
                 }, 
 
                 {"txt":"Management Responsibilities",
@@ -439,27 +441,27 @@
                 },
                 {"txt":"Promote and encourage the reporting of incidents of violence and harassment.",
                 "audio":"30b_2",
-                "img":"30b_2"
+                "img":"30b_1"
                 },
                 {"txt":"Maintain records of violence and harassment related complaints, issues, concerns and investigations.",
                 "audio":"30b_3",
-                "img":"30b_3"
+                "img":"30b_1"
                 },
                 {"txt":"Ensure that workers receive training on the workplace violence and harassment prevention program.",
                 "audio":"30b_4",
-                "img":"30b_4"
+                "img":"30b_1"
                 },
                 {"txt":"Notify the designated area managers or the human resources department as soon as possible",
                 "audio":"30b_4",
-                "img":"30b_4"
+                "img":"30b_1"
                 },
                 {"txt":"in the case of observed or suspicious actions that could lead to an incident of violence or harassment in the workplace.",
                 "audio":"30b_5",
-                "img":"30b_5"
+                "img":"30b_1"
                 },
                 {"txt":"Assist in investigating claims of workplace violence and harassment.",
                 "audio":"30b_6",
-                "img":"30b_6"
+                "img":"30b_1"
                 },
 
                 {"txt":"Worker Responsibilities",
@@ -497,14 +499,14 @@
                 },
                 {"txt":"Definitions of workplace violence and harassment",
                 "audio":"32_2",
-                "img":"32_2"
+                "img":"32_1"
                 },
                 {"txt":"Sources of workplace violence and harassment",
                 "audio":"32_3",
-                "img":"32_3"
+                "img":"32_1"
                 },
                 {"txt":"Responding to and handling workplace violence and harassment",
                 "audio":"32_4",
-                "img":"32_4"
+                "img":"32_1"
                 },
 ]}
