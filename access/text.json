@@ -95,27 +95,27 @@
                 },  
 			    {"txt":"To remove accessibility barriers, standards have been developed in the following five key areas:",
                 "audio":"5_1",
-                "img":"5_1"
+                "img":"4_2"
                 },  
-			    {"txt":"1. Customer Service",
+			    {"txt":"1. Customer Service\n\n\n\n\n\n\n\n\n",
                 "audio":"5_2",
-                "img":"5_1"
+                "bullet":"1"
                 },  
-			    {"txt":"2. Information and Communications",
+			    {"txt":"1. Customer Service\n\n2. Information and Communications\n\n\n\n\n\n\n\n\n",
                 "audio":"5_3",
-                "img":"5_1"
+                "bullet":"1"
                 },  
-			    {"txt":"3. Employment",
+			    {"txt":"1. Customer Service\n\n2. Information and Communications\n\n3. Employment\n\n\n\n\n\n",
                 "audio":"5_4",
-                "img":"5_1"
+                "bullet":"1"
                 },  
-			    {"txt":"4. Transportation",
+			    {"txt":"1. Customer Service\n\n2. Information and Communications\n\n3. Employment\n\n4. Transportation\n\n\n",
                 "audio":"5_5",
-                "img":"5_1"
+                "bullet":"1"
                 },  
-			    {"txt":"5. Build Environment",
+			    {"txt":"1. Customer Service\n\n2. Information and Communications\n\n3. Employment\n\n4. Transportation\n\n5. Build Environment",
                 "audio":"5_6",
-                "img":"5_1"
+                "bullet":"1"
                 },  
 
                {"txt":"Accessibility Standards for Customer Service",
@@ -199,11 +199,11 @@
                 },  
 			    {"txt":"More than 20 employees: create your plan; train your staff; document policies, practices and procedures for providing accessible customer service.",
                 "audio":"10_3",
-                "img":"10_3"
+                "img":"10_2"
                 },  
 			    {"txt":"Update the Government Ministry about the progress being made.",
                 "audio":"10_4",
-                "img":"10_4"
+                "img":"10_2"
                 },  
 
                {"txt":"Customer Service Standard Plan",
@@ -214,29 +214,29 @@
                 "audio":"11_1",
                 "img":"11_1"
                 },  
-			    {"txt":"1. Communication",
+			    {"txt":"1. Communication\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
                 "audio":"11_1",
-                "img":"11_2"
+                "bullet":"1"
                 },  
-			    {"txt":"2. Assistive devices",
+			    {"txt":"1. Communication\n\n2. Assistive devices\n\n\n\n\n\n\n\n\n\n\n\n",
                 "audio":"11_3",
-                "img":"11_3"
+                "bullet":"1"
                 },  
-			    {"txt":"3. Service animals",
+			    {"txt":"1. Communication\n\n2. Assistive devices\n\n3. Service animals\n\n\n\n\n\n\n\n\n",
                 "audio":"11_4",
-                "img":"11_3"
+                "bullet":"1"
                 },  
-			    {"txt":"4. Support persons",
+			    {"txt":"1. Communication\n\n2. Assistive devices\n\n3. Service animals\n\n4. Support persons\n\n\n\n\n\n",
                 "audio":"11_5",
-                "img":"11_5"
+                "bullet":"1"
                 },  
-			    {"txt":"5. Notice of temporary disruption",
+			    {"txt":"1. Communication\n\n2. Assistive devices\n\n3. Service animals\n\n4. Support persons\n\n5. Notice of temporary disruption\n\n\n",
                 "audio":"11_6",
-                "img":"11_6"
+                "bullet":"1"
                 },  
-			    {"txt":"6. Feedback process",
+			    {"txt":"1. Communication\n\n2. Assistive devices\n\n3. Service animals\n\n4. Support persons\n\n5. Notice of temporary disruption\n\n6. Feedback process",
                 "audio":"11_7",
-                "img":"11_6"
+                "bullet":"1"
                 },  
 
                 {"txt":"Principles to Integrate in the Plan",
@@ -366,11 +366,11 @@
                 }, 
 			    {"txt":"The documents should be available to the public and also in accessible format upon request.",
                 "audio":"17_4",
-                "img":"17_4"
+                "img":"17_3"
                 }, 
 			    {"txt":"Small private organizations with less than 50 employees are exempt from developing written documents and statements of commitment.",
                 "audio":"17_5",
-                "img":"17_4"
+                "img":"17_3"
                 }, 
 
 			    {"txt":"Accessibily Plans: all organizations in Ontario must develop a multi-year accessibility plan.",
