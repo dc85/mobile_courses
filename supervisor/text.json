@@ -27,23 +27,23 @@
                 "audio":"3_0",
                 "title":"1"
                 },
-                {"txt":"Step 1: Make a difference\n\n\n\n\n",
+                {"txt":"Step 1: Make a difference\n\n\n\n\n\n\n\n\n\n",
                 "audio":"3_1",
                 "bullet":"1"
                 },
-                {"txt":"Step 1: Make a difference\nStep 2: Lead the Way\n\n\n\n",
+                {"txt":"Step 1: Make a difference\n\nStep 2: Lead the Way\n\n\n\n\n\n\n\n",
                 "audio":"3_2",
                 "bullet":"1"
                 },
-                {"txt":"Step 1: Make a difference\nStep 2: Lead the Way\nStep 3: The Supervisor's Toolkit\n\n\n",
+                {"txt":"Step 1: Make a difference\n\nStep 2: Lead the Way\n\nStep 3: The Supervisor's Toolkit\n\n\n\n\n\n",
                 "audio":"3_3",
                 "bullet":"1"
                 },
-                {"txt":"Step 1: Make a difference\nStep 2: Lead the Way\nStep 3: The Supervisor's Toolkit\nStep 4: You Are Not Alone\n\n",
+                {"txt":"Step 1: Make a difference\n\nStep 2: Lead the Way\n\nStep 3: The Supervisor's Toolkit\n\nStep 4: You Are Not Alone\n\n\n\n",
                 "audio":"3_4",
                 "bullet":"1"
                 },
-                {"txt":"Step 1: Make a difference\nStep 2: Lead the Way\nStep 3: The Supervisor's Toolkit\nStep 4: You Are Not Alone\nStep 5: Be a Role Model",
+                {"txt":"Step 1: Make a difference\n\nStep 2: Lead the Way\n\nStep 3: The Supervisor's Toolkit\n\nStep 4: You Are Not Alone\n\nStep 5: Be a Role Model",
                 "audio":"3_5",
                 "bullet":"1"
                 },
@@ -73,7 +73,7 @@
                 "audio":"5_4",
                 "img":"5_1"
                 },
-                {"txt":"they have legal obligations from the Occupational Health and Safety Act to adopt the IRS philosophy and their participation is needed to ensure the effectiveness of the system.",
+                {"txt":"They have legal obligations from the Occupational Health and Safety Act to adopt the IRS philosophy and their participation is needed to ensure the effectiveness of the system.",
                 "audio":"5_5",
                 "img":"5_1"
                 },
@@ -443,22 +443,23 @@
                 "audio":"19_2",
                 "img":"19_1"
                 },
-                {"txt":"Inspect the workplace regularly.",
+                {"txt":"Inspect the workplace regularly.\n\n\n\n\n\n\n",
                 "audio":"19_3",
                 "bullet":"1"
                 },
-                {"txt":"Identify hazards in the workplace.",
+                {"txt":"Inspect the workplace regularly.\n\nIdentify hazards in the workplace.\n\n\n\n\n",
                 "audio":"19_4",
                 "bullet":"1"
                 },
-                {"txt":"Make recommendations to the employer about how to fix hazards.",
+                {"txt":"Inspect the workplace regularly.\n\nIdentify hazards in the workplace\n\nMake recommendations to the employer about how to fix hazards.\n\n\n",
                 "audio":"19_5",
                 "bullet":"1"
                 },
-                {"txt":"Solve other health and safety problems.",
+                {"txt":"Inspect the workplace regularly.\n\nIdentify hazards in the workplace\n\nMake recommendations to the employer about how to fix hazards\n\nSolve other health and safety problems.",
                 "audio":"19_6",
                 "bullet":"1"
                 },
+
                 {"txt":"Please note that the Occupational Health and Safety Act strictly forbids the employer or supervisor from firing,",
                 "audio":"19_7",
                 "img":"2_3"
@@ -515,27 +516,27 @@
                 "audio":"23_1",
                 "img":"23_1"
                 }, 
-                {"txt":"Is the program properly documented?",
+                {"txt":"Is the program properly documented?\n\n\n\n\n\n",
                 "audio":"23_2",
                 "bullet":"1"
                 }, 
-                {"txt":"Are accidents, injuries and near misses being documented and investigated?",
+                {"txt":"Is the program properly documented?\n\nAre accidents, injuries and near misses being documented and investigated?\n\n\n\n",
                 "audio":"23_3",
                 "bullet":"1"
                 }, 
-                {"txt":"Has the organization identified goals and priorities for workplace health and safety?",
+                {"txt":"Is the program properly documented?\n\nAre accidents, injuries and near misses being documented and investigated?\n\nHas the organization identified goals and priorities for workplace health and safety?",
                 "audio":"23_4",
                 "bullet":"1"
                 }, 
-                {"txt":"Are the required health and safety trainings provided for employees?",
+                {"txt":"Are the required health and safety trainings provided for employees?\n\n\n\n\n",
                 "audio":"23_5",
                 "bullet":"1"
                 }, 
-                {"txt":"Is the program reviewed?",
+                {"txt":"Are the required health and safety trainings provided for employees?\n\nIs the program reviewed?\n\n\n",
                 "audio":"23_6",
                 "bullet":"1"
                 }, 
-                {"txt":"Is the program audited?",
+                {"txt":"Are the required health and safety trainings provided for employees?\n\nIs the program reviewed?\n\nIs the program audited?",
                 "audio":"23_7",
                 "bullet":"1"
                 }, 
@@ -568,11 +569,11 @@
                 "audio":"24_6",
                 "img":"24_6"},
 
-	            {"txt":"RACE",
+	            {"txt":"R.A.C.E.",
                 "audio":"25_0",
                 "title":"1"
                 }, 
-                {"txt":"RACE is a process that is used for dealing with hazards within a workplace.",
+                {"txt":"R.A.C.E. is a process that is used for dealing with hazards within a workplace.",
                 "audio":"25_1",
                 "img":"25_1"
                 }, 
@@ -697,11 +698,11 @@
                 "img":"29_1"
                 },                 
 
-                {"txt":"Advantages of the RACE Method",
+                {"txt":"Advantages of the R.A.C.E. Method",
                 "audio":"30_0",
                 "title":"1"
                 }, 
-                {"txt":"The RACE method can help a supervisor to get a close look at the work and the hazards associated with it,",
+                {"txt":"The R.A.C.E. method can help a supervisor to get a close look at the work and the hazards associated with it,",
                 "audio":"30_1",
                 "img":"30_1"
                 }, 
