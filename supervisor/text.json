@@ -27,19 +27,19 @@
                 "audio":"3_0",
                 "title":"1"
                 },
-                {"txt":"Step 1: Make a difference\n\n\n\n\n\n\n\n\n\n",
+                {"txt":"Step 1: Make a difference\n\n \n\n \n\n \n\n ",
                 "audio":"3_1",
                 "bullet":"1"
                 },
-                {"txt":"Step 1: Make a difference\n\nStep 2: Lead the Way\n\n\n\n\n\n\n\n",
+                {"txt":"Step 1: Make a difference\n\nStep 2: Lead the Way\n\n \n\n \n\n ",
                 "audio":"3_2",
                 "bullet":"1"
                 },
-                {"txt":"Step 1: Make a difference\n\nStep 2: Lead the Way\n\nStep 3: The Supervisor's Toolkit\n\n\n\n\n\n",
+                {"txt":"Step 1: Make a difference\n\nStep 2: Lead the Way\n\nStep 3: The Supervisor's Toolkit\n\n \n\n ",
                 "audio":"3_3",
                 "bullet":"1"
                 },
-                {"txt":"Step 1: Make a difference\n\nStep 2: Lead the Way\n\nStep 3: The Supervisor's Toolkit\n\nStep 4: You Are Not Alone\n\n\n\n",
+                {"txt":"Step 1: Make a difference\n\nStep 2: Lead the Way\n\nStep 3: The Supervisor's Toolkit\n\nStep 4: You Are Not Alone\n\n ",
                 "audio":"3_4",
                 "bullet":"1"
                 },
@@ -443,15 +443,15 @@
                 "audio":"19_2",
                 "img":"19_1"
                 },
-                {"txt":"Inspect the workplace regularly.\n\n\n\n\n\n\n",
+                {"txt":"Inspect the workplace regularly.\n\n \n\n \n\n ",
                 "audio":"19_3",
                 "bullet":"1"
                 },
-                {"txt":"Inspect the workplace regularly.\n\nIdentify hazards in the workplace.\n\n\n\n\n",
+                {"txt":"Inspect the workplace regularly.\n\nIdentify hazards in the workplace.\n\n \n\n ",
                 "audio":"19_4",
                 "bullet":"1"
                 },
-                {"txt":"Inspect the workplace regularly.\n\nIdentify hazards in the workplace\n\nMake recommendations to the employer about how to fix hazards.\n\n\n",
+                {"txt":"Inspect the workplace regularly.\n\nIdentify hazards in the workplace\n\nMake recommendations to the employer about how to fix hazards.\n\n ",
                 "audio":"19_5",
                 "bullet":"1"
                 },
@@ -516,23 +516,23 @@
                 "audio":"23_1",
                 "img":"23_1"
                 }, 
-                {"txt":"Is the program properly documented?\n\n\n\n\n\n",
+                {"txt":"Is the program properly documented?\n\n \n \n\n \n",
                 "audio":"23_2",
                 "bullet":"1"
                 }, 
-                {"txt":"Is the program properly documented?\n\nAre accidents, injuries and near misses being documented and investigated?\n\n\n\n",
+                {"txt":"Is the program properly documented?\n\nAre accidents, injuries and near misses being documented and investigated?\n\n \n",
                 "audio":"23_3",
                 "bullet":"1"
                 }, 
                 {"txt":"Is the program properly documented?\n\nAre accidents, injuries and near misses being documented and investigated?\n\nHas the organization identified goals and priorities for workplace health and safety?",
                 "audio":"23_4",
                 "bullet":"1"
-                }, 
-                {"txt":"Are the required health and safety trainings provided for employees?\n\n\n\n\n",
+                },
+                {"txt":"Are the required health and safety trainings provided for employees?\n\n \n\n ",
                 "audio":"23_5",
                 "bullet":"1"
                 }, 
-                {"txt":"Are the required health and safety trainings provided for employees?\n\nIs the program reviewed?\n\n\n",
+                {"txt":"Are the required health and safety trainings provided for employees?\n\nIs the program reviewed?\n\n ",
                 "audio":"23_6",
                 "bullet":"1"
                 }, 

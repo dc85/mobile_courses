@@ -97,19 +97,19 @@
                 "audio":"5_1",
                 "img":"4_2"
                 },  
-			    {"txt":"1. Customer Service\n\n\n\n\n\n\n\n\n",
+			    {"txt":"1. Customer Service\n\n \n\n \n\n \n\n ",
                 "audio":"5_2",
                 "bullet":"1"
                 },  
-			    {"txt":"1. Customer Service\n\n2. Information and Communications\n\n\n\n\n\n\n\n\n",
+			    {"txt":"1. Customer Service\n\n2. Information and Communications\n\n \n\n \n\n ",
                 "audio":"5_3",
                 "bullet":"1"
                 },  
-			    {"txt":"1. Customer Service\n\n2. Information and Communications\n\n3. Employment\n\n\n\n\n\n",
+			    {"txt":"1. Customer Service\n\n2. Information and Communications\n\n3. Employment\n\n \n\n ",
                 "audio":"5_4",
                 "bullet":"1"
                 },  
-			    {"txt":"1. Customer Service\n\n2. Information and Communications\n\n3. Employment\n\n4. Transportation\n\n\n",
+			    {"txt":"1. Customer Service\n\n2. Information and Communications\n\n3. Employment\n\n4. Transportation\n\n ",
                 "audio":"5_5",
                 "bullet":"1"
                 },  
@@ -195,15 +195,15 @@
                 },  
 			    {"txt":"Less than 20 employees: create your plan; train your staff on accessible customer service.",
                 "audio":"10_2",
-                "img":"10_2"
+                "img":"10_1"
                 },  
 			    {"txt":"More than 20 employees: create your plan; train your staff; document policies, practices and procedures for providing accessible customer service.",
                 "audio":"10_3",
-                "img":"10_2"
+                "img":"10_1"
                 },  
 			    {"txt":"Update the Government Ministry about the progress being made.",
                 "audio":"10_4",
-                "img":"10_2"
+                "img":"10_1"
                 },  
 
                {"txt":"Customer Service Standard Plan",
@@ -214,23 +214,23 @@
                 "audio":"11_1",
                 "img":"11_1"
                 },  
-			    {"txt":"1. Communication\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			    {"txt":"1. Communication\n\n \n\n \n\n \n\n \n\n ",
                 "audio":"11_1",
                 "bullet":"1"
                 },  
-			    {"txt":"1. Communication\n\n2. Assistive devices\n\n\n\n\n\n\n\n\n\n\n\n",
+			    {"txt":"1. Communication\n\n2. Assistive devices\n\n \n\n \n\n \n\n ",
                 "audio":"11_3",
                 "bullet":"1"
                 },  
-			    {"txt":"1. Communication\n\n2. Assistive devices\n\n3. Service animals\n\n\n\n\n\n\n\n\n",
+			    {"txt":"1. Communication\n\n2. Assistive devices\n\n3. Service animals\n\n \n\n \n\n ",
                 "audio":"11_4",
                 "bullet":"1"
                 },  
-			    {"txt":"1. Communication\n\n2. Assistive devices\n\n3. Service animals\n\n4. Support persons\n\n\n\n\n\n",
+			    {"txt":"1. Communication\n\n2. Assistive devices\n\n3. Service animals\n\n4. Support persons\n\n \n\n ",
                 "audio":"11_5",
                 "bullet":"1"
                 },  
-			    {"txt":"1. Communication\n\n2. Assistive devices\n\n3. Service animals\n\n4. Support persons\n\n5. Notice of temporary disruption\n\n\n",
+			    {"txt":"1. Communication\n\n2. Assistive devices\n\n3. Service animals\n\n4. Support persons\n\n5. Notice of temporary disruption\n\n ",
                 "audio":"11_6",
                 "bullet":"1"
                 },  
