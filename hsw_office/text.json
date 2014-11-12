@@ -1,5 +1,5 @@
 {
-    "prefix":"hsw",
+    "prefix":"",
     "slides":[
                 {"txt":"Worker Health and Safety Awareness in 4 Steps",
                 "audio":"hsw_1_0",
@@ -557,36 +557,35 @@
 
              {"txt":"(a) at a workplace at which twenty or more workers are regularly employed;",
               "audio":"hsw_28_2",
-              "img":"hsw_28_2"},
+              "img":"hsw_28_1"},
 
              {"txt":"(b) at a workplace with respect to which an order to an employer is in effect under section 33; or",
               "audio":"hsw_28_3",
-              "img":"hsw_28_3"},
+              "img":"hsw_28_1"},
 
              {"txt":"(c) at a workplace, other than a construction project where fewer than twenty workers are regularly  employed,",
               "audio":"hsw_28_4",
-              "img":"hsw_28_4"},
+              "img":"hsw_28_1"},
  
               {"txt":"with respect to which a regulation concerning designated substances applies.",
               "audio":"hsw_28_5",
-              "img":"hsw_28_5"},
+              "img":"hsw_28_1"},
 
              {"txt":"Section 9(6) of Part II indicates that, A committee shall consist of,",
               "audio":"hsw_28_6",
-              "img":"hsw_28_6"},
+              "img":"hsw_28_1"},
 
                {"txt":"(a) at least two persons, for a workplace where fewer than fifty workers are regularly employed; or",
               "audio":"hsw_28_7",
-              "img":"hsw_28_7"},
+              "img":"hsw_28_1"},
 
              {"txt":"(b) at least four persons or such greater number of people as may be prescribed, for a workplace where fifty or more workers are regularly employed.",
               "audio":"hsw_28_8",
-              "img":"hsw_28_8"},
+              "img":"hsw_28_1"},
 
               {"txt":"Join Health and Safety Committees (JHSC)",
               "audio":"hsw_29_0",
               "title":"1"}, 
-
              {"txt":"The JHSC or health and safety representative supports the internal responsibility system in the workplace.",
               "audio":"hsw_29_1",
               "img":"hsw_27_4"},
@@ -781,11 +780,11 @@
 
              {"txt":"It is important that you report to your supervisor or employer any injury, incident or close call,",
               "audio":"hsw_35_4",
-              "img":"hsw_35_1"},
+              "img":"hsw_35_4"},
 
              {"txt":"So that they can prevent those kinds of things from happening again in the future.",
               "audio":"hsw_35_5",
-              "img":"hsw_35_1"},
+              "img":"hsw_35_4"},
               
 
               {"txt":"Reporting Workplace Hazards",
@@ -972,7 +971,7 @@
 
              {"txt":"(d) doing such other things as may be prescribed.",
               "audio":"hsw_42_7",
-              "img":"hsw_42_7"}, 
+              "img":"hsw_32_1"}, 
 
              {"txt":"Emergency Response",
               "audio":"hsw_43_0",
@@ -1150,47 +1149,47 @@
 
              {"txt":"This training has covered the following topics to acquaint workers with health and safety in the workplace and their associated duties and responsibilities:",
               "audio":"hsw_53_1",
-              "img":"hsw_53_1"},
+              "img":"hsw_38_1"},
 
              {"txt":"Worker Duties and Responsibilities",
               "audio":"hsw_53_2",
-              "img":"hsw_53_2"},
+              "img":"hsw_38_1"},
 
              {"txt":"Three Basic Worker Rights",
               "audio":"hsw_53_3",
-              "img":"hsw_53_3"},
+              "img":"hsw_38_1"},
 
              {"txt":"Reporting Workplace Violence and Harassment",
               "audio":"hsw_53_4",
-              "img":"hsw_53_4"},
+              "img":"hsw_38_1"},
 
              {"txt":"Reporting Hazards",
               "audio":"hsw_53_5",
-              "img":"hsw_53_5"},
+              "img":"hsw_38_1"},
 
              {"txt":"Reporting Accidents",
               "audio":"hsw_53_6",
-              "img":"hsw_53_6"},
+              "img":"hsw_38_1"},
 
              {"txt":"First Aid Treatment",
               "audio":"hsw_53_7",
-              "img":"hsw_53_7"},
+              "img":"hsw_38_1"},
 
              {"txt":"Return to Work Program",
               "audio":"hsw_53_8",
-              "img":"hsw_53_8"},
+              "img":"hsw_38_1"},
 
              {"txt":"Emergency Response",
               "audio":"hsw_53_9",
-              "img":"hsw_53_9"},
+              "img":"hsw_38_1"},
 
              {"txt":"Health and Safety Representative",
               "audio":"hsw_53_10",
-              "img":"hsw_53_10"},
+              "img":"hsw_38_1"},
 
              {"txt":"Joint Health and Safety Committee",
               "audio":"hsw_53_11",
-              "img":"hsw_53_11"},
+              "img":"hsw_38_1"},
 
 
               {"txt":"What's Next...",
@@ -1243,6 +1242,5 @@
 
               {"txt":"Where the names of your joint health and safety committee members are posted.",
               "audio":"hsw_54_12",
-              "img":"hsw_2_1"}, 
-  ]}
+              "img":"hsw_2_1"} 
 ]}
