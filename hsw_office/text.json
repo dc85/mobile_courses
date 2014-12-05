@@ -68,7 +68,7 @@
               "audio":"hsw_6_0",
               "title":"1"
               },
-              {"txt":"The Occupational Health and Safety Act (OHSA) is a set of laws that outlines the duties of employers, supervisors and the rights and duties or workers.",
+              {"txt":"The Occupational Health and Safety Act (OHSA) is a set of laws that outlines the duties of employers, supervisors and the rights and duties of workers.",
               "audio":"hsw_6_1",
               "img":"hsw_6_1"
               }, 
@@ -128,11 +128,11 @@
               "audio":"hsw_8_1",
               "img":"hsw_8_1"
               },
-            {"txt":"Ensure that workers obey the law and workplace health and safety policies and procedures.",
+            {"txt":"Ensure that workers obey the law and the workplace health and safety policies and procedures.",
               "audio":"hsw_8_2",
               "img":"hsw_8_1"
               },
-            {"txt":"Ensure that worker wear and use the right protective equipment.",
+            {"txt":"Ensure that workers wear and use the right protective equipment.",
               "audio":"hsw_8_3",
               "img":"hsw_8_1"
               },
@@ -180,7 +180,7 @@
               "audio":"hsw_10_3",
               "img":"hsw_10_1"
               },
-                {"txt":"You also have a right to refuse to perform unsafe work if you have reason to believe it puts you or a fellow worker in danger.",
+                {"txt":"You also have a right to refuse to perform unsafe work if you have a reason to believe it puts you or a fellow worker in danger.",
               "audio":"hsw_10_4",
               "img":"hsw_10_1"
               },
@@ -236,7 +236,7 @@
               "audio":"hsw_14_4",
               "img":"hsw_14_5"
               },
-              {"txt":"Example: Slipping on spilled coffee on the floor, tripping over a cluttered work area or falling off a raised platform with no guardrails.",
+              {"txt":"Example: Slipping on spilled coffee on the floor, tripping over a cluttered work area or falling off of a raised platform with no guardrails.",
               "audio":"hsw_14_5",
               "img":"hsw_14_5"
               },
@@ -367,7 +367,7 @@
               "audio":"hsw_18_4",
               "img":"hsw_18_2"
               },  
-               {"txt":"Being exposed to chemicals and substances, such as asbestos, mould or other harmful chemicals in the workplace can create occupational illness.",
+               {"txt":"Being exposed to chemicals and substances, such as asbestos, mold or other harmful chemicals in the workplace can create occupational illness.",
               "audio":"hsw_18_5",
               "img":"hsw_18_3"
               },  
@@ -477,7 +477,7 @@
               "audio":"hsw_25_1",
               "img":"hsw_25_1"},
 
-               {"txt":"As a project or other workplace where no committee is required under section 9 and where the number of workers regularly exceeds five,",
+               {"txt":"At a project or other workplace where no committee is required under section 9 and where the number of workers regularly exceeds five,",
               "audio":"hsw_25_2",
               "img":"hsw_25_1"},
 
@@ -1130,7 +1130,7 @@
               "audio":"hsw_51_1",
               "img":"hsw_51_1"},
 
-             {"txt":"Develops, coordinates and implements strategies to prevent workplace injuries and illnesses and can set standards for health ans safety training.",
+             {"txt":"Develops, coordinates and implements strategies to prevent workplace injuries and illnesses and can set standards for health and safety training.",
               "audio":"hsw_51_2",
               "img":"hsw_51_1"},
 

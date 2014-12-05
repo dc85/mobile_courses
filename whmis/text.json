@@ -180,7 +180,7 @@
         },
 
 
-        {   "txt": "Precautions: User in areas where there are no sources of ignition",
+        {   "txt": "Precautions: Use in areas where there are no sources of ignition",
             "audio": "whmis_10_1",
             "img": "whmis_10_1"
         },
@@ -206,7 +206,7 @@
             "audio": "whmis_11_1",
             "img": "whmis_11_1"
         },
-        {   "txt": "Hazards: Oxidizers can cause flammable and combustible materials to spontaneously ignite, causing hotter, faster and more aggressive fires or explosions",
+        {   "txt": "Hazards: Oxidizers can cause flammable and combustible materials to spontaneously ignite, creating hotter, faster and more aggressive fires or explosions",
             "audio": "whmis_11_2",
             "img": "whmis_11_1"
         },
@@ -359,7 +359,7 @@
             "audio": "whmis_20_0",
             "title": "1"
         },
-        {   "txt": "Supplier is defined as a manufacturer, processor or package of a controlled product of hazardous material in the business of import, export or sale.",
+        {   "txt": "Supplier is defined as a manufacturer, processor or packager of a controlled product of hazardous material in the business of import, export or sale.",
             "audio": "whmis_20_1",
             "img": "whmis_20_1"
         },
@@ -380,7 +380,7 @@
             "audio": "whmis_21_1",
             "img": "whmis_21_1"
         }, 
-        {   "txt": "Hazard symbols: one or more of the eight hazard symbols that applies to the product.",
+        {   "txt": "Hazard symbols: one or more of the eight hazard symbols that apply to the product.",
             "audio": "whmis_21_2",
             "img": "whmis_21_2"
         }, 
@@ -473,7 +473,7 @@
             "audio": "whmis_24_1",
             "img": "whmis_24_1"
         },
-        {   "txt": "Hazardous Ingredients: list all ingredients of the product which falls under any of the eight hazard classes.",
+        {   "txt": "Hazardous Ingredients: lists all ingredients of the product which falls under any of the eight hazard classes.",
             "audio": "whmis_24_2",
             "img": "whmis_24_2"
         },
@@ -573,7 +573,7 @@
             "audio": "whmis_29_0",
             "title": "1"
         },
-        {   "txt": "Control along the path is the means by which the hazard poses by the substance can be reduced. This can be done by:",
+        {   "txt": "Control along the path is the means by which the hazard posed by the substance can be reduced. This can be done by:",
             "audio": "whmis_29_1",
             "img": "whmis_27_3"
         },  
@@ -654,7 +654,7 @@
             "audio": "whmis_32_2",
             "img": "whmis_32_2"
         },
-        {   "txt": "Ingestion: Materials enter the body by being swalloed. This usually occurs due to contamination on the hands, which then touch food or the face.",
+        {   "txt": "Ingestion: Materials enter the body by being swallowed. This usually occurs due to contamination on the hands, which then touch food or the face.",
             "audio": "whmis_32_3",
             "img": "whmis_32_3"
         },
