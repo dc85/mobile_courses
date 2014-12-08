@@ -402,10 +402,6 @@
                 "audio":"19_3",
                 "img":"19_1"
                 }, 
-			    {"txt":"Self-service kiosks.",
-                "audio":"19_4",
-                "img":"19_1"
-                }, 
 
 			    {"txt":"Accessibility Report",
                 "audio":"20_0",
@@ -579,7 +575,7 @@
                 "audio":"26_3",
                 "img":"26_1"
                 }, 
-			    {"txt":"disabetes mellitus, epilepsy, a brain injury, any degree of paralysis, amputation, lack of physical co-ordination,",
+			    {"txt":"diabetes mellitus, epilepsy, a brain injury, any degree of paralysis, amputation, lack of physical co-ordination,",
                 "audio":"26_4",
                 "img":"26_1"
                 }, 
@@ -1246,46 +1242,46 @@
                 },  
 			    {"txt":"The following are general tips on providing service to people with disabilities:",
                 "audio":"47_1",
-                "bullet":"1"
+                "img":"4_2"
                 },  
 			    {"txt":"If you are not sure what to do, ask, 'May I help you?' or 'May I be of assistance?'.",
                 "audio":"47_2",
-                "bullet":"1"
+                "img":"36_1"
                 },  
 			    {"txt":"People with disabilities konw if they need help and how you can provide it.",
                 "audio":"47_3",
-                "bullet":"1"
+                "img":"36_1"
                 },  
 			    {"txt":"Make no assumptions about what type of disability or disabilities the person has.",
                 "audio":"47_4",
-                "bullet":"1"
+                "img":"39_1"
                 },  
 			    {"txt":"Some disabilities are not visible and a person is not required to give you any information about any disabilities they may have.",
                 "audio":"47_5",
-                "bullet":"1"
+                "img":"39_1"
                 },  
 			    {"txt":"Speak directly to the person with a disability, not to their support person or companion.",
                 "audio":"47_6",
-                "bullet":"1"
+                "img":"42_1"
                 },  
 			    {"txt":"Take the time to get to know the person's needs and focus on meeting those needs just as you would with any other person.",
                 "audio":"47_7",
-                "bullet":"1"
+                "img":"46_1"
                 },  
 			    {"txt":"Be patient. People with certain types of disabilities may take a little longer to understand and respond.",
                 "audio":"47_8",
-                "bullet":"1"
+                "img":"39_1"
                 },  
 			    {"txt":"If you cannot understand what the person is saying, politely ask them to repeat themselves.",
                 "audio":"47_9",
-                "bullet":"1"
+                "img":"44_1"
                 },  
 			    {"txt":"Do not touch or interact with service animals.",
                 "audio":"47_10",
-                "bullet":"1"
+                "img":"30_1"
                 },  
 			    {"txt":"Do not touch assistive devices, including wheelchairs, without permission.",
                 "audio":"47_11",
-                "bullet":"1"
+                "img":"36_1"
                 }  
 ]}

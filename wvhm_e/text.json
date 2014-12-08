@@ -6,54 +6,25 @@
                 "title":"1"
                 },
 
-                {"txt":"Course Outline",
-                "audio":"1_0",
-                "title":"1"
-                },
-                {"txt":"Introduction\n\n \n\n ",
-                "audio":"1_1",
-                "bullet":"1"
-                },
-                {"txt":"Introduction\n\nDefinitions\n\n ",
-                "audio":"1_2",
-                "bullet":"1"
-                },
-                {"txt":"Introduction\n\nDefinitions\n\nSources of Workplace Violence and Harassment",
-                "audio":"1_3",
-                "bullet":"1"
-                },
-                {"txt":"Warning signs for Workplace Violence and Harassment\n\n \n\n ",
-                "audio":"1_4",
-                "bullet":"1"
-                },
-                {"txt":"Warning signs for Workplace Violence and Harassment\n\nResponding to Workplace Violence and Harassment\n\n ",
-                "audio":"1_5",
-                "bullet":"1"
-                },
-                {"txt":"Warning signs for Workplace Violence and Harassment\n\nResponding to Workplace Violence and Harassment\n\nResponsibilities",
-                "audio":"1_6",
-                "bullet":"1"
-                },
-
                 {"txt":"Introduction",
                 "audio":"2_0",
                 "title":"1"
                 },
                 {"txt":"The purpose of this training is to raise awareness of actions and situations that could contribute to workplace violence and harassment.",
                 "audio":"2_1",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"The objective of this training is to make the participants aware of the laws, regulations and the organization's policies to handle workplace violence and harassment.",
                 "audio":"2_2",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"This training does not address all possible situations or conditions and is not intended to be a substitute for seeking help from a legal and/or human resources professionals when required.",
                 "audio":"2_3",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"If you have any questions or issues regarding workplace violence or harassment, please contact your manager or human resources.",
                 "audio":"2_4",
-                "bullet":"1"
+                "img":"11_1"
                 },
 
                 {"txt":"What is Workplace Violence?",
@@ -388,47 +359,47 @@
                 },
                 {"txt":"Act respectfully at work and while conducting work related activities.",
                 "audio":"30_1",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"Conduct a risk assessment to identify workplace violence hazards and potential hazards.",
                 "audio":"30_2",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"Ensure that workers are informed of any actual or potential workplace violence risks, including the nature and extent of the risk.",
                 "audio":"30_3",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"Inform Joint Health and Safety Committee of the results of the assessment.",
                 "audio":"30_4",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"Take all reasonable precautions to minimize or eliminate violence related hazards.",
                 "audio":"30_5",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"Establish procedures for preventing, reporting, investigating, documenting and debriefing workplace violence and harassment incidents.",
                 "audio":"30_6",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"Ensure that workers are provided with information and instruction that is appropriate for the worker, on the contents of the policy and program",
                 "audio":"30_7",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"with respect to the prevention of workplace violence and harassment.",
                 "audio":"30_8",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"Review the efficacy of the workplace violence and harassment prevention program and procedures on a regular basis and in consultation with the Joint Health and Safety Committee.",
                 "audio":"30_9",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"Take every precaution reasonable if management is aware, or ought reasonably to be aware,",
                 "audio":"30_10",
-                "bullet":"1"
+                "img":"11_1"
                 },
                 {"txt":"that domestic violence that may occur in the workplace would likely expose a worker to physical injury.",
                 "audio":"30_11",
-                "bullet":"1"
+                "img":"11_1"
                 },
 
                 {"txt":"Supervisor Responsibilities",
@@ -470,23 +441,23 @@
                 },
                 {"txt":"Do not engage in any improper activity or behaviour at the workplace that might create or constitute a hazard to themselves or to any other person.",
                 "audio":"31_1",
-                "bullet":"1"
+                "img":"31_1"
                 },
                 {"txt":"Act respectfully at work and while conducting work related activities.",
                 "audio":"31_2",
-                "bullet":"1"
+                "img":"31_1"
                 },
                 {"txt":"Attend or complete training and education sessions when required.",
                 "audio":"31_3",
-                "bullet":"1"
+                "img":"31_1"
                 },
                 {"txt":"Immediately report to supervisors, human resources or the compliance line, incidents and/or knowledge of workplace violence or harassment.",
                 "audio":"31_4",
-                "bullet":"1"
+                "img":"31_1"
                 },
                 {"txt":"Cooperate with investigations.",
                 "audio":"31_5",
-                "bullet":"1"
+                "img":"31_1"
                 },
 
                 {"txt":"Conclusion",
