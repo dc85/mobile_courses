@@ -8,7 +8,7 @@
 
                 {"txt":"Introduction: few facts about material handling:",
                 "audio":"2_0",
-                "title":"1"
+                "img":"2_0"
                 },
                 {"txt":"For every ton of finished product, there is 50 tons of materials being moved.",
                 "audio":"2_1",
@@ -16,23 +16,23 @@
                 },
                 {"txt":"33% of all disabling work related injuries occur while working with materials by hand.",
                 "audio":"2_2",
-                "img":"2_1"
+                "img":"2_2"
                 },
                 {"txt":"Applying controls and procedures reduce the risk of injury.",
                 "audio":"2_3",
-                "img":"2_3"
+                "img":"2_2"
                 },
                 {"txt":"2 out 3 Canadians get back injuries; 1 in 50 Canadians get disabled due to back injuries.",
                 "audio":"2_4",
-                "img":"2_4"
+                "img":"2_3"
                 },
                 {"txt":"In the workplace, each handling task poses unique demands on the worker.",
                 "audio":"2_5",
-                "img":"2_5"
+                "img":"2_3"
                 },
                 {"txt":"By implementing proper policies and procedures, the worker can perform these tasks safely and easily.",
                 "audio":"2_6",
-                "img":"2_6"
+                "img":"2_3"
                 },
 
 			    {"txt":"Course Objectives",
@@ -83,7 +83,7 @@
                 },
         	    {"txt":"Plan the lift; can any handling aids be used? where is the load going to be placed? ",
                 "audio":"5_2",
-                "img":"5_2"
+                "img":"5_1"
                 },
         	    {"txt":"Is assistance required to move the load? remove obstructions such as discarded wrapping materials.",
                 "audio":"5_3",
@@ -91,7 +91,7 @@
                 },
         	    {"txt":"For a long lift, consider resting the load midway on a stable or bench to change grip.",
                 "audio":"5_4",
-                "img":"5_4"
+                "img":"5_3"
                 },
         	    {"txt":"To lift properly, start with,",
                 "audio":"5_5",
@@ -99,7 +99,7 @@
                 },
         	    {"txt":"Get a good hold: where possible the load should be hugged as close as possible to the body.",
                 "audio":"5_6",
-                "img":"5_6"
+                "img":"5_5"
                 },
         	    {"txt":"This may be better than gripping it tightly with just the hands.",
                 "audio":"5_7",
@@ -107,23 +107,23 @@
                 },
         	    {"txt":"Start with a good posture: at the start of the lift, a slight bending of the back, hips and knees is preferable to fully flexing the back,",
                 "audio":"5_8",
-                "img":"5_8"
+                "img":"5_5"
                 },
         	    {"txt":"or stooping, or fully flexing the hips and knees, or squatting.",
                 "audio":"5_9",
-                "img":"5_9"
+                "img":"5_5"
                 },
         	    {"txt":"Keep the load close to the waist: keep the load close to the body for as long as possible while lifting.",
                 "audio":"5_10",
-                "img":"5_10"
+                "img":"5_5"
                 },
         	    {"txt":"Keep the heaviest side of the load next to the body.",
                 "audio":"5_11",
-                "img":"5_11"
+                "img":"5_5"
                 },
         	    {"txt":"If a close approach to the load is not possible, try to slide to towards the body before attempting to lift it.",
                 "audio":"5_12",
-                "img":"5_12"
+                "img":"5_5"
                 },
 
         	    {"txt":"Adopt a stable position: the feet should be apart with one leg slightly forward to maintain balance (alongside the load, if it is on the ground)",
@@ -132,19 +132,19 @@
                 },
         	    {"txt":"The worker should be prepared to move their feet during the lift to maintain their stability.",
                 "audio":"5_14",
-                "img":"5_14"
+                "img":"5_13"
                 },
         	    {"txt":"Avoid tight clothing or unsuitable footwear, which may make this difficult.",
                 "audio":"5_15",
-                "img":"5_15"
+                "img":"5_13"
                 },
         	    {"txt":"While lifting: do not flex the back any further while lifting.",
                 "audio":"5_16",
-                "img":"5_16"
+                "img":"5_13"
                 },
         	    {"txt":"This can impact your back if the legs begin to straighten before starting to raise the load.",
                 "audio":"5_17",
-                "img":"5_17"
+                "img":"5_13"
                 },
         	    {"txt":"Avoid twisting the back or learning sideways, especially while the back is bent.",
                 "audio":"5_18",
@@ -152,27 +152,27 @@
                 },
         	    {"txt":"Shoulder should be level and be facing the same direction as the hips. ",
                 "audio":"5_19",
-                "img":"5_19"
+                "img":"5_18"
                 },
         	    {"txt":"Turning by moving the feet is better than twisting and lifting at the same time.",
                 "audio":"5_20",
-                "img":"5_20"
+                "img":"5_18"
                 },
         	    {"txt":"Keep the head and neck up when handling the load. Once the load has been held securely, look ahead and never down at the load.",
                 "audio":"5_21",
-                "img":"5_21"
+                "img":"5_18"
                 },
         	    {"txt":"Move smoothly. The load should not be jerked or snatched as this can make it harder to keep control and can increase the risk of injuery.",
                 "audio":"5_22",
-                "img":"5_22"
+                "img":"5_18"
                 },
         	    {"txt":"Do not lift or handle more than what you can manage.",
                 "audio":"5_23",
-                "img":"5_23"
+                "img":"5_18"
                 },
         	    {"txt":"There is a difference between what people can lift and what they can safely lift. If in doubt, seek advice or get help.",
                 "audio":"5_24",
-                "img":"5_24"
+                "img":"5_18"
                 },
 
         	    {"txt":"Lowering",
@@ -185,7 +185,7 @@
                 },
         	    {"txt":"Use the lifting principles to load on to any deep shelves. Begin by placing the load on the edge of the shelf and push it into place.",
                 "audio":"6_2",
-                "img":"6_2"
+                "img":"6_1"
                 },
 
 				{"txt":"Using Mechanical Devices to Move Materials",
@@ -198,24 +198,24 @@
                 },
         	    {"txt":"Chutes, monorails, air tables and similar mechanical aids.",
                 "audio":"7_3",
-                "img":"7_3"
+                "img":"7_2"
                 },
                 {"txt":"Make loads easier to push or pull by ensuring the use of:",
                 "audio":"8_1",
-                "img":"8_1"
+                "img":"7_2"
                 },
         	    {"txt":"Carts, lift trucks and dollies with large diameter casters and good bearings, ",
                 "audio":"8_2",
-                "img":"8_2"
+                "img":"7_2"
                 }, 
         	    {"txt":"and grips or handles on loads of mechanical aids placed to provide optimal push force and prevent awkward postures.",
                 "audio":"8_3",
-                "img":"8_3"
+                "img":"7_2"
                 }, 
 
                 {"txt":"Remember: push rather than pull; pull rather than carry; avoid overloading.",
                 "audio":"9_1",
-                "title":"1"
+                "img":"9_1"
                 },
         	    {"txt":"Limit the load pushed or pulled at any one time; ensure the load does not block vision; never push one load and pull another at the same time.",
                 "audio":"9_2",
@@ -232,11 +232,11 @@
                 },
                 {"txt":"The lift is done by taking one of the legs straight out behind; while leaning forward it is important to keep the back straight.",
                 "audio":"10_3",
-                "img":"10_3"
+                "img":"10_2"
                 },
                 {"txt":"To support the body to prevent tip over, place one hand on the knee or on a nearby object.",
                 "audio":"10_4",
-                "img":"10_4"
+                "img":"10_2"
                 },
 
                 {"txt":"One person lifts - moving sheets",
@@ -249,11 +249,11 @@
                 },
                 {"txt":"Use the following techniques: avoid twisting the spine; use the whole hand not just the fingers.",
                 "audio":"10_7",
-                "img":"10_7"
+                "img":"10_6"
                 },
                 {"txt":"When lifting, use the leg and thigh muscles not the back; Use the lifting techniques in reverse to lower the sheet.",
                 "audio":"10_8",
-                "img":"10_8"
+                "img":"10_6"
                 },
 
                 {"txt":"One person lifts - long loads",
@@ -304,7 +304,7 @@
                 },
                 {"txt":"Hold the sack at the top, making sure that is doesn't slip through your hands.",
                 "audio":"12_3",
-                "img":"12_3"
+                "img":"12_2"
                 },
                 {"txt":"Place the shoulder against the sack, tilting it forward while taking the weight.",
                 "audio":"12_4",
@@ -312,7 +312,7 @@
                 },
                 {"txt":"With one smooth movement, straighten the knees and move forward.",
                 "audio":"12_5",
-                "img":"12_5"
+                "img":"12_4"
                 },
 
                 {"txt":"Two person lifts - various loads",
@@ -325,11 +325,11 @@
                 },
                 {"txt":"Grasp the bottom corner with one hand, and the upper corner with the other; get a good grip; lift together.",
                 "audio":"13_3",
-                "img":"13_3"
+                "img":"13_2"
                 },
                 {"txt":"Use the legs and thigh muscles, not the back.",
                 "audio":"13_4",
-                "img":"13_4"
+                "img":"13_2"
                 },
 
                 {"txt":"One person lifts - barrels and cylinders",
@@ -346,7 +346,7 @@
                 },
                 {"txt":"Grasp the top rim of the drum and use the bottom rim to maneuver it into a balanced position or onto a mechanical device.",
                 "audio":"14_4",
-                "img":"14_4"
+                "img":"14_3"
                 },
 
 			
@@ -356,7 +356,7 @@
                 },              
                 {"txt":"Compressive loading: this is a downward pressure on the vertebrae and discs. The initial lifting of an object causes this type of pressure.",
                 "audio":"15_3",
-                "img":"15_3"
+                "img":"15_2"
                 },              
                 {"txt":"Tension loading: this happen when flexing or extending the spine produces strain on the ligaments and surrounding muscle tissue.",
                 "audio":"15_4",
@@ -366,21 +366,22 @@
                 "audio":"15_5",
                 "img":"15_5"
                 },              
+
                 {"txt":"Those who lift heavy objects risk developing hernias.",
                 "audio":"15_6",
                 "img":"15_6"
                 },   
                 {"txt":"Hernia is a bulge of soft tissue that forces its way through or between muscles. There are several causes of hernias.",
                 "audio":"15_7",
-                "img":"15_7"
+                "img":"15_6"
                 },   
                 {"txt":"One way would be an abdominal or groin muscle becoming weak and pressure from lifting may push the intestine or other organs through a weak point.",
                 "audio":"15_8",
-                "img":"15_8"
+                "img":"15_6"
                 },   
                 {"txt":"The following are causes of hernias: obesity or sudden weight gain; lifting heavy objects; diarrhea or constipation; persistent coughing or sneezing.",
                 "audio":"15_9",
-                "img":"15_9"
+                "img":"15_6"
                 },   
 
 
@@ -394,7 +395,7 @@
                 },  
                 {"txt":"MSDs can occur in any type of workplace if prevention methods are not put in place.",
                 "audio":"16_3",
-                "img":"16_3"
+                "img":"16_2"
                 },  
                 {"txt":"MSDs do not include musculoskeletal injuries or disorders that are the direct result of a fall, struck by or against, caught in or on, vehicle collisoin, violence, etc.",
                 "audio":"16_4",
@@ -415,15 +416,17 @@
                 },  
                 {"txt":"Activities that often involve high levels of force including lifting, lowering, pushing or carrying objects.",
                 "audio":"17_4",
-                "img":"17_4"
+                "img":"17_3"
                 },  
+
+
                 {"txt":"Fixed or Awkward Posture - the farther a joint moves towards either the end of its range of motion.",
                 "audio":"17_5",
                 "img":"17_5"
                 },  
                 {"txt":"or the farther away from the neutral posture, the more awkward or poor the posture becomes and the more strain is put on the body.",
                 "audio":"17_6",
-                "img":"17_6"
+                "img":"17_5"
                 },  
                 {"txt":"Repetition - the risk of developing an MSD increases when the same parts of the body are used repeatedly, with few breaks or chances for rest.",
                 "audio":"17_7",
@@ -448,7 +451,7 @@
                 },  
                 {"txt":"Typical job activites that cause carpal tunnel syndrome include polishing, typing or assembly work.",
                 "audio":"18_4",
-                "img":"18_4"
+                "img":"18_3"
                 },  
                 {"txt":"Tendonitis - is the inflammation of a tendon. Often associated with repeated tension, bending or vibration.",
                 "audio":"18_5",
@@ -502,7 +505,7 @@
                 },  
                 {"txt":"Be aware of symptoms of MSDs and report them early if they occur; use proper working techniques.",
                 "audio":"20_4",
-                "img":"20_4"
+                "img":"20_3"
                 },  
 
                 {"txt":"Personal Protective Equipment (PPE)",
@@ -540,7 +543,7 @@
                 },   
                 {"txt":"Job planning: plan every job before hand and never manage too many task at the same time.",
                 "audio":"22_3",
-                "img":"22_3"
+                "img":"22_2"
                 },   
                 {"txt":"Perform proper lifting and lowering techniques using the previously stated procedures.",
                 "audio":"22_4",
