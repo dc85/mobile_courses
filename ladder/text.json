@@ -1,0 +1,516 @@
+{
+    "prefix":"",
+    "slides":[
+                {"txt":"Ladder Safety",
+                "audio":"1_0",
+                "title":"1"
+                },
+
+                {"txt":"Overview",
+                "audio":"2_0",
+                "title":"1"
+                },
+                {"txt":"The following topics will be covered: types of ladders; handling and setup; setup rules; ladder maintenance and inspection",
+                "audio":"2_1",
+                "img":"2_1"
+                },
+
+                {"txt":"Ladders",
+                "audio":"4_0",
+                "title":"1"
+                },
+                {"txt":"Portable ladders are one of the handiest, simplest tools we use at home and at the workplace.",
+                "audio":"4_1",
+                "img":"4_1"
+                },
+                {"txt":"Although ladders are very uncomplicated, safety standards must still be followed.",
+                "audio":"4_2",
+                "img":"4_2"
+                },
+                {"txt":"In North America, accidents involving ladders cause an estimated 300 deaths and 130,000 injuries requiring emergency medical attention every year.",
+                "audio":"4_3",
+                "img":"4_3"
+                },
+                {"txt":"The main hazards associated with ladders include: falls from ladders; struck by falling ladders; struck my materials falling from ladders. ",
+                "audio":"4_4",
+                "img":"4_4"
+                },
+                {"txt":"Tripping over ladders; lifting heavy ladders; striking persons or objects when carrying ladders; contact with electrical equipment.",
+                "audio":"4_5",
+                "img":"4_5"
+                },
+
+                {"txt":"Portable ladders are designed as one-man equipment with the proper strength to support the worker as well as the worker's tools and materials.",
+                "audio":"5_1",
+                "img":"5_1"
+                },
+                {"txt":"The ladder's grade and load rating should be found on the side rail.",
+                "audio":"5_2",
+                "img":"5_2"
+                },
+                {"txt":"The CSA (Canadian Standards Association) classification of ladders are as follows:",
+                "audio":"5_3",
+                "img":"5_3"
+                },
+                {"txt":"Grade I - for construction and industrial jobs.",
+                "audio":"5_4",
+                "img":"5_4"
+                },
+                {"txt":"Grade II - for non-construction and farm use",
+                "audio":"5_5",
+                "img":"5_5"
+                },
+                {"txt":"Grade III - for light duty jobs (households)",
+                "audio":"5_6",
+                "img":"5_6"
+                },
+                {"txt":"The load rating should correspond to the worker's weight plus the weight of the tools used on the ladder.",
+                "audio":"5_7",
+                "img":"5_7"
+                },
+
+                {"txt":"Types of Ladders",
+                "audio":"6_0",
+                "title":"1"
+                },
+                {"txt":"The main types of ladders used in a workplace are: extension ladder; single ladder; step ladder; sectional ladder; fixed ladder; rolling ladder.",
+                "audio":"6_1",
+                "img":"6_1"
+                }, 
+
+                {"txt":"Ladder Selection",
+                "audio":"7_0",
+                "title":"1"
+                },
+                {"txt":"Ladders are made of: fiberglass - strong, lightweight and electrically non-conductive.",
+                "audio":"7_1",
+                "img":"7_1"
+                }, 
+                {"txt":"Metal / Aluminum - resistant, light weight but electrically conductive.",
+                "audio":"7_2",
+                "img":"7_2"
+                }, 
+                {"txt":"Wood - heavier, electrically non-conductive, may become a problem over time due to rotting.",
+                "audio":"7_3",
+                "img":"7_3"
+                }, 
+
+                 {"txt":"Ladder Handling and Setup",
+                "audio":"8_0",
+                "title":"1"
+                },
+                {"txt":"There are some basic rules and procedures that must be followed when handling, setting up and working a loft on ladders.",
+                "audio":"8_1",
+                "img":"8_1"
+                }, 
+                {"txt":"First, we will look at the general precautions that apply to all types of ladders and later, we will look at some specific precautions.",
+                "audio":"8_2",
+                "img":"8_2"
+                }, 
+
+                 {"txt":"General Handling and Setup",
+                "audio":"9_0",
+                "title":"1"
+                },
+                {"txt":"General handling and setup precautions that apply to all types of ladders include: ",
+                "audio":"9_1",
+                "img":"9_1"
+                }, 
+                {"txt":"Before climbing, ensure that the rungs of the ladders, as well as your hands and shoes are free from slippery substances, such as oil.",
+                "audio":"9_2",
+                "img":"9_2"
+                }, 
+                {"txt":"Wear appropriate footwear (fully enclosed nonslip).",
+                "audio":"9_3",
+                "img":"9_3"
+                }, 
+                {"txt":"Do not attempt to lean to the side so that the centre of your chest is beyond the side rail.",
+                "audio":"9_4",
+                "img":"9_4"
+                }, 
+                {"txt":"Face the ladder on the ladder's top three rungs, protect yourself from electrical shocks.",
+                "audio":"9_5",
+                "img":"9_5"
+                }, 
+                {"txt":"Electrocution can occur with metal or wet wooden ladders.",
+                "audio":"9_6",
+                "img":"9_6"
+                }, 
+                {"txt":"Use signs, cones, or barricades to direct pedestrian traffic around the base of the ladder.",
+                "audio":"10_1",
+                "img":"10_1"
+                }, 
+                {"txt":"If the ladder must be setup in a doorway or in a driveway, notify the appropriate person (building owner, or manager).",
+                "audio":"10_2",
+                "img":"10_2"
+                }, 
+                {"txt":"Ensure that the surface upon which the ladder is placed is sufficiently rigid and is strong enough to support the ladder,",
+                "audio":"10_3",
+                "img":"10_3"
+                }, 
+                {"txt":"the climber, plus any extra weight caused by the type of work being performed.",
+                "audio":"10_4",
+                "img":"10_4"
+                }, 
+
+                {"txt":"Selecting footing and setup: when use a ladder, ensure that the ladder is set on a solid level footing.",
+                "audio":"11_0",
+                "title":"1"
+                }, 
+                {"txt":"Never place a ladder on barrels or boxes; never place a ladder on elevated work platforms.",
+                "audio":"11_1",
+                "img":"11_1"
+                }, 
+                {"txt":"On uneven or slippery surfaces, you can nail a piece of wood in front of the base, or use a sand bag to ensure stability.",
+                "audio":"11_2",
+                "img":"11_2"
+                }, 
+                {"txt":"On cement, asphalt and steel surfaces, use nonslip pads.",
+                "audio":"11_3",
+                "img":"11_3"
+                }, 
+                {"txt":"On ice, snow or grass, the spurs of the ladder should be used to prevent the base of the ladder from slipping.",
+                "audio":"11_4",
+                "img":"11_4"
+                }, 
+
+                {"txt":"Setup Rules",
+                "audio":"12_0",
+                "title":"1"
+                }, 
+                {"txt":"The 4:1 Rule",
+                "audio":"12_1",
+                "img":"12_1"
+                }, 
+                {"txt":"Extension, sectional and single ladders should always be placed at a proper climbing angle.",
+                "audio":"12_2",
+                "img":"12_2"
+                }, 
+                {"txt":"Use a 4:1 ratio for setting ladders, or for every 4 units in height of the ladder, move the bottom of the ladder out from the wall 1 unit.",
+                "audio":"12_3",
+                "img":"12_3"
+                }, 
+                {"txt":"For example: a 20 m ladder will be placed 5 m from the base of the wall.",
+                "audio":"12_4",
+                "img":"12_4"
+                }, 
+
+                {"txt":"The 3 Point Contact Rule: while climbing up or down a ladder, you should always maintain a 3 point contact.",
+                "audio":"13_1",
+                "img":"13_1"
+                }, 
+                {"txt":"This can be performed with both feet and one hand contacting the ladder or with both hands and one foot.",
+                "audio":"13_2",
+                "img":"13_2"
+                }, 
+                {"txt":"Height Rules: the ladder must be tall enough to provide at least 1 meter (the third rung) of solid support beyond the task height.",
+                "audio":"13_3",
+                "img":"13_3"
+                }, 
+                {"txt":"When getting on or off the ladder at the top, the ladder should extend 1 meter above the point of access.",
+                "audio":"13_4",
+                "img":"13_4"
+                }, 
+
+                {"txt":"Extension ladder",
+                "audio":"14_1",
+                "title":"14_1"
+                }, 
+                {"txt":"Raising and extending an extension ladder by one person.",
+                "audio":"14_2",
+                "img":"14_2"
+                }, 
+                {"txt":"Extension ladders up to 28 ft (8.5m) may be raised or lowered by one person. To do so, you must place the base against a secure object, such as wall.",
+                "audio":"14_3",
+                "img":"14_3"
+                }, 
+                {"txt":"Raise the top end over your head, and walk towards the base. Then set up using the 4:1 rule.",
+                "audio":"14_4",
+                "img":"14_4"
+                }, 
+                {"txt":"If you need to extend the ladder: untie the ladder rope and pull the ladder rope, keeping it midway between the side rails.",
+                "audio":"14_5",
+                "img":"14_5"
+                }, 
+                {"txt":"Raise the top section two or three rungs at a time and engage the rung lock after each pull.",
+                "audio":"14_6",
+                "img":"14_6"
+                }, 
+                {"txt":"Tie the ladder rope securely around the rungs of adjacent upper and lower sections.",
+                "audio":"14_7",
+                "img":"14_7"
+                }, 
+
+                {"txt":"Raising and extending an extension ladder by two people.",
+                "audio":"15_0",
+                "img":"15_0"
+                }, 
+                {"txt":"Extension ladders over 32 ft (9.7m) should be raised and lowered by two people. To do so, follow these steps:",
+                "audio":"15_1",
+                "img":"15_1"
+                }, 
+                {"txt":"The base of the ladder is held by one person while the second person raises and ladder up to a vertical position.",
+                "audio":"15_2",
+                "img":"15_2"
+                }, 
+                {"txt":"The person standing on the back side of the ladder should hold the side rails of the lower section,",
+                "audio":"15_3",
+                "img":"15_3"
+                }, 
+                {"txt":"while the top section is being raised or lowered with the rope by the other person who is facing the front of the ladder.",
+                "audio":"15_4",
+                "img":"15_4"
+                }, 
+
+
+                {"txt":"Single ladder",
+                "audio":"16_0",
+                "title":"1"
+                }, 
+                {"txt":"The handling and setup of the single ladder is basically the same as the extension ladder.",
+                "audio":"16_1",
+                "img":"16_1"
+                }, 
+                {"txt":"When using a single ladder, remember to: not stand on the ladder's top three rungs.",
+                "audio":"16_2",
+                "img":"16_2"
+                }, 
+                {"txt":"Use non-skid feet or spurs if available. They can prevent the ladder from slipping.",
+                "audio":"16_3",
+                "img":"16_3"
+                }, 
+
+
+                {"txt":"Step ladder",
+                "audio":"17_0",
+                "title":"1"
+                }, 
+                {"txt":"Setting up and handling rules for a step ladder include: never attempt to move a step ladder while the spreaders are fully extended.",
+                "audio":"17_1",
+                "img":"17_1"
+                }, 
+                {"txt":"If the surface where the ladder has to be installed is unstable, a second person must hold it from the bottom.",
+                "audio":"17_2",
+                "img":"17_2"
+                }, 
+                {"txt":"Never use a step ladder as a straight ladder; only one person is allowed on a step ladder.",
+                "audio":"17_3",
+                "img":"17_3"
+                }, 
+                {"txt":"With step ladders that are 1.2 meter (4 feet) or lower, the highest step you can work from is the first step from the top.",
+                "audio":"17_4",
+                "img":"17_4"
+                }, 
+                {"txt":"With step ladders that are over 1.2 meter, the highest step you can work from is the second step from the top.",
+                "audio":"17_5",
+                "img":"17_5"
+                }, 
+                {"txt":"Never stand on the pail step as it is not intended to support body weight.",
+                "audio":"17_6",
+                "img":"17_6"
+                }, 
+
+                {"txt":"Sectional ladder",
+                "audio":"18_0",
+                "title":"1"
+                }, 
+                {"txt":"The setup and securing of a sectional ladder is basically the same as the extension ladder.",
+                "audio":"18_1",
+                "img":"18_1"
+                }, 
+                {"txt":"The following is important information to remember when using a sectional ladder:",
+                "audio":"18_2",
+                "img":"18_2"
+                }, 
+                {"txt":"Never use the top or middle section of a sectional ladder as the base. They are not equipped with non slip feet.",
+                "audio":"18_3",
+                "img":"18_3"
+                }, 
+                {"txt":"After you connect each section of the ladder together, remember to insert the locking pins to fasten the sections securely together.",
+                "audio":"18_4",
+                "img":"18_4"
+                }, 
+                {"txt":"The combined maximum length of a sectional ladder is 9 meters (30 feet).",
+                "audio":"18_5",
+                "img":"18_5"
+                }, 
+
+                {"txt":"Rolling ladder",
+                "audio":"19_0",
+                "title":"1"
+                }, 
+                {"txt":"Rolling ladders are usually made of lightweight, tubular metal and have a wide tread. If a rolling ladder has more than six steps, it is required to be equipped with a handrail.",
+                "audio":"19_1",
+                "img":"19_1"
+                }, 
+                {"txt":"Information to remember when moving, setting up and climbing a rolling ladder includes:",
+                "audio":"19_2",
+                "img":"19_2"
+                }, 
+                {"txt":"Ensure that the path is clear before climbing; apply brakes or wheel locks to prevent movement or tie it to a structure.",
+                "audio":"19_3",
+                "img":"19_3"
+                }, 
+                {"txt":"Employees must not work a loft higher than 3 meters (10 feet) without first adequately securing themsevles with a suitable fall arresting device.",
+                "audio":"19_4",
+                "img":"19_4"
+                }, 
+                {"txt":"Never stand with one foot on the ladder and the other one on in a different project, as a shelving unit.",
+                "audio":"19_5",
+                "img":"19_5"
+                }, 
+
+                {"txt":"Fixed ladder",
+                "audio":"20_0",
+                "title":"1"
+                }, 
+                {"txt":"Vertical fixed position ladders are usually used on towers where the ladder is mounted permanently on a structure.",
+                "audio":"20_1",
+                "img":"20_1"
+                }, 
+                {"txt":"Safety precautions that must be followed when using a fixed ladder include:",
+                "audio":"20_2",
+                "img":"20_2"
+                }, 
+                {"txt":"Before climbing, ensure that the ladder is mounted securely to the wall.",
+                "audio":"20_3",
+                "img":"20_3"
+                }, 
+                {"txt":"Wait until the other person has exited before ascending or descending.",
+                "audio":"20_4",
+                "img":"20_4"
+                }, 
+                {"txt":"If the maintenance hole ladder is over 3 meters (10 feet) in depth, you must be wearing fall arrest equipment.",
+                "audio":"20_5",
+                "img":"20_5"
+                }, 
+                {"txt":"Special care must be taken during the winter, as falling ice could be hazardous to people on the ground.",
+                "audio":"20_6",
+                "img":"20_6"
+                }, 
+
+                {"txt":"Ladder maintenance and inspection",
+                "audio":"21_0",
+                "title":"1"
+                }, 
+                {"txt":"We will now outline the basic rules on how to maintain and inspect a ladder.",
+                "audio":"21_1",
+                "img":"21_1"
+                }, 
+
+                {"txt":"Ladder maintenance",
+                "audio":"22_0",
+                "title":"1"
+                }, 
+                {"txt":"At any workplace where ladders are used, there must be an established program for regular maintenance. The program should include:",
+                "audio":"22_1",
+                "img":"22_1"
+                },  
+                {"txt":"Inspecting for common defects, such as broken rungs, split side rails, worn or broken safety feet and oil or grease.",
+                "audio":"22_2",
+                "img":"22_2"
+                },  
+                {"txt":"Destroy ladders that cannot be safely repaired; prohibiting repairs which include tying or binding with wire.",
+                "audio":"22_3",
+                "img":"22_3"
+                },  
+                {"txt":"Prohibiting the painting of ladders, as this can hide cracks or other weak points.",
+                "audio":"22_4",
+                "img":"22_4"
+                },  
+
+                {"txt":"Wood ladders should be protected with a wood preservative, but never painted on, because the paint could hide defects.",
+                "audio":"23_1",
+                "img":"23_1"
+                },  
+                {"txt":"Check carefully for cracks, rot, splinters, broken rungs, loose joints and bolts, and hardware in poor condition.",
+                "audio":"23_2",
+                "img":"23_2"
+                },  
+                {"txt":"Aluminum or steel ladders should be inspected for rough burrs and sharp edges before use. Inspect closely for loose joints and bolts, faulty welds and cracks.",
+                "audio":"23_3",
+                "img":"23_3"
+                },  
+                {"txt":"Ensure that the hooks and locks on extension ladders are in good condition. Replace worn or frayed ropes on extension ladders at once.",
+                "audio":"23_4",
+                "img":"23_4"
+                },  
+
+                {"txt":"Fiberglass ladders should have a surface coat of lacquer maintained. If it is scratched beyond normal wear, ladders should have a maintained surface coat of lacquer.",
+                "audio":"23_5",
+                "img":"23_5"
+                },  
+
+                {"txt":"Transporting: when transporting a ladder on the roof top of a car, you must ensure that it is securely fastened to the roof rack.",
+                "audio":"24_1",
+                "img":"24_1"
+                },  
+                {"txt":"You should only use approved tie down and you should never use wires. This will prevent damage from road shock and will prevent the ladder from falling off the vehicle.",
+                "audio":"24_2",
+                "img":"24_2"
+                },  
+                {"txt":"Mark ladders which overhang vehicles with a red or orange flag.",
+                "audio":"24_3",
+                "img":"24_3"
+                },  
+                {"txt":"Carrying: carry a ladder safely balanced with the front end facing up so you can see where you are going. Seek help if the ladder is too heavy or too long.",
+                "audio":"24_4",
+                "img":"24_4"
+                },  
+
+               {"txt":"Storage: never sit a ladder on its rungs. It must sit on its siderails. If stored on a rack, support it every 2 meter (6 feet) to prevent sagging.",
+                "audio":"24_5",
+                "img":"24_5"
+                },  
+                {"txt":"Do not expose fibreglass ladders to excessive temperatures (above 93 celsius or 200 fahrenheit)",
+                "audio":"24_6",
+                "img":"24_6"
+                },   
+                {"txt":"Do not expose plastic-reinforced ladders to excessive sunlight. Ultraviolet light may cause the plastic resins to degrade.",
+                "audio":"24_7",
+                "img":"24_7"
+                },   
+                {"txt":"If the strength of the ladder is questionable, replace the ladder.",
+                "audio":"24_8",
+                "img":"24_8"
+                },   
+
+                {"txt":"Ladder inspection",
+                "audio":"25_1",
+                "title":"1"
+                },  
+                {"txt":"When inspecting a ladder, you should look for the following defects:",
+                "audio":"25_2",
+                "img":"25_2"
+                },   
+                {"txt":"Loose steps or rungs (considered loose if they can be moved at all with the hand).",
+                "audio":"25_3",
+                "img":"25_3"
+                },   
+                {"txt":"Loose nails, screws, bolts, or other metal parts; cracked, split, or broken uprights, braces, or rungs.",
+                "audio":"25_4",
+                "img":"25_4"
+                },   
+                {"txt":"Damaged or worn out bases that can be slippery.",
+                "audio":"25_5",
+                "img":"25_5"
+                },   
+
+                {"txt":"When inspecting step ladders, you should look for the following defects:",
+                "audio":"26_1",
+                "img":"26_1"
+                },   
+                {"txt":"If the ladder is wobbly; loose or bent hinge spreaders; if spreaders are broken; if hinges are loose; if steps are broken, split or worn out.",
+                "audio":"26_2",
+                "img":"26_2"
+                },   
+                {"txt":"When inspecting extension ladders, you should look for the following defects: ",
+                "audio":"26_3",
+                "img":"26_3"
+                },   
+                {"txt":"Loose, broken, or missing extension locks; defective locks that do not seat properly while extended; worn or rotted rope.",
+                "audio":"26_4",
+                "img":"26_4"
+                }   
+            ]
+}
