@@ -274,11 +274,11 @@
                 }, 
                 {"txt":"When using a single ladder, remember to: not stand on the ladder's top three rungs.",
                 "audio":"16_2",
-                "img":"16_2"
+                "img":"16_1"
                 }, 
                 {"txt":"Use non-skid feet or spurs if available. They can prevent the ladder from slipping.",
                 "audio":"16_3",
-                "img":"16_3"
+                "img":"16_1"
                 }, 
 
 
@@ -300,15 +300,15 @@
                 }, 
                 {"txt":"With step ladders that are 1.2 meter (4 feet) or lower, the highest step you can work from is the first step from the top.",
                 "audio":"17_4",
-                "img":"17_4"
+                "img":"17_3"
                 }, 
                 {"txt":"With step ladders that are over 1.2 meter, the highest step you can work from is the second step from the top.",
                 "audio":"17_5",
-                "img":"17_5"
+                "img":"17_3"
                 }, 
                 {"txt":"Never stand on the pail step as it is not intended to support body weight.",
                 "audio":"17_6",
-                "img":"17_6"
+                "img":"17_3"
                 }, 
 
                 {"txt":"Sectional ladder",
@@ -321,19 +321,19 @@
                 }, 
                 {"txt":"The following is important information to remember when using a sectional ladder:",
                 "audio":"18_2",
-                "img":"18_2"
+                "img":"18_1"
                 }, 
                 {"txt":"Never use the top or middle section of a sectional ladder as the base. They are not equipped with non slip feet.",
                 "audio":"18_3",
-                "img":"18_3"
+                "img":"18_1"
                 }, 
                 {"txt":"After you connect each section of the ladder together, remember to insert the locking pins to fasten the sections securely together.",
                 "audio":"18_4",
-                "img":"18_4"
+                "img":"18_3"
                 }, 
                 {"txt":"The combined maximum length of a sectional ladder is 9 meters (30 feet).",
                 "audio":"18_5",
-                "img":"18_5"
+                "img":"18_3"
                 }, 
 
                 {"txt":"Rolling ladder",
@@ -346,7 +346,7 @@
                 }, 
                 {"txt":"Information to remember when moving, setting up and climbing a rolling ladder includes:",
                 "audio":"19_2",
-                "img":"19_2"
+                "img":"19_1"
                 }, 
                 {"txt":"Ensure that the path is clear before climbing; apply brakes or wheel locks to prevent movement or tie it to a structure.",
                 "audio":"19_3",
@@ -354,11 +354,11 @@
                 }, 
                 {"txt":"Employees must not work a loft higher than 3 meters (10 feet) without first adequately securing themsevles with a suitable fall arresting device.",
                 "audio":"19_4",
-                "img":"19_4"
+                "img":"19_3"
                 }, 
                 {"txt":"Never stand with one foot on the ladder and the other one on in a different project, as a shelving unit.",
                 "audio":"19_5",
-                "img":"19_5"
+                "img":"19_3"
                 }, 
 
                 {"txt":"Fixed ladder",
@@ -371,23 +371,23 @@
                 }, 
                 {"txt":"Safety precautions that must be followed when using a fixed ladder include:",
                 "audio":"20_2",
-                "img":"20_2"
+                "img":"20_1"
                 }, 
                 {"txt":"Before climbing, ensure that the ladder is mounted securely to the wall.",
                 "audio":"20_3",
-                "img":"20_3"
+                "img":"20_1"
                 }, 
                 {"txt":"Wait until the other person has exited before ascending or descending.",
                 "audio":"20_4",
-                "img":"20_4"
+                "img":"20_1"
                 }, 
                 {"txt":"If the maintenance hole ladder is over 3 meters (10 feet) in depth, you must be wearing fall arrest equipment.",
                 "audio":"20_5",
-                "img":"20_5"
+                "img":"20_2"
                 }, 
                 {"txt":"Special care must be taken during the winter, as falling ice could be hazardous to people on the ground.",
                 "audio":"20_6",
-                "img":"20_6"
+                "img":"20_2"
                 }, 
 
                 {"txt":"Ladder maintenance and inspection",
@@ -426,7 +426,7 @@
                 },  
                 {"txt":"Check carefully for cracks, rot, splinters, broken rungs, loose joints and bolts, and hardware in poor condition.",
                 "audio":"23_2",
-                "img":"23_2"
+                "img":"23_1"
                 },  
                 {"txt":"Aluminum or steel ladders should be inspected for rough burrs and sharp edges before use. Inspect closely for loose joints and bolts, faulty welds and cracks.",
                 "audio":"23_3",
@@ -434,7 +434,7 @@
                 },  
                 {"txt":"Ensure that the hooks and locks on extension ladders are in good condition. Replace worn or frayed ropes on extension ladders at once.",
                 "audio":"23_4",
-                "img":"23_4"
+                "img":"23_3"
                 },  
 
                 {"txt":"Fiberglass ladders should have a surface coat of lacquer maintained. If it is scratched beyond normal wear, ladders should have a maintained surface coat of lacquer.",
@@ -469,7 +469,7 @@
                 },   
                 {"txt":"Do not expose plastic-reinforced ladders to excessive sunlight. Ultraviolet light may cause the plastic resins to degrade.",
                 "audio":"24_7",
-                "img":"24_7"
+                "img":"24_6"
                 },   
                 {"txt":"If the strength of the ladder is questionable, replace the ladder.",
                 "audio":"24_8",
@@ -503,7 +503,7 @@
                 },   
                 {"txt":"If the ladder is wobbly; loose or bent hinge spreaders; if spreaders are broken; if hinges are loose; if steps are broken, split or worn out.",
                 "audio":"26_2",
-                "img":"26_2"
+                "img":"26_1"
                 },   
                 {"txt":"When inspecting extension ladders, you should look for the following defects: ",
                 "audio":"26_3",
@@ -511,7 +511,7 @@
                 },   
                 {"txt":"Loose, broken, or missing extension locks; defective locks that do not seat properly while extended; worn or rotted rope.",
                 "audio":"26_4",
-                "img":"26_4"
+                "img":"26_3"
                 }   
             ]
 }
