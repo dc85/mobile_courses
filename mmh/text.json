@@ -6,7 +6,7 @@
                 "title":"1"
                 },
 
-                {"txt":"Introduction: few facts about material handling:",
+                {"txt":"Introduction: a few facts about material handling:",
                 "audio":"2_0",
                 "img":"2_0"
                 },
@@ -43,7 +43,7 @@
                 "audio":"3_1",
                 "img":"3_1"
                 },
-                {"txt":"tasks that can potentially cause manual handling injuries and ways of reducing the risk of injuries.",
+                {"txt":"Tasks that can potentially cause manual handling injuries and ways of reducing the risk of injuries.",
                 "audio":"3_2",
                 "img":"3_2"
                 },
@@ -89,7 +89,7 @@
                 "audio":"5_3",
                 "img":"5_3"
                 },
-        	    {"txt":"For a long lift, consider resting the load midway on a stable or bench to change grip.",
+        	    {"txt":"For a long lift, consider resting the load midway on a table or bench to change grip.",
                 "audio":"5_4",
                 "img":"5_3"
                 },
@@ -174,11 +174,6 @@
                 "audio":"5_24",
                 "img":"5_18"
                 },
-
-        	    {"txt":"Lowering",
-                "audio":"6_1",
-                "title":"1"
-                },
         	    {"txt":"Lower material slowly and smoothly.",
                 "audio":"6_1",
                 "img":"6_1"
@@ -226,7 +221,7 @@
                 "audio":"10_1",
                 "title":"1"
                 },
-                {"txt":"the golfer's lift is used to pick up small and light loads in which you cannot bend your knees or get close to the object.",
+                {"txt":"The golfer's lift is used to pick up small and light loads in which you cannot bend your knees or get close to the object.",
                 "audio":"10_2",
                 "img":"10_2"
                 },
@@ -298,7 +293,7 @@
                 "audio":"12_1",
                 "title":"1"
                 },
-                {"txt":"Place the back against the elevanted sack, feel comfortably apart and one in front of the other.",
+                {"txt":"Place the back against the elevanted sack, feet comfortably apart and one in front of the other.",
                 "audio":"12_2",
                 "img":"12_2"
                 },
@@ -507,11 +502,6 @@
                 "audio":"20_4",
                 "img":"20_3"
                 },  
-
-                {"txt":"Personal Protective Equipment (PPE)",
-                "audio":"21_1",
-                "title":"1"
-                },
                 {"txt":"The right work clothing and PPE can help prevent materials handling injuries.",
                 "audio":"21_2",
                 "img":"21_2"
@@ -557,9 +547,9 @@
                 "audio":"22_6",
                 "img":"22_6"
                 },   
-                {"txt":"Proper diet - eat regularly and healthy food, get adequate sleep.",
+                {"txt":"Proper diet - eat regularly and healthy food.",
                 "audio":"22_7",
                 "img":"22_7"
-                },   
+                }   
 
 ]}
