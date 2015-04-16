@@ -269,7 +269,7 @@
                 "audio":"18_0",
                 "title":"1"
                 },
-                {"txt":"Anchor points should not bend, break or deflect; do not use anchor for multiple life lines.",
+                {"txt":"Anchor points should not bend, break or deflect; do not use one anchor for multiple life lines.",
                 "audio":"18_1",
                 "img":"18_1"
                 },
@@ -278,76 +278,130 @@
                 "img":"18_2"
                 },
                 {"txt":"Anchors should be able to withstand to a minimum of 10 times the total weight (body weight and equipment and tools weight) of the employee using the fall arrest system.",
-                "audio":"18_2",
-                "img":"18_2"
+                "audio":"18_3",
+                "img":"18_3"
+                },
+                {"txt":"Anchor points should be positioned over the worker's head and as high as possible, always use compatible shape designated anchors",
+                "audio":"18_4",
+                "img":"18_4"
+                },
+                {"txt":"Do not attach to random structures such as chimneys, wires or pipes on the roof, railings, ladders etc.",
+                "audio":"18_5",
+                "img":"18_5"
                 },
 
-
-                {"txt":"Fall Arrest Systems",
+                {"txt":"Connective devices",
                 "audio":"19_0",
                 "title":"1"
                 },
-                {"txt":"Lanyard, shock absorber, snap hook, lifeline, rope grab, D clip",
+                {"txt":"Lanyard",
                 "audio":"19_1",
                 "img":"19_1"
                 },
-                {"txt":"Lanyards: lanyards should be kept as short as possible to reduce the freefall distance.",
+                {"txt":"Shock absorber",
                 "audio":"19_2",
                 "img":"19_2"
                 },
-                {"txt":"Have to have self-locking snap hooks at each end (non locking snap hooks cannot be used)",
+                {"txt":"Snap hook",
                 "audio":"19_3",
                 "img":"19_3"
                 },
-                {"txt":"Lanyards: lanyards must be withdrawn from service immediately under the following conditions:",
+                {"txt":"Lifeline",
                 "audio":"19_4",
                 "img":"19_4"
                 },
-                {"txt":"After a fall; when an integral shock absorber has been either totally or partially deployed.",
+                {"txt":"Rope grab",
                 "audio":"19_5",
                 "img":"19_5"
                 },
-                {"txt":"If the lanyard has been used for any other purposes than fall protection; check the manufacturing date (most lanyards have 5 years service life)",
+                {"txt":"D-clip",
                 "audio":"19_6",
                 "img":"19_6"
                 },
-                {"txt":"Cut the retired lanyards into two to ensure it is never used again.",
-                "audio":"19_7",
-                "img":"19_7"
+
+
+                {"txt":"Lanyards",
+                "audio":"20_0",
+                "title":"1"
+                },
+                {"txt":"Lanyards should be kept as short as possible to reduce the freefall distance.",
+                "audio":"20_1",
+                "img":"20_1"
+                },
+                {"txt":"And they have to have self-locking snap hooks at each end (non locking snap hooks cannot be used)",
+                "audio":"20_2",
+                "img":"20_2"
                 },
 
-                {"txt":"Shock absorbers: in pre-use inspection, check the outer jacket for cuts, abrasion or open stitching, chemical or heat damage.",
+                {"txt":"Lanyards must be withdrawn from service immediately under the following conditions:",
+                "audio":"20_3",
+                "img":"20_3"
+                },
+                {"txt":"After a fall; when an integral shock absorber has been either totally or partially deployed.",
+                "audio":"20_4",
+                "img":"20_4"
+                },
+                {"txt":"If the lanyard has been used for any other purposes than fall protection; check the manufacturing date (most lanyards have 5 years service life)",
+                "audio":"20_5",
+                "img":"20_5"
+                },
+                {"txt":"And cut the retired lanyards into two to ensure it is never used again.",
+                "audio":"20_6",
+                "img":"20_6"
+                },
+
+                {"txt":"Shock absorbers",
+                "audio":"22_0",
+                "title":"1"
+                },
+                {"txt":"In pre-use inspection, check the outer jacket for cuts, abrasion or open stitching, chemical or heat damage",
                 "audio":"22_1",
                 "img":"22_1"
                 },
-                {"txt":"Check the end loop for damages, crackes, etc.; remove and tag shock absorbers if found damaged.",
+                {"txt":"Check the end loop for damages, crackes, etc., and remove and tag shock absorbers if found damaged.",
                 "audio":"22_2",
                 "img":"22_2"
                 },
 
-                {"txt":"Snap hooks: must be connected to a compatible hardware; never attach one snap hook to another.",
+                {"txt":"Snap hooks",
+                "audio":"23_0",
+                "title":"1"
+                },
+                {"txt":"Snap hooks must be connected to a compatible hardware; never attach one snap hook to another.",
                 "audio":"23_1",
                 "img":"23_1"
                 },
-                {"txt":"In pre-use inspection, check snap hook for pitting, distortion or damage; ensure that the snap hook spring has enough tension power to close the keeper.",
+                {"txt":"In pre-use inspection, check snap hook for pitting, distortion or damage, and ensure that the snap hook spring has enough tension power to close the keeper.",
                 "audio":"23_2",
                 "img":"23_2"
                 },
 
-                {"txt":"Life lines: do not use knots in ropes; knots reduce rope strength by 50%; must always be protected over sharp edges.",
+                {"txt":"Life lines",
+                "audio":"24_0",
+                "title":"1"
+                },
+                {"txt":"Do not use knots in ropes; knots reduce rope strength by 50%.",
                 "audio":"24_1",
                 "img":"24_1"
                 },
-                {"txt":"Must be stored away from heat and direct UV light; in pre-use inspection, check for areas where the rope material is separating.",
+                {"txt":"Life lines must always be protected over sharp edges and must be stored away from heat and direct UV light.",
                 "audio":"24_2",
                 "img":"24_2"
                 },
-                {"txt":"Check for broken fibers, worn areas, lifelines, that are out of shape, chemical or heat damage.",
+                {"txt":"In pre-use inspection, check for areas where the rope material is separating.",
                 "audio":"24_3",
                 "img":"24_3"
                 },
+                {"txt":"Check for broken fibers, worn areas, lifelines that are out of shape, chemical or heat damage.",
+                "audio":"24_4",
+                "img":"24_4"
+                },
 
-                {"txt":"Rope Grab: a rope grab is used to connect a lanyard to a life line.", 
+                {"txt":"Rope Grab",
+                "audio":"25_0",
+                "title":"1"
+                },
+                {"txt":"A rope grab is used to connect a lanyard to a life line.", 
                 "audio":"25_1",
                 "img":"25_1"
                 },
@@ -364,19 +418,32 @@
                 "img":"25_4"
                 },
 
+
+                {"txt":"Cautions",
+                "audio":"26_0",
+                "title":"1"
+                },
                 {"txt":"The worker must be aware of the following cautions while setting up fall arrest systems.",
                 "audio":"26_1",
                 "img":"26_1"
                 },
-                {"txt":"Swing-fall hazard: be careful not to tie off to an anchor in such a way that if you fall, you'll swing into an obstruction.",
+                {"txt":"Swing-fall hazard",
                 "audio":"26_2",
                 "img":"26_2"
                 },
-                {"txt":"This is called a swing-fall hazard. A swing fall can be as harmful as falling to the ground.",
+                {"txt":"Be careful not to tie off to an anchor in such a way that if you fall, you'll swing into an obstruction.",
                 "audio":"26_3",
                 "img":"26_3"
                 },
+                {"txt":"This is called a swing-fall hazard. A swing fall can be as harmful as falling to the ground.",
+                "audio":"26_4",
+                "img":"26_4"
+                },
 
+                {"txt":"Bottoming out",
+                "audio":"27_0",
+                "title":"1"
+                },
                 {"txt":"Bottoming out occurs when the falling worker hits the lower level or the ground before the fall is fully arrested.",
                 "audio":"27_1",
                 "img":"27_1"
@@ -387,31 +454,27 @@
                 },
 
                 {"txt":"General Information",
-                "audio":"28_1",
+                "audio":"28_0",
                 "title":"1"
                 },
-                {"txt":"General information on the use of fall arrest systems:",
+                {"txt":"Employer, supervisor and employee must identify the fall hazards and the system needed for their application.",
+                "audio":"28_1",
+                "img":"28_1"
+                },
+                {"txt":"Never mix different systems component; such as the body harness in fall arrest system or fall restraint system.",
                 "audio":"28_2",
                 "img":"28_2"
                 },
-                {"txt":"Employer, supervisor and employee must identify the fall hazards and the system needed for their application.",
+                {"txt":"And proper training is required for worker using fall arrest sytem.",
                 "audio":"28_3",
                 "img":"28_3"
                 },
-                {"txt":"Never mix different systems component; such as the body harness in fall arrest system or fall restraint system.",
-                "audio":"28_4",
-                "img":"28_4"
-                },
-                {"txt":"Proper training is required for worker using fall arrest sytem.",
-                "audio":"28_5",
-                "img":"28_5"
-                },
 
-                {"txt":"Fall arrest program should include individual fit testing of equipment; employee using fall arrest system must not work alone (buddy system).",
+                {"txt":"The fall arrest program should include individual fit testing of equipment; employee using fall arrest system must not work alone (buddy system).",
                 "audio":"29_1",
                 "img":"29_1"
                 },
-                {"txt":"Pre-use inspection must be performed by the employee who is about to use fall arrest system; never mix and match manufacturers (two identical looking components may work very differently).",
+                {"txt":"Pre-use inspection must be performed by the employee who is about to use fall arrest system, and never mix and match manufacturers (two identical looking components may work very differently).",
                 "audio":"29_2",
                 "img":"29_2"
                 },
@@ -424,7 +487,7 @@
                 "audio":"30_2",
                 "img":"30_2"
                 },
-                {"txt":"Type of use, nature of environment, pre-use inspection, regular inspection, expiration date, etc.",
+                {"txt":"Such as the type of use, the nature of the environment, pre-use inspection, regular inspection, expiration date, etc.",
                 "audio":"30_3",
                 "img":"30_3"
                 },
@@ -433,9 +496,13 @@
                 "audio":"31_1",
                 "img":"31_1"
                 },
-                {"txt":"Rescue plan must be kept to a minimum; re-evaluate the fall arrest system on an ongoing basis; store equipment in a clean, dry area and away from sunlight.",
+                {"txt":"Rescue plan must be in place in case of an emergency, free fall distance must be kept to a minimum;",
                 "audio":"31_2",
                 "img":"31_2"
+                },
+                {"txt":"Re-evaluate the fall arrest system on an ongoing basis, and store equipment in a clean, dry area and away from sunlight.",
+                "audio":"31_3",
+                "img":"31_3"
                 },
 
                 {"txt":"Rescue",
@@ -450,7 +517,7 @@
                 "audio":"32_2",
                 "img":"32_2"
                 },
-                {"txt":"2. Rescue by c-worker in the vicinity. this rescue is performed by a co-worker in the immediate vicinity of the fallen worker.",
+                {"txt":"2. Rescue by co-worker in the vicinity. this rescue is performed by a co-worker in the immediate vicinity of the fallen worker.",
                 "audio":"32_3",
                 "img":"32_3"
                 },
@@ -489,7 +556,7 @@
                 },
 
 
-                {"txt":"Ten fall arrest systems principles",
+                {"txt":"Rules for using a fall arrest system",
                 "audio":"35_0",
                 "title":"1"
                 },
