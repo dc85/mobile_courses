@@ -16,7 +16,7 @@
                 },
                 {"txt":"Fall arrest systems; components & maintenance of fall arrest equipment; rescue; after a fall procedure; ten fall arrest system principles",
                 "audio":"2_2",
-                "img":"2_2"
+                "img":"2_1"
                 },
 
                 {"txt":"Fall protection",
@@ -29,12 +29,13 @@
                 },
                 {"txt":"Falls are the single largest cause of serious accidents. The following questions should be addressed for fall protection in the workplace:",
                 "audio":"3_2",
-                "img":"3_2"
+                "img":"3_1"
                 },
                 {"txt":"Is a worker at risk of falling? if so how can it be prevented? If a fall cannot be prevented, how can the worker be protected?",
                 "audio":"3_3",
-                "img":"3_3"
+                "img":"3_1"
                 },
+
                 {"txt":"How long does it take to fall? 0.5 seconds for 1.2 meters (4 feet)",
                 "audio":"3_4",
                 "img":"3_4"
@@ -49,11 +50,11 @@
                 },
                  {"txt":"The height is more than 1.2 meters (4 feet): if the work area is used as a path for a wheelbarrow or similar equipment. Into an operating machinery.",
                 "audio":"3_7",
-                "img":"3_7"
+                "img":"3_6"
                 },
                  {"txt":"Into a hazardous substance or object; through an opening in a work surface; water or another liquid.",
                 "audio":"3_8",
-                "img":"3_8"
+                "img":"3_6"
                 },
 
                {"txt":"Fall prevention",
@@ -66,7 +67,7 @@
                 },
                 {"txt":"Fall prevention deals with preventing falls from happening. These are guardrails, proper use of ladders and travel restraint systems.",
                 "audio":"4_2",
-                "img":"4_2"
+                "img":"4_1"
                 },
                 {"txt":"Fall arrest systems are used when fall prevention systems are not possible. These systems deal with protecting workers from hitting a dangerous surface in case of a fall.",
                 "audio":"4_3",
@@ -74,7 +75,7 @@
                 },
                 {"txt":"Regardless of which system is used is used, all fall protection systems must meet the Occupational Health and Safety Act and the applicable regulations.",
                 "audio":"4_4",
-                "img":"4_4"
+                "img":"4_3"
                 },
 
                {"txt":"Ladders",
@@ -87,43 +88,45 @@
                 },
                 {"txt":"User fails to maintain a 3 point contact when climbing up or down a ladder; use leans out too far.",
                 "audio":"5_2",
-                "img":"5_2"
+                "img":"5_1"
                 },
                 {"txt":"Ladders are not tied off or secured before use; ladders are placed on slippery surfaces.",
                 "audio":"5_3",
-                "img":"5_3"
+                "img":"5_1"
                 },
                 {"txt":"Ladders are not properly maintained. Workers are using the top two rungs of the ladder to work from.",
                 "audio":"5_4",
-                "img":"5_4"
+                "img":"5_1"
                 },
+
                 {"txt":"Portable ladders: the most commonly used ladder is made form wood, aluminum or fiberglass.",
                 "audio":"5_5",
                 "img":"5_5"
                 },
                 {"txt":"While using portable ladders: keep a safe distance from electrical lines;",
                 "audio":"5_6",
-                "img":"5_6"
+                "img":"5_5"
                 },
 				{"txt":"Setup on safe footing, the portable ladders must extend 3 feet above upper landing.",
                 "audio":"5_7",
-                "img":"5_7"
+                "img":"5_5"
                 },
                 {"txt":"Ensure the portable ladder is secured to prevent it from moving.",
                 "audio":"5_8",
-                "img":"5_8"
+                "img":"5_5"
                 },
+
                 {"txt":"Step ladder: never stand on the pail shelf (bucket shelf); make sure the legs are fully opened and spreaders are pushed down and locked.",
                 "audio":"5_9",
                 "img":"5_9"
                 },
                 {"txt":"Never use a step ladder as a straight ladder by leaning it against a structure; the top two steps are bucket shelf are not safe to stand on;",
                 "audio":"5_10",
-                "img":"5_10"
+                "img":"5_9"
                 },
                 {"txt":"Fully open step ladder and lock spreaders in place; do not climb the ladder from the rear; it can collapse or tip over.",
                 "audio":"5_11",
-                "img":"5_11"
+                "img":"5_9"
                 },
 
                 {"txt":"Scaffolds",
@@ -136,19 +139,20 @@
                 },
                 {"txt":"Must have each platform secured to prevent slippage; a scaffold must have a secure means of access such as a portable ladder that is 3 ft above the platform.",
                 "audio":"9_2",
-                "img":"9_2"
+                "img":"9_1"
                 },
+
                 {"txt":"Accidents: common accidents that happen from scaffolds are caused by:",
                 "audio":"10_1",
-                "img":"10_1"
+                "img":"9_1"
                 },
                 {"txt":"Climbing to and from the scaffolds; platforms not properly planked or planks breaking.",
                 "audio":"10_2",
-                "img":"10_2"
+                "img":"9_1"
                 },
                 {"txt":"Lack of guard rails; not installing proper base plates, clips and braces; setting up and dismantling",
                 "audio":"10_3",
-                "img":"10_3"
+                "img":"9_1"
                 },
 
                 {"txt":"Elevated Platforms",
