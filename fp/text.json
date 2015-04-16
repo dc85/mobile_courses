@@ -165,15 +165,15 @@
                 },
                 {"txt":"The anchorage point should not be part of the elevated work platform.",
                 "audio":"11_2",
-                "img":"11_2"
+                "img":"11_1"
                 },
                 {"txt":"2. Exceptions include where employees are installing or removing a fall-protection system or where it is deems not reasonably practical to do so.",
                 "audio":"11_3",
-                "img":"11_3"
+                "img":"11_1"
                 },
                 {"txt":"3. Workers must wear fall protection if their work requires them to extend and reach beyond the protection that is provided by the guard rails of the elevated work platform.",
                 "audio":"11_4",
-                "img":"11_4"
+                "img":"11_1"
                 },
 
                 {"txt":"Travel Restraint Systems",
@@ -186,11 +186,11 @@
                 },
                 {"txt":"CSA approved body harness, lanyard, life line, rope grab, anchorage that can support 900 lbs.",
                 "audio":"12_2",
-                "img":"12_2"
+                "img":"12_1"
                 },
                 {"txt":"Note: a fully extended life line or lanyard that restrains the fall on one area may be too long for an adjacent section.",
                 "audio":"12_3",
-                "img":"12_3"
+                "img":"12_1"
                 },
 
                 {"txt":"Is the travel restrained system applied correctly in this picture?",
@@ -199,11 +199,11 @@
                 },
                 {"txt":"The travel restraint system is applied correctly but it is missing the harness. The worker is wearing an industrial belt, which is not recommended for a proper fall protection system.",
                 "audio":"13_2",
-                "img":"13_2"
+                "img":"13_1"
                 },
                 {"txt":"If a fall was to occur, the industrial belt can cause the worker's back to crack because the belt is fixed around the waist.",
                 "audio":"13_3",
-                "img":"13_3"
+                "img":"13_1"
                 },
                 {"txt":"Therefore this worker requires a harness & hard hat.",
                 "audio":"13_4",
@@ -220,7 +220,7 @@
                 },
                 {"txt":"Protective covers to cover openings; warning barriers and bump lines. ",
                 "audio":"14_3",
-                "img":"14_3"
+                "img":"14_2"
                 },
                 {"txt":"These prevent falls by alerting workers to a fall hazard, and should be setup around the work area at least 2 meters or (6 feet 6 inches) from the unprotected edge.",
                 "audio":"14_4",
@@ -228,11 +228,11 @@
                 },
                 {"txt":"Anyone working within the protected area does not need additional fall protection.",
                 "audio":"14_5",
-                "img":"14_5"
+                "img":"14_4"
                 },
                 {"txt":"Lines or barriers must be at least 42 inches high and must have weighted posts and signs along the entire length.",
                 "audio":"14_6",
-                "img":"14_6"
+                "img":"14_4"
                 },
 
                 {"txt":"Fall Arrest Systems",
@@ -253,7 +253,7 @@
                 },
                 {"txt":"And a sliding D-ring (keeps the person vertical after the fall).",
                 "audio":"15_4",
-                "img":"15_4"
+                "img":"15_3"
                 },
 
                 {"txt":"Full Body Harness Inspection: if the full body harness fails an inspection, it must be tagged UNSAFE or UNUSABLE and removed from service.",
@@ -279,19 +279,19 @@
                 },
                 {"txt":"Do not confuse fall arrest anchor point and fall restraint anchor points, clearly mark each one of them.",
                 "audio":"18_2",
-                "img":"18_2"
+                "img":"18_1"
                 },
                 {"txt":"Anchors should be able to withstand to a minimum of 10 times the total weight (body weight and equipment and tools weight) of the employee using the fall arrest system.",
                 "audio":"18_3",
-                "img":"18_3"
+                "img":"18_1"
                 },
                 {"txt":"Anchor points should be positioned over the worker's head and as high as possible, always use compatible shape designated anchors",
                 "audio":"18_4",
-                "img":"18_4"
+                "img":"18_1"
                 },
                 {"txt":"Do not attach to random structures such as chimneys, wires or pipes on the roof, railings, ladders etc.",
                 "audio":"18_5",
-                "img":"18_5"
+                "img":"18_1"
                 },
 
                 {"txt":"Connective devices",
@@ -334,7 +334,7 @@
                 },
                 {"txt":"And they have to have self-locking snap hooks at each end (non locking snap hooks cannot be used)",
                 "audio":"20_2",
-                "img":"20_2"
+                "img":"20_1"
                 },
 
                 {"txt":"Lanyards must be withdrawn from service immediately under the following conditions:",
@@ -343,15 +343,15 @@
                 },
                 {"txt":"After a fall; when an integral shock absorber has been either totally or partially deployed.",
                 "audio":"20_4",
-                "img":"20_4"
+                "img":"20_3"
                 },
                 {"txt":"If the lanyard has been used for any other purposes than fall protection; check the manufacturing date (most lanyards have 5 years service life)",
                 "audio":"20_5",
-                "img":"20_5"
+                "img":"20_3"
                 },
                 {"txt":"And cut the retired lanyards into two to ensure it is never used again.",
                 "audio":"20_6",
-                "img":"20_6"
+                "img":"20_3"
                 },
 
                 {"txt":"Shock absorbers",
@@ -360,11 +360,11 @@
                 },
                 {"txt":"In pre-use inspection, check the outer jacket for cuts, abrasion or open stitching, chemical or heat damage",
                 "audio":"22_1",
-                "img":"22_1"
+                "img":"20_3"
                 },
                 {"txt":"Check the end loop for damages, crackes, etc., and remove and tag shock absorbers if found damaged.",
                 "audio":"22_2",
-                "img":"22_2"
+                "img":"20_3"
                 },
 
                 {"txt":"Snap hooks",
@@ -377,7 +377,7 @@
                 },
                 {"txt":"In pre-use inspection, check snap hook for pitting, distortion or damage, and ensure that the snap hook spring has enough tension power to close the keeper.",
                 "audio":"23_2",
-                "img":"23_2"
+                "img":"23_1"
                 },
 
                 {"txt":"Life lines",
@@ -394,11 +394,11 @@
                 },
                 {"txt":"In pre-use inspection, check for areas where the rope material is separating.",
                 "audio":"24_3",
-                "img":"24_3"
+                "img":"24_2"
                 },
                 {"txt":"Check for broken fibers, worn areas, lifelines that are out of shape, chemical or heat damage.",
                 "audio":"24_4",
-                "img":"24_4"
+                "img":"24_2"
                 },
 
                 {"txt":"Rope Grab",
@@ -411,15 +411,15 @@
                 },
                 {"txt":"These devices can move up and down the life line, when a steady force is used. If a sharp tug or pull is applied it will lock.",
                 "audio":"25_2",
-                "img":"25_2"
+                "img":"25_1"
                 },
                 {"txt":"In pre-use inspection, check the rope grab or damage, corrosion, pitting, distortion and secure mounting.",
                 "audio":"25_3",
-                "img":"25_3"
+                "img":"25_1"
                 },
                 {"txt":"Look for the directional arrows and ensure that it is mounted correctly.",
                 "audio":"25_4",
-                "img":"25_4"
+                "img":"25_1"
                 },
 
 
@@ -433,15 +433,15 @@
                 },
                 {"txt":"Swing-fall hazard",
                 "audio":"26_2",
-                "img":"26_2"
+                "img":"26_1"
                 },
                 {"txt":"Be careful not to tie off to an anchor in such a way that if you fall, you'll swing into an obstruction.",
                 "audio":"26_3",
-                "img":"26_3"
+                "img":"26_1"
                 },
                 {"txt":"This is called a swing-fall hazard. A swing fall can be as harmful as falling to the ground.",
                 "audio":"26_4",
-                "img":"26_4"
+                "img":"26_1"
                 },
 
                 {"txt":"Bottoming out",
@@ -454,7 +454,7 @@
                 },
                 {"txt":"This occurs when the total fall distance is greater than the distance from the work platform to the ground.",
                 "audio":"27_2",
-                "img":"27_2"
+                "img":"27_1"
                 },
 
                 {"txt":"General Information",
@@ -467,33 +467,33 @@
                 },
                 {"txt":"Never mix different systems component; such as the body harness in fall arrest system or fall restraint system.",
                 "audio":"28_2",
-                "img":"28_2"
+                "img":"28_1"
                 },
                 {"txt":"And proper training is required for worker using fall arrest sytem.",
                 "audio":"28_3",
-                "img":"28_3"
+                "img":"28_1"
                 },
 
                 {"txt":"The fall arrest program should include individual fit testing of equipment; employee using fall arrest system must not work alone (buddy system).",
                 "audio":"29_1",
-                "img":"29_1"
+                "img":"28_1"
                 },
                 {"txt":"Pre-use inspection must be performed by the employee who is about to use fall arrest system, and never mix and match manufacturers (two identical looking components may work very differently).",
                 "audio":"29_2",
-                "img":"29_2"
+                "img":"28_1"
                 },
 
                 {"txt":"Daily pre-use inspection shall be performed by the employee and semi-annual inspection shall be performed by a competent person in this type of a system.",
                 "audio":"30_1",
-                "img":"30_1"
+                "img":"28_1"
                 },
                 {"txt":"All pieces of fall arrest system compnents are vital and information for every piece of equipment in the fall arrest system should be documented;",
                 "audio":"30_2",
-                "img":"30_2"
+                "img":"28_1"
                 },
                 {"txt":"Such as the type of use, the nature of the environment, pre-use inspection, regular inspection, expiration date, etc.",
                 "audio":"30_3",
-                "img":"30_3"
+                "img":"28_1"
                 },
 
                 {"txt":"Routine inspection should be done to ensure integrity of the fall arrest system and the information should be documented.",
@@ -502,11 +502,11 @@
                 },
                 {"txt":"Rescue plan must be in place in case of an emergency, free fall distance must be kept to a minimum;",
                 "audio":"31_2",
-                "img":"31_2"
+                "img":"31_1"
                 },
                 {"txt":"Re-evaluate the fall arrest system on an ongoing basis, and store equipment in a clean, dry area and away from sunlight.",
                 "audio":"31_3",
-                "img":"31_3"
+                "img":"31_1"
                 },
 
                 {"txt":"Rescue",
@@ -519,15 +519,15 @@
                 },
                 {"txt":"1. Self rescue: the worker is able to get to the nearest structure or level without any assistance.",
                 "audio":"32_2",
-                "img":"32_2"
+                "img":"32_1"
                 },
                 {"txt":"2. Rescue by co-worker in the vicinity. this rescue is performed by a co-worker in the immediate vicinity of the fallen worker.",
                 "audio":"32_3",
-                "img":"32_3"
+                "img":"32_1"
                 },
                 {"txt":"The co-worker uses whatever equipment is available, such as a ladder or portable work platform (placed under the fallen worker for support) to haul or lower the worker to a safe location.",
                 "audio":"32_4",
-                "img":"32_4"
+                "img":"32_1"
                 },
                 {"txt":"3. Rescue by the in-house team. This rescue is performed by the in-house trained worker, who is responsible to initiate the rescue operation and is available to respond.",
                 "audio":"33_1",
@@ -535,7 +535,7 @@
                 },
                 {"txt":"The in-house rescue team use a specifically selected rescue equipment.",
                 "audio":"33_2",
-                "img":"33_2"
+                "img":"33_1"
                 },
                 {"txt":"4. Rescue by professionals: this is a more efficient specialized rescue operation which is generally performed by the firefighters, paramedics, etc.",
                 "audio":"33_3",
@@ -556,7 +556,7 @@
                 },
                 {"txt":"Remove all fall arrest system components from service and immediately tag them; do not reuse the equipment until it has been inspected and approved by the manufacturer.",
                 "audio":"34_2",
-                "img":"34_2"
+                "img":"34_1"
                 },
 
 
@@ -570,35 +570,35 @@
                 },
                 {"txt":"1. Inspect your equipment before every use; 2. Adjust your harness properly",
                 "audio":"35_2",
-                "img":"35_2"
+                "img":"35_1"
                 },
                 {"txt":"3. Use your shock absorber or your shock-absorbing lanyard whenever possible.",
                 "audio":"35_3",
-                "img":"35_3"
+                "img":"35_1"
                 },
                 {"txt":"4. Connect all components of your FAS using only compatible connecting hardware.",
                 "audio":"35_4",
-                "img":"35_4"
+                "img":"35_1"
                 },
                 {"txt":"5. Attach your FAS only to a suitable anchorage; 6. Keep your fall distance to a minimum.",
                 "audio":"35_5",
-                "img":"35_5"
+                "img":"35_1"
                 },
                 {"txt":"7. Consider the conditions of your workplace when choosing your equipment.",
                 "audio":"35_6",
-                "img":"35_6"
+                "img":"35_1"
                 },
                 {"txt":"8. Care for your equipment as you would care for yourself.",
                 "audio":"35_7",
-                "img":"35_7"
+                "img":"35_1"
                 },
                 {"txt":"9. Know the rescue procedure and equipment in case you should fail.",
                 "audio":"35_8",
-                "img":"35_8"
+                "img":"35_1"
                 },
                 {"txt":"10. Be properly trained to use any fall protection equipment.",
                 "audio":"35_9",
-                "img":"35_9"
+                "img":"35_1"
                 }
             ]
 }
