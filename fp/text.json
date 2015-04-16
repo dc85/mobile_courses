@@ -15,8 +15,8 @@
                 "img":"2_1"
                 },
                 {"txt":"Fall arrest systems; components & maintenance of fall arrest equipment; rescue; after a fall procedure; ten fall arrest system principles",
-                "audio":"2_1",
-                "img":"2_1"
+                "audio":"2_2",
+                "img":"2_2"
                 },
 
                 {"txt":"Fall protection",
@@ -40,20 +40,20 @@
                 "img":"3_4"
                 },
                 {"txt":"1.0 seconds for 5 meters (16 feet); 2.5 seconds for 31 meters (100 feet)",
-                "audio":"3_4",
-                "img":"3_4"
-                },
-                 {"txt":"Fall protection must be used when: the height is more than 3 meters (10 feet);",
                 "audio":"3_5",
                 "img":"3_5"
                 },
-                 {"txt":"The height is more than 1.2 meters (4 feet): if the work area is used as a path for a wheelbarrow or similar equipment. Into an operating machinery.",
+                 {"txt":"Fall protection must be used when: the height is more than 3 meters (10 feet);",
                 "audio":"3_6",
                 "img":"3_6"
                 },
-                 {"txt":"Into a hazardous substance or object; through an opening in a work surface; water or another liquid.",
+                 {"txt":"The height is more than 1.2 meters (4 feet): if the work area is used as a path for a wheelbarrow or similar equipment. Into an operating machinery.",
                 "audio":"3_7",
                 "img":"3_7"
+                },
+                 {"txt":"Into a hazardous substance or object; through an opening in a work surface; water or another liquid.",
+                "audio":"3_8",
+                "img":"3_8"
                 },
 
                {"txt":"Fall prevention",
@@ -101,25 +101,29 @@
                 "audio":"5_5",
                 "img":"5_5"
                 },
-                {"txt":"While using portable ladders: keep a safe distance from electrical lines; setup safe footing; must extend 3 feet above upper landing.",
+                {"txt":"While using portable ladders: keep a safe distance from electrical lines;",
                 "audio":"5_6",
                 "img":"5_6"
                 },
-                {"txt":"Ensure portable ladder is secured to prevent it from moving.",
+				{"txt":"Setup on safe footing, the portable ladders must extend 3 feet above upper landing.",
                 "audio":"5_7",
                 "img":"5_7"
                 },
-                {"txt":"Step ladder: never stand on the pail shelf (bucket shelf); make sure the legs are fully opened and spreaders are pushed down and locked.",
+                {"txt":"Ensure the portable ladder is secured to prevent it from moving.",
                 "audio":"5_8",
                 "img":"5_8"
                 },
-                {"txt":"Never use a step ladder as a straight ladder by leaning it against a structure; the top two steps are bucket shelf are not safe to stand on;",
+                {"txt":"Step ladder: never stand on the pail shelf (bucket shelf); make sure the legs are fully opened and spreaders are pushed down and locked.",
                 "audio":"5_9",
                 "img":"5_9"
                 },
-                {"txt":"Fully open step ladder and lock spreaders in place; do not climb the ladder from the rear; it can collapse or tip over.",
+                {"txt":"Never use a step ladder as a straight ladder by leaning it against a structure; the top two steps are bucket shelf are not safe to stand on;",
                 "audio":"5_10",
                 "img":"5_10"
+                },
+                {"txt":"Fully open step ladder and lock spreaders in place; do not climb the ladder from the rear; it can collapse or tip over.",
+                "audio":"5_11",
+                "img":"5_11"
                 },
 
                 {"txt":"Scaffolds",
@@ -206,7 +210,7 @@
                 "audio":"14_1",
                 "title":"1"
                 },
-                {"txt":"Other types of fall protection: guardrails, if the unprotected work surface is more than 8 ft.",
+                {"txt":"Other types of fall protection include: guardrails, if the unprotected work surface is more than 8 ft.",
                 "audio":"14_2",
                 "img":"14_2"
                 },
@@ -214,7 +218,7 @@
                 "audio":"14_3",
                 "img":"14_3"
                 },
-                {"txt":"Prevent falls by alerting workers to a fall hazard; should be setup around the work area at least 2 meters or (6 feet 6 inches) from the unprotected edge.",
+                {"txt":"These prevent falls by alerting workers to a fall hazard, and should be setup around the work area at least 2 meters or (6 feet 6 inches) from the unprotected edge.",
                 "audio":"14_4",
                 "img":"14_4"
                 },
@@ -232,33 +236,33 @@
                 "title":"1"
                 },
                 {"txt":"A fall arrest system consists of: B - full body harness; C - connective devices (shock absorber, lanyard, fall arrester, vertical lifeline, horizontal lifeline, self-retracting lifeline/lanyard); A - anchor point.",
-                "audio":"14_2",
-                "img":"14_2"
-                },
-                {"txt":"Full body harness: back strap (prevents the person from falling out of the hardness during fall)",
-                "audio":"14_3",
-                "img":"14_3"
-                },
-                {"txt":"Sub-pelvic strap (helps to redistribute the force of the fall into the legs and gluts, it also enables a person to assume a seated position).",
-                "audio":"14_4",
-                "img":"14_4"
-                },
-                {"txt":"Sliding D-ring (keeps the person vertical after the fall).",
-                "audio":"14_5",
-                "img":"14_5"
-                },
-
-                {"txt":"Full Body Harness Inspection: if the full body harness fails an inspection, it must be tagged UNSAFE or UNUSABLE and removed from service.",
-                "audio":"15_0",
-                "img":"15_0"
-                },
-                {"txt":"In pre-use inspection, look for cuts, abrasions or open stitching, chemical or heat damage.",
                 "audio":"15_1",
                 "img":"15_1"
                 },
-                {"txt":"Inspect the D-rings for cracks, distortions or any other damage; harness application depends on the D-ring location.",
+                {"txt":"Full body harness: a full body harness is made up of a back strap (prevents the person from falling out of the hardness during fall)",
                 "audio":"15_2",
                 "img":"15_2"
+                },
+                {"txt":"A sub-pelvic strap (helps to redistribute the force of the fall into the legs and gluts, it also enables a person to assume a seated position).",
+                "audio":"15_3",
+                "img":"15_3"
+                },
+                {"txt":"And a sliding D-ring (keeps the person vertical after the fall).",
+                "audio":"15_4",
+                "img":"15_4"
+                },
+
+                {"txt":"Full Body Harness Inspection: if the full body harness fails an inspection, it must be tagged UNSAFE or UNUSABLE and removed from service.",
+                "audio":"16_0",
+                "img":"16_0"
+                },
+                {"txt":"In pre-use inspection, look for cuts, abrasions or open stitching, chemical or heat damage.",
+                "audio":"16_1",
+                "img":"16_1"
+                },
+                {"txt":"Inspect the D-rings for cracks, distortions or any other damage; harness application depends on the D-ring location.",
+                "audio":"16_2",
+                "img":"16_2"
                 },
 
                 {"txt":"Anchor Points",
