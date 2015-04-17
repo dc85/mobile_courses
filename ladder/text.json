@@ -31,11 +31,11 @@
                 "audio":"4_3",
                 "img":"4_1"
                 },
-                {"txt":"The main hazards associated with ladders include: falls from ladders; struck by falling ladders; struck my materials falling from ladders. ",
+                {"txt":"The main hazards associated with ladders include: falls from ladders; struck by falling ladders; struck my materials falling from ladders.",
                 "audio":"4_4",
                 "img":"4_1"
                 },
-                {"txt":"Tripping over ladders; lifting heavy ladders; striking persons or objects when carrying ladders; contact with electrical equipment.",
+                {"txt":"Tripping over ladders; lifting heavy ladders; striking persons or objects when carrying ladders, and contact with electrical equipment.",
                 "audio":"4_5",
                 "img":"4_1"
                 },
@@ -56,11 +56,11 @@
                 "audio":"5_4",
                 "img":"5_4"
                 },
-                {"txt":"Grade II - for non-construction and farm use",
+                {"txt":"Grade II - for non-construction and farm use.",
                 "audio":"5_5",
                 "img":"5_5"
                 },
-                {"txt":"Grade III - for light duty jobs (households)",
+                {"txt":"Grade III - for light duty jobs (households).",
                 "audio":"5_6",
                 "img":"5_6"
                 },
@@ -116,7 +116,7 @@
                 "audio":"9_1",
                 "img":"9_1"
                 }, 
-                {"txt":"Before climbing, ensure that the rungs of the ladders, as well as your hands and shoes are free from slippery substances, such as oil.",
+                {"txt":"Before climbing, ensure that the rungs of the ladder, as well as your hands and shoes are free from slippery substances, such as oil.",
                 "audio":"9_2",
                 "img":"9_1"
                 }, 
@@ -128,9 +128,9 @@
                 "audio":"9_4",
                 "img":"9_4"
                 }, 
-                {"txt":"Face the ladder on the ladder's top three rungs, protect yourself from electrical shocks.",
+				{"txt":"Face the ladder when ascending or decending, never stand on the ladder's top three rungs, protect yourself from electrical shocks.",
                 "audio":"9_5",
-                "img":"9_5"
+                "img":"9_4"
                 }, 
                 {"txt":"Electrocution can occur with metal or wet wooden ladders.",
                 "audio":"9_6",
@@ -154,7 +154,7 @@
                 "img":"10_3"
                 }, 
 
-                {"txt":"Selecting footing and setup: when use a ladder, ensure that the ladder is set on a solid level footing.",
+                {"txt":"Selecting footing and setup: when using a ladder, ensure that the ladder is set on a solid level footing.",
                 "audio":"11_0",
                 "img":"11_0"
                 }, 
@@ -204,16 +204,16 @@
                 "audio":"13_2",
                 "img":"13_1"
                 }, 
-                {"txt":"Height Rules: the ladder must be tall enough to provide at least 1 meter (the third rung) of solid support beyond the task height.",
+                {"txt":"Height Rules: the ladder must be tall enough to provide at least 1 m (the third rung) of solid support beyond the task height.",
                 "audio":"13_3",
                 "img":"13_3"
                 }, 
-                {"txt":"When getting on or off the ladder at the top, the ladder should extend 1 meter above the point of access.",
+                {"txt":"When getting on or off the ladder at the top, the ladder should extend 1 m above the point of access.",
                 "audio":"13_4",
                 "img":"13_3"
                 }, 
 
-                {"txt":"Extension ladder",
+                {"txt":"Extension Ladder",
                 "audio":"14_1",
                 "title":"14_1"
                 }, 
@@ -250,7 +250,7 @@
                 "audio":"15_1",
                 "img":"15_0"
                 }, 
-                {"txt":"The base of the ladder is held by one person while the second person raises and ladder up to a vertical position.",
+                {"txt":"The base of the ladder is held by one person while the second person raises the ladder up to a vertical position.",
                 "audio":"15_2",
                 "img":"15_0"
                 }, 
@@ -264,7 +264,7 @@
                 }, 
 
 
-                {"txt":"Single ladder",
+                {"txt":"Single Ladder",
                 "audio":"16_0",
                 "title":"1"
                 }, 
@@ -282,7 +282,7 @@
                 }, 
 
 
-                {"txt":"Step ladder",
+                {"txt":"Step Ladder",
                 "audio":"17_0",
                 "title":"1"
                 }, 
@@ -298,11 +298,11 @@
                 "audio":"17_3",
                 "img":"17_3"
                 }, 
-                {"txt":"With step ladders that are 1.2 meter (4 feet) or lower, the highest step you can work from is the first step from the top.",
+                {"txt":"With step ladders that are 1.2 m (4 ft) or lower, the highest step you can work from is the first step from the top.",
                 "audio":"17_4",
                 "img":"17_3"
                 }, 
-                {"txt":"With step ladders that are over 1.2 meter, the highest step you can work from is the second step from the top.",
+                {"txt":"With step ladders that are over 1.2 m, the highest step you can work from is the second step from the top.",
                 "audio":"17_5",
                 "img":"17_3"
                 }, 
@@ -311,7 +311,7 @@
                 "img":"17_3"
                 }, 
 
-                {"txt":"Sectional ladder",
+                {"txt":"Sectional Ladder",
                 "audio":"18_0",
                 "title":"1"
                 }, 
@@ -331,12 +331,12 @@
                 "audio":"18_4",
                 "img":"18_3"
                 }, 
-                {"txt":"The combined maximum length of a sectional ladder is 9 meters (30 feet).",
+                {"txt":"The combined maximum length of a sectional ladder is 9 m (30 ft).",
                 "audio":"18_5",
                 "img":"18_3"
                 }, 
 
-                {"txt":"Rolling ladder",
+                {"txt":"Rolling Ladder",
                 "audio":"19_0",
                 "title":"1"
                 }, 
@@ -352,16 +352,16 @@
                 "audio":"19_3",
                 "img":"19_3"
                 }, 
-                {"txt":"Employees must not work a loft higher than 3 meters (10 feet) without first adequately securing themsevles with a suitable fall arresting device.",
+                {"txt":"Employees must not work a loft higher than 3 m (10 ft) without first adequately securing themsevles with a suitable fall arresting device.",
                 "audio":"19_4",
                 "img":"19_3"
                 }, 
-                {"txt":"Never stand with one foot on the ladder and the other one on in a different project, as a shelving unit.",
+                {"txt":"Never stand with one foot on the ladder and the other one on a different project, such as a shelving unit.",
                 "audio":"19_5",
                 "img":"19_3"
                 }, 
 
-                {"txt":"Fixed ladder",
+                {"txt":"Fixed Ladder",
                 "audio":"20_0",
                 "title":"1"
                 }, 
@@ -381,7 +381,7 @@
                 "audio":"20_4",
                 "img":"20_1"
                 }, 
-                {"txt":"If the maintenance hole ladder is over 3 meters (10 feet) in depth, you must be wearing fall arrest equipment.",
+                {"txt":"If the maintenance hole ladder is over 3 m (10 ft) in depth, you must be wearing fall arrest equipment.",
                 "audio":"20_5",
                 "img":"20_2"
                 }, 
@@ -390,7 +390,7 @@
                 "img":"20_2"
                 }, 
 
-                {"txt":"Ladder maintenance and inspection",
+                {"txt":"Ladder Maintenance and Inspection",
                 "audio":"21_0",
                 "title":"1"
                 }, 
@@ -399,7 +399,7 @@
                 "img":"21_1"
                 }, 
 
-                {"txt":"Ladder maintenance",
+                {"txt":"Ladder Maintenance",
                 "audio":"22_0",
                 "title":"1"
                 }, 
@@ -437,7 +437,7 @@
                 "img":"23_3"
                 },  
 
-                {"txt":"Fiberglass ladders should have a surface coat of lacquer maintained. If it is scratched beyond normal wear, ladders should have a maintained surface coat of lacquer.",
+                {"txt":"Fiberglass ladders should have a maintained surface coat of lacquer. If it is scratched beyond normal wear, it should be lightly sanded before applying a coat of lacquer.",
                 "audio":"23_5",
                 "img":"23_5"
                 },  
@@ -459,7 +459,7 @@
                 "img":"24_4"
                 },  
 
-               {"txt":"Storage: never sit a ladder on its rungs. It must sit on its siderails. If stored on a rack, support it every 2 meter (6 feet) to prevent sagging.",
+               {"txt":"Storage: never sit a ladder on its rungs. It must sit on its siderails. If stored on a rack, support it every 2 m (6 ft) to prevent sagging.",
                 "audio":"24_5",
                 "img":"24_5"
                 },  
@@ -476,7 +476,7 @@
                 "img":"24_8"
                 },   
 
-                {"txt":"Ladder inspection",
+                {"txt":"Ladder Inspection",
                 "audio":"25_1",
                 "title":"1"
                 },  
@@ -505,7 +505,7 @@
                 "audio":"26_2",
                 "img":"26_1"
                 },   
-                {"txt":"When inspecting extension ladders, you should look for the following defects: ",
+                {"txt":"When inspecting extension ladders, you should look for the following defects:",
                 "audio":"26_3",
                 "img":"26_3"
                 },   
