@@ -10,7 +10,7 @@
                 "audio":"2_0",
                 "title":"1"
                 },
-                {"txt":"Ce cours aborde les thèmes suivants: la protection contre les chutes; la prévention des chutes; échelles; échafaudages; plateformes élevées; ",
+                {"txt":"Ce cours aborde les thèmes suivants: la protection contre les chutes; la prévention des chutes; échelles; échafaudages; plateformes élevées;",
                 "audio":"2_1",
                 "img":"2_1"
                 },
@@ -31,32 +31,32 @@
                 "audio":"3_2",
                 "img":"3_1"
                 },
-                {"txt":"Les chutes sont à l’origine du plus grand nombre d’accidents graves. Il faut prendre en considération les questions suivantes dans le cadre de la protection contre les chutes dans le milieu de travail :",
+                {"txt":"Les chutes sont à l’origine du plus grand nombre d’accidents graves. Il faut prendre en considération les questions suivantes dans le cadre de la protection contre les chutes dans le milieu de travail:",
                 "audio":"3_3",
                 "img":"3_1"
                 },
-                {"txt":"L’employé risque-t-il de tomber ? Si oui, comment l’empêcher ? Si l’on ne peut pas empêcher la chute, comment peut-on protéger l’employé?",
+                {"txt":"L’employé risque-t-il de tomber? Si oui, comment l’empêcher? Si l’on ne peut pas empêcher la chute, comment peut-on protéger l’employé?",
                 "audio":"3_4",
                 "img":"3_1"
                 },
 
-                {"txt":"Une chute dure combien de temps ? 0,5 secondes pour 1,2 m (4 pi )",
+                {"txt":"Une chute dure combien de temps? 0,5 secondes pour 1,2 m (4 pi)",
                 "audio":"3_5",
                 "img":"3_4"
                 },
-                {"txt":"1,0 secondes pour 5 m ( 16 pi) ; 2,5 secondes pour 31 m (100 pi )",
+                {"txt":"1,0 secondes pour 5 m (16 pi); 2,5 secondes pour 31 m (100 pi)",
                 "audio":"3_6",
                 "img":"3_4"
                 },
-                 {"txt":"Il faut prendre des mesures de protection contre les chutes lorsque: l’employé travaille à une hauteur de plus de 3 mètres (10 pi) ",
+                 {"txt":"Il faut prendre des mesures de protection contre les chutes lorsque: l’employé travaille à une hauteur de plus de 3 mètres (10 pi)",
                 "audio":"3_7",
                 "img":"3_5"
                 },
-                 {"txt":"L’employé travaille à une hauteur de plus de 1,2 mètres (4 pi) : si l’aire de travail sert de voie pour les brouettes ou autre équipement semblable ;",
+                 {"txt":"L’employé travaille à une hauteur de plus de 1,2 mètres (4 pi): si l’aire de travail sert de voie pour les brouettes ou autre équipement semblable;",
                 "audio":"3_8",
                 "img":"3_5"
                 },
-                 {"txt":"s’il y a de la machinerie dans l’aire de travaille; s’il y a des substances dangereuses ou des objets dangereux dans l’aire de travail ;",
+                 {"txt":"s’il y a de la machinerie dans l’aire de travaille; s’il y a des substances dangereuses ou des objets dangereux dans l’aire de travail;",
                 "audio":"3_9",
                 "img":"3_5"
                 },
@@ -70,15 +70,15 @@
                 "audio":"5_0",
                 "title":"1"
                 },
-                {"txt":"Les chutes des échelles constituent le problème le plus important. Ce genre de chute a lieu parce que :",
+                {"txt":"Les chutes des échelles constituent le problème le plus important. Ce genre de chute a lieu parce que:",
                 "audio":"5_1",
                 "img":"5_1"
                 },
-                {"txt":"L’employé ne respecte pas la règle de 3 points de contact lorsqu’il monte ou descend l’échelle ;",
+                {"txt":"L’employé ne respecte pas la règle de 3 points de contact lorsqu’il monte ou descend l’échelle;",
                 "audio":"5_2",
                 "img":"5_1"
                 },
-                {"txt":"L’employé se penche trop de côté ; L’employé n’attache ou ne fixe pas l’échelle avant de l’utiliser.",
+                {"txt":"L’employé se penche trop de côté; L’employé n’attache ou ne fixe pas l’échelle avant de l’utiliser.",
                 "audio":"5_3",
                 "img":"5_1"
                 },
@@ -99,15 +99,15 @@
                 "audio":"6_1",
                 "img":"5_5"
                 },
-                {"txt":"Lorsque vous utilisez une échelle portable : Éloignez-vous des fils électriques ;",
+                {"txt":"Lorsque vous utilisez une échelle portable: Éloignez-vous des fils électriques;",
                 "audio":"6_2",
                 "img":"5_5"
                 },
-				{"txt":"Le haut de l’échelle doit dépasser le palier supérieur de 3 pieds ; Il faut fixer l’échelle pour qu’elle ne se déplace pas.",
+				{"txt":"Le haut de l’échelle doit dépasser le palier supérieur de 3 pieds; Il faut fixer l’échelle pour qu’elle ne se déplace pas.",
                 "audio":"6_3",
                 "img":"5_5"
                 },
-                {"txt":"Ne montez jamais sur la plate-forme ; Assurez-vous que les pieds sont bien écartés et que la barre d’écartement est enfoncée et verrouillée.",
+                {"txt":"Ne montez jamais sur la plate-forme; Assurez-vous que les pieds sont bien écartés et que la barre d’écartement est enfoncée et verrouillée.",
                 "audio":"6_4",
                 "img":"5_5"
                 },
@@ -116,7 +116,7 @@
                 "img":"5_5"
                 },
 
-                {"txt":"il ne faut pas se tenir debout sur les deux marches supérieures et la plate-forme ; ouvrez bien l’escabeau et verrouillez la barre d’écartement ;",
+                {"txt":"il ne faut pas se tenir debout sur les deux marches supérieures et la plate-forme; ouvrez bien l’escabeau et verrouillez la barre d’écartement;",
                 "audio":"6_6",
                 "img":"5_6"
                 },
@@ -125,7 +125,7 @@
                 "img":"5_6"
                 },
 
-                {"txt":"L'échafaudages doit avoir des rampes qui se conforment aux exigences ; Ne doit pas présenter des ouvertures sans dispositif de sécurité ou sans protection ;",
+                {"txt":"L'échafaudages doit avoir des rampes qui se conforment aux exigences; Ne doit pas présenter des ouvertures sans dispositif de sécurité ou sans protection;",
                 "audio":"9_0",
                 "img":"3_5"
                 },
@@ -138,15 +138,15 @@
                 "audio":"10_0",
                 "title":"1"
                 },
-                {"txt":"Les accidents les plus fréquents qui ont lieu sur les échafaudages sont les suivants : ",
+                {"txt":"Les accidents les plus fréquents qui ont lieu sur les échafaudages sont les suivants:",
                 "audio":"10_1",
                 "img":"3_5"
                 },
-                {"txt":"Les accidents qui ont lieu pendant que l’employé monte et descend ; Les plateformes ne sont pas disposées correctement ou les planches se cassent;",
+                {"txt":"Les accidents qui ont lieu pendant que l’employé monte et descend; Les plateformes ne sont pas disposées correctement ou les planches se cassent;",
                 "audio":"10_2",
                 "img":"3_5"
                 },
-                {"txt":"Le manque de rampes; Le manque d’une plaque d’appui, d’agrafes et d’entretoise ; Les accidents qui ont lieu pendant le montage et le démantèlement.",
+                {"txt":"Le manque de rampes; Le manque d’une plaque d’appui, d’agrafes et d’entretoise; Les accidents qui ont lieu pendant le montage et le démantèlement.",
                 "audio":"10_3",
                 "img":"3_5"
                 },
@@ -163,7 +163,7 @@
                 "audio":"11_2",
                 "img":"11_1"
                 },
-                {"txt":"2. L’employé doit porter un dispositif de protection contre les chutes si la nature de leur travail l’exige de tendre le bras ou de se pencher au-delà de la protection des rampes de la plateforme élevée. ",
+                {"txt":"2. L’employé doit porter un dispositif de protection contre les chutes si la nature de leur travail l’exige de tendre le bras ou de se pencher au-delà de la protection des rampes de la plateforme élevée.",
                 "audio":"11_3",
                 "img":"11_1"
                 },
@@ -172,11 +172,11 @@
                 "audio":"12_0",
                 "title":"1"
                 },
-                {"txt":"Ce genre de système permet à l’employé d’atteindre le bord de la plateforme sans tomber. Un système de restriction de déplacements comporte :",
+                {"txt":"Ce genre de système permet à l’employé d’atteindre le bord de la plateforme sans tomber. Un système de restriction de déplacements comporte:",
                 "audio":"12_1",
                 "img":"12_1"
                 },
-                {"txt":"Un harnais de sécurité approuvée par la CSA; Une longe ; Une corde de sécurité ; Un coulisseau de sécurité ; Un dispositif d’ancrage qui peut soutenir 900 livres .",
+                {"txt":"Un harnais de sécurité approuvée par la CSA; Une longe; Une corde de sécurité; Un coulisseau de sécurité; Un dispositif d’ancrage qui peut soutenir 900 livres.",
                 "audio":"12_2",
                 "img":"12_1"
                 },
@@ -189,7 +189,7 @@
                 "audio":"13_1",
                 "img":"28_1"
                 },
-                {"txt":"Le programme d’arrêt de chute doit comprendre l’essai individuel de l’équipement ; L’employé qui utilise un système d’arrêt de chute ne doit pas travailler seul (système du copain).",
+                {"txt":"Le programme d’arrêt de chute doit comprendre l’essai individuel de l’équipement; L’employé qui utilise un système d’arrêt de chute ne doit pas travailler seul (système du copain).",
                 "audio":"13_2",
                 "img":"28_1"
                 },
@@ -202,7 +202,7 @@
                 "img":"28_1"
                 },
 
-                {"txt":"Information générale sur l’emploi des systèmes d’arrêt de chute :",
+                {"txt":"Information générale sur l’emploi des systèmes d’arrêt de chute:",
                 "audio":"14_2",
                 "img":"31_1"
                 },
@@ -210,7 +210,7 @@
                 "audio":"14_3",
                 "img":"31_1"
                 },
-                {"txt":"Tous les éléments d’un système d’arrêt de chute sont indispensables. Il faut documenter l’information sur chaque élément d’équipement du système d’arrêt de chute ;",
+                {"txt":"Tous les éléments d’un système d’arrêt de chute sont indispensables. Il faut documenter l’information sur chaque élément d’équipement du système d’arrêt de chute;",
                 "audio":"14_4",
                 "img":"31_1"
                 },
@@ -222,11 +222,11 @@
                 "audio":"14_6",
                 "img":"31_1"
                 },
-                {"txt":"Il faut avoir un plan de secours en cas d’urgence ; La distance de chute libre doit être minime. ",
+                {"txt":"Il faut avoir un plan de secours en cas d’urgence; La distance de chute libre doit être minime. ",
                 "audio":"14_7",
                 "img":"31_1"
                 },
-                {"txt":"Il faut réévaluer régulièrement le système d’arrêt de chute ; Il faut ranger l’équipement dans un endroit propre et sec, loin de la lumière du soleil.",
+                {"txt":"Il faut réévaluer régulièrement le système d’arrêt de chute; Il faut ranger l’équipement dans un endroit propre et sec, loin de la lumière du soleil.",
                 "audio":"14_8",
                 "img":"31_1"
                 }
