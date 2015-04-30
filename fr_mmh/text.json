@@ -8,7 +8,7 @@
 
                 {"txt":"Voici quelques faits sur la manutention manuelle des matériaux (MMM):",
                 "audio":"2_0",
-                "title":"1"
+                "img":"2_1"
                 },
                 {"txt":"Pour chaque tonne de produits finis, il y a 50 tonnes de matériaux déplacés.",
                 "audio":"2_1",
@@ -16,27 +16,27 @@
                 },
                 {"txt":"33 % des blessures au travail provoquant une invalidité ont lieu pendant qu’un employé manipule des matériaux.",
                 "audio":"2_2",
-                "img":"2_2"
+                "img":"2_1"
                 },
                 {"txt":"L’application des contrôles et procédures réduit le risque de blessures.",
                 "audio":"2_3",
-                "img":"2_2"
+                "img":"2_1"
                 },
                 {"txt":"2 sur 3 Canadiens souffrent des blessures au dos ; 1 sur 50 souffre une invalidité en raison d’une blessure au dos.",
                 "audio":"2_4",
-                "img":"2_3"
+                "img":"2_1"
                 },
                 {"txt":"Dans le milieu de travail, chaque tâche de manipulation des objets présente des demandes uniques à l’employé.",
                 "audio":"2_5",
-                "img":"2_3"
+                "img":"2_1"
                 },
                 {"txt":"C’est en mettant en place des politiques et procédures solides que l’organisation peut s’assurer que ses employés peuvent exécuter leurs responsabilités de manière facile et sécuritaire.",
                 "audio":"2_6",
-                "img":"2_3"
+                "img":"2_1"
                 },
                 {"txt":"L’introduction de la manutention manuelle des matériaux (MMM) vise à favoriser la manutention sécuritaire dans les usines industrielles.",
                 "audio":"2_7",
-                "img":"2_3"
+                "img":"2_1"
                 },
 
 			    {"txt":"Objectifs du cours",
@@ -45,11 +45,11 @@
                 },
                 {"txt":"Ce cours vous aidera à comprendre: Les éléments de base de la manutention manuelle des matériaux,",
                 "audio":"3_1",
-                "img":"3_1"
+                "img":"2_1"
                 },
                 {"txt":"Les tâches qui peuvent causer des blessures pendant la manutention manuelle; comment réduire le risque de blessure",
                 "audio":"3_2",
-                "img":"3_2"
+                "img":"2_1"
                 },
 
         	    {"txt":"Dangers de la manutention manuelle des matériaux",
@@ -62,24 +62,24 @@
                 },
                 {"txt":"La planification soigneuse peut empêcher les accidents pendant la manutention manuelle. Voici quelques démarches à suivre:",
                 "audio":"4_2",
-                "img":"4_2"
+                "img":"4_1"
                 },
                 {"txt":"Réfléchissez bien sur le travail à effectuer; Savez où vous allez apporter la charge; Déterminez le meilleur chemin à suivre
 Retirez les obstacles.",
                 "audio":"4_3",
-                "img":"4_3"
+                "img":"4_1"
                 },
                 {"txt":"Pour exécuter les tâches: Devez-vous vous tordre, vous pencher ou tendre le bras?",
                 "audio":"4_4",
-                "img":"4_4"
+                "img":"4_1"
                 },
         	    {"txt":"Devez-vous travailler dans des endroits où il est difficile de se déplacer ou de travailler, comme les aires d’entreposage?",
                 "audio":"4_5",
-                "img":"4_5"
+                "img":"4_1"
                 },
                 {"txt":"Disposez-vous de l’équipement nécessaire? Disposez-vous de l’équipement bien entretenu?",
                 "audio":"4_6",
-                "img":"4_6"
+                "img":"4_1"
                 }, 
 
         	    {"txt":"Soulever les objets",
@@ -96,24 +96,24 @@ Retirez les obstacles.",
                 },
         	    {"txt":"Tournez-vous en déplaçant les pieds au lieu de vous tordre et soulever la charge en même temps.",
                 "audio":"5_3",
-                "img":"5_3"
+                "img":"5_1"
                 },
         	    {"txt":"Gardez la tête et le cou élevés pendant que vous soulevez la charge. Une fois que vous tenez solidement la charge, regardez devant vous – ne baissez pas la tête pour regarder la charge. ",
                 "audio":"5_4",
-                "img":"5_3"
+                "img":"5_1"
                 },
 
         	    {"txt":"Déplacez-vous doucement. Il ne faut pas tirer ou saisir brusquement l’objet, ce qui peut rendre la maîtrise de la charge plus difficile et augmenter le risque de blessures.",
                 "audio":"5_5",
-                "img":"5_5"
+                "img":"5_3"
                 },
         	    {"txt":"Ne soulevez pas plus que vous n’en êtes capable. Il y a une différence entre ce que l’on est capable de soulever et de ce que l’on peut soulever en toute sécurité.",
                 "audio":"5_6",
-                "img":"5_5"
+                "img":"5_3"
                 },
         	    {"txt":"Si vous avez des doutes, demandez conseil à quelqu’un ou obtenez de l’aide.",
                 "audio":"5_7",
-                "img":"5_7"
+                "img":"5_3"
                 },
 
         	    {"txt":"Les ergonomes se servent des lignes directrices et des méthodes comportant des tableaux spécifiques ou des calculs afin de déterminer des pratiques de manutention des matériaux. ",
@@ -139,7 +139,7 @@ Retirez les obstacles.",
 
         	    {"txt":"Blessures",
                 "audio":"5_13",
-                "img":"5_13"
+                "title":"1"
                 },
         	    {"txt":"La ténosynovite : l’inflammation des gaines tendineuses. Essayez l’exercice suivant:",
                 "audio":"5_14",
@@ -167,52 +167,52 @@ Retirez les obstacles.",
                 },
         	    {"txt":"La bursite est l’inflammation de la bourse séreuse qui réduit la friction entre les articulations.",
                 "audio":"5_20",
-                "img":"5_18"
+                "img":"5_21"
                 },
         	    {"txt":"Le syndrome du canal carpien est l’inflammation du nerf médian de la main. Afin d’empêcher le syndrome du canal carpien, gardez les poignets en position neutre.",
                 "audio":"5_21",
-                "img":"5_18"
+                "img":"5_21"
                 },
         	    {"txt":"Si vous ressentez des douleurs, vous risquez de souffrir de la ténosynovite. Vous devez examiner vos activités de manutention manuelle des matériaux et faire les changements nécessaires.",
                 "audio":"5_22",
-                "img":"5_18"
+                "img":"5_21"
                 },
         	    {"txt":"La bursite est l’inflammation de la bourse séreuse qui réduit la friction entre les articulations.",
                 "audio":"5_23",
-                "img":"5_18"
+                "img":"5_21"
                 },
         	    {"txt":"Le syndrome du canal carpien est l’inflammation du nerf médian de la main. Afin d’empêcher le syndrome du canal carpien, gardez les poignets en position neutre.",
                 "audio":"5_24",
-                "img":"5_18"
+                "img":"5_21"
                 },
         	    {"txt":"Le coude du joueur de tennis: cette condition est plus synonyme du mouvement du poignet que du coude.",
                 "audio":"6_1",
-                "img":"6_1"
+                "img":"5_21"
                 },
         	    {"txt":"Elle est provoquée par la surutilisation ou la mauvaise technique, qui donnent lieu à des déchirures mineures du tendon des muscles importants du poignet qui proviennent du coude.",
                 "audio":"6_2",
-                "img":"6_1"
+                "img":"5_21"
                 },
 
 				{"txt":"Les blessures au dos sont provoquées par:",
                 "audio":"7_1",
-                "img":"7_2"
+                "img":"5_21"
                 },
         	    {"txt":"Le chargement compressif: il s’agit d’une pression vers le bas sur les vertèbres et les disques.",
                 "audio":"7_2",
-                "img":"7_2"
+                "img":"5_21"
                 },
         	    {"txt":"Le moment initial de soulever un objet provoque ce genre de pression. ",
                 "audio":"7_3",
-                "img":"7_2"
+                "img":"5_21"
                 },
                 {"txt":"Le chargement de tension: il s’agit d’une pression sur les ligaments et sur le tissu musculaire qui. L’entoure lorsqu’on fléchit ou étend l’épine dorsale.",
                 "audio":"8_1",
-                "img":"7_2"
+                "img":"5_21"
                 },
         	    {"txt":"Le chargement de torsion: il s’agit de la pression sur l’épine dorsale lorsque l’on la tord.",
                 "audio":"8_2",
-                "img":"7_2"
+                "img":"5_21"
                 }, 
 
                 {"txt":"Ceux qui soulèvent des objets lourds risquent de souffrir des hernies. Une hernie est un gonflement de tissu mou qui passe à travers ou entre les muscles.",
@@ -221,7 +221,7 @@ Retirez les obstacles.",
                 },
         	    {"txt":"Les hernies ont de nombreuses origines. Un muscle de l’abdomen ou de l’aine s’affaiblit et la pression de soulever des objets peut pousser l’intestin ou d’autres organes à travers un point faible. ",
                 "audio":"9_2",
-                "img":"9_2"
+                "img":"9_1"
                 }, 
 
                 {"txt":"Les origines des hernies sont les suivantes:",
@@ -230,41 +230,36 @@ Retirez les obstacles.",
                 },
                 {"txt":"L’obésité ou le pris de poids soudain; le fait de soulever des objets lourds; la diarrhée ou la constipation; la toux ou l’éternuement persistent; La grossesse.",
                 "audio":"10_2",
-                "img":"10_2"
-                },
-
-                {"txt":"Équipements de protection individuelle",
-                "audio":"10_1",
-                "title":"1"
+                "img":"10_1"
                 },
                 {"txt":"Les vêtements de travail et l’équipement de protection individuel appropriés peuvent empêcher les blessures pendant la manutention manuelle des matériaux:",
                 "audio":"10_3",
-                "img":"10_2"
+                "img":"10_1"
                 },
                 {"txt":"Les vêtements à manches longues protègent les bras des coupures et des éraflures. Les vêtements de travail amples permettent le mouvement facile.",
                 "audio":"10_4",
-                "img":"10_2"
+                "img":"10_1"
                 },
                 {"txt":"Rentrez les chemises pour qu’elles ne s’accrochent pas aux machines.",
                 "audio":"10_5",
-                "img":"10_2"
+                "img":"10_1"
                 },
 
                 {"txt":"Pour la protection des mains et des pieds: portez des bottes de travail ou des chaussures de sécurité.",
                 "audio":"10_6",
-                "img":"10_6"
+                "img":"10_1"
                 },
                 {"txt":"Ne portez pas des talons hauts ou des chaussures dont la base est étroite. pour plus de protection, portez des bottes à embout d’acier.",
                 "audio":"10_7",
-                "img":"10_6"
+                "img":"10_1"
                 },
                 {"txt":"Pour avoir de la bonne traction sur la majorité des surfaces, portez des chaussures avec des semelles en caoutchouc profondes.",
                 "audio":"10_8",
-                "img":"10_6"
+                "img":"10_1"
                 },
                 {"txt":"Les gants protègent les mains des coupures, des éclats, des pincements, et de l’usure générale.",
                 "audio":"10_9",
-                "img":"10_6"
+                "img":"10_1"
                 },
 
                 {"txt":"Conclusion",
@@ -273,18 +268,18 @@ Retirez les obstacles.",
                 },
                 {"txt":"On peut réduire les dangers de la manutention manuelle des matériaux en appliquant les consignes suivantes:",
                 "audio":"22_2",
-                "img":"22_2"
+                "img":"22_1"
                 },   
                 {"txt":"Planification du travail – planifiez les tâches à l’avance et n’entreprenez pas trop de tâches à la fois.",
                 "audio":"22_3",
-                "img":"22_2"
+                "img":"22_1"
                 },   
                 {"txt":"Santé: Faites régulièrement de l’exercice – environ 20 minutes au moins 3 fois par semaine.",
                 "audio":"22_4",
-                "img":"22_4"
+                "img":"22_1"
                 },   
                 {"txt":"Avant de commencer, étirez-vous les muscles majeurs. Régime sain – mangez régulièrement et pratiquez une alimentation saine. Dormez suffisamment.",
                 "audio":"22_5",
-                "img":"22_5"
+                "img":"22_1"
                 }
 ]}
