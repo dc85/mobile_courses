@@ -22,7 +22,7 @@
                 "audio":"2_3",
                 "img":"2_1"
                 },
-                {"txt":"2 sur 3 Canadiens souffrent des blessures au dos ; 1 sur 50 souffre une invalidité en raison d’une blessure au dos.",
+                {"txt":"2 sur 3 Canadiens souffrent des blessures au dos; 1 sur 50 souffre une invalidité en raison d’une blessure au dos.",
                 "audio":"2_4",
                 "img":"2_1"
                 },
@@ -47,7 +47,7 @@
                 "audio":"3_1",
                 "img":"2_1"
                 },
-                {"txt":"Les tâches qui peuvent causer des blessures pendant la manutention manuelle; comment réduire le risque de blessure",
+                {"txt":"Les tâches qui peuvent causer des blessures pendant la manutention manuelle; comment réduire le risque de blessure.",
                 "audio":"3_2",
                 "img":"2_1"
                 },
@@ -64,8 +64,7 @@
                 "audio":"4_2",
                 "img":"4_1"
                 },
-                {"txt":"Réfléchissez bien sur le travail à effectuer; Savez où vous allez apporter la charge; Déterminez le meilleur chemin à suivre
-Retirez les obstacles.",
+                {"txt":"Réfléchissez bien sur le travail à effectuer; Savez où vous allez apporter la charge; Déterminez le meilleur chemin à suivre retirez les obstacles.",
                 "audio":"4_3",
                 "img":"4_1"
                 },
@@ -98,7 +97,7 @@ Retirez les obstacles.",
                 "audio":"5_3",
                 "img":"5_1"
                 },
-        	    {"txt":"Gardez la tête et le cou élevés pendant que vous soulevez la charge. Une fois que vous tenez solidement la charge, regardez devant vous – ne baissez pas la tête pour regarder la charge. ",
+        	    {"txt":"Gardez la tête et le cou élevés pendant que vous soulevez la charge. Une fois que vous tenez solidement la charge, regardez devant vous – ne baissez pas la tête pour regarder la charge.",
                 "audio":"5_4",
                 "img":"5_1"
                 },
@@ -116,11 +115,11 @@ Retirez les obstacles.",
                 "img":"5_3"
                 },
 
-        	    {"txt":"Les ergonomes se servent des lignes directrices et des méthodes comportant des tableaux spécifiques ou des calculs afin de déterminer des pratiques de manutention des matériaux. ",
+        	    {"txt":"Les ergonomes se servent des lignes directrices et des méthodes comportant des tableaux spécifiques ou des calculs afin de déterminer des pratiques de manutention des matériaux.",
                 "audio":"5_8",
                 "img":"5_5"
                 },
-        	    {"txt":"Ces lignes directrices sont utiles pour cerner les origines des risques de soulever des objets. On fait appel à ces outils pour déterminer les limites acceptables dans des situations spécifiques. ",
+        	    {"txt":"Ces lignes directrices sont utiles pour cerner les origines des risques de soulever des objets. On fait appel à ces outils pour déterminer les limites acceptables dans des situations spécifiques.",
                 "audio":"5_9",
                 "img":"5_5"
                 },
@@ -141,7 +140,7 @@ Retirez les obstacles.",
                 "audio":"5_13",
                 "title":"1"
                 },
-        	    {"txt":"La ténosynovite : l’inflammation des gaines tendineuses. Essayez l’exercice suivant:",
+        	    {"txt":"La ténosynovite: l’inflammation des gaines tendineuses. Essayez l’exercice suivant:",
                 "audio":"5_14",
                 "img":"5_13"
                 },
@@ -202,7 +201,7 @@ Retirez les obstacles.",
                 "audio":"7_2",
                 "img":"5_21"
                 },
-        	    {"txt":"Le moment initial de soulever un objet provoque ce genre de pression. ",
+        	    {"txt":"Le moment initial de soulever un objet provoque ce genre de pression.",
                 "audio":"7_3",
                 "img":"5_21"
                 },
@@ -219,7 +218,7 @@ Retirez les obstacles.",
                 "audio":"9_1",
                 "img":"9_1"
                 },
-        	    {"txt":"Les hernies ont de nombreuses origines. Un muscle de l’abdomen ou de l’aine s’affaiblit et la pression de soulever des objets peut pousser l’intestin ou d’autres organes à travers un point faible. ",
+        	    {"txt":"Les hernies ont de nombreuses origines. Un muscle de l’abdomen ou de l’aine s’affaiblit et la pression de soulever des objets peut pousser l’intestin ou d’autres organes à travers un point faible.",
                 "audio":"9_2",
                 "img":"9_1"
                 }, 
