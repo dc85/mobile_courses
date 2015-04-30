@@ -86,7 +86,7 @@ Retirez les obstacles.",
                 "audio":"5_0",
                 "title":"1"
                 },
-        	    {"txt":"Pour soulever des objets Ne fléchissez le dos davantage pendant que vous soulevez la charge. Cela peut nuire au dos, si vous vous redressez les jambes avant de soulever la charge.",
+        	    {"txt":"Ne fléchissez le dos davantage pendant que vous soulevez la charge. Cela peut nuire au dos, si vous vous redressez les jambes avant de soulever la charge.",
                 "audio":"5_1",
                 "img":"5_1"
                 },
@@ -246,7 +246,7 @@ Retirez les obstacles.",
                 "img":"10_2"
                 },
                 {"txt":"Rentrez les chemises pour qu’elles ne s’accrochent pas aux machines.",
-                "audio":"10_4",
+                "audio":"10_5",
                 "img":"10_2"
                 },
 
@@ -263,7 +263,7 @@ Retirez les obstacles.",
                 "img":"10_6"
                 },
                 {"txt":"Les gants protègent les mains des coupures, des éclats, des pincements, et de l’usure générale.",
-                "audio":"10_8",
+                "audio":"10_9",
                 "img":"10_6"
                 },
 
