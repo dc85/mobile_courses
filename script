@@ -1,0 +1,4 @@
+for i in `cat a`; do ffmpeg -i $i.mov -vn -ac 2 -ar 44100 -ab 320k -f mp3 $i.mp3; done
+
+
+for i in `cat a`; do ffmpeg -i $i.mov -vn -ac 2 -ar 44100 -ab 320k $i.wav; done
