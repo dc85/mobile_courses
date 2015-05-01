@@ -1,0 +1,660 @@
+{
+    "prefix": "",
+    "slides": [
+
+        {"txt": "SIMDUT",
+            "audio": "1_0",
+            "title": "1"},
+
+        {"txt": "Aperçu de la formation",
+            "audio": "1_1",
+            "img": ""},
+
+        {"txt": "But de cette formation",
+            "audio": "1_2",
+            "img": "whmis_1_1"},
+
+        {"txt": "Symboles du SIMDUT",
+            "audio": "1_3",
+            "img": "whmis_1_1"},
+
+        {"txt": "Étiquettes de fournisseur",
+            "audio": "1_4",
+            "img": "whmis_1_1"},
+
+        {"txt": "Étiquettes de lieu de travail",
+            "audio": "1_5",
+            "img": "whmis_1_1"},
+
+        {"txt": "Fiche signalétique (FS)",
+            "audio": "1_6",
+            "img": "whmis_1_1"},
+
+        {"txt": "Responsabilités",
+            "audio": "1_7",
+            "img": "whmis_1_1"},
+
+        {"txt": "Effets la santé",
+            "audio": "1_8",
+            "img": "whmis_1_1"},
+
+        {"txt": "Commandes",
+            "audio": "1_9",
+            "img": "whmis_1_1"},
+            
+
+        {"txt": "Objectifs",
+            "audio": "2_0",
+            "title": "1"},
+        {"txt": "Déterminez les risques",
+            "audio": "",
+            "img": ""},
+        {"txt": "Comprenez les risques des matériaux avec lesquels vous travaillez",
+            "audio": "",
+            "img": ""
+        },
+        {"txt": "Comprenez comment vous pouvez vous protéger contre les accidents et la maladie",
+            "audio": "",
+            "img": ""
+        },
+
+
+        {"txt": "Qu’est-ce que le SIMDUT",
+            "audio": "3_0",
+            "title": "1"
+        },
+        {"txt": "C’est le système d'information sur les matières dangereuses utilisées au travail.",
+            "audio": "",
+            "img": ""
+        },
+        {"txt": "Pourquoi a-t-on élaboré le SIMDUT? ",
+            "audio": "",
+            "img": ""
+        },
+        {"txt": "Pour donner à tous les travailleurs canadiens  une quantité et une qualité appropriées et uniformes d'information sur les matières dangereuses employées dans le milieu de travail.",
+            "audio": "",
+            "img": ""
+        },
+
+
+        {"txt": "Pourquoi est-il important de connaître le SIMDUT?",
+            "audio": "4_0",
+            "title": "1"
+        },
+        {"txt": "Substances toxiques : il s’agit des substances qui peuvent nuire à la santé.",
+            "audio": "4_1",
+            "img": ""
+        },
+        {"txt": "On utilise plus de 500 000 substances dans les lieux de travail nord-américains.",
+            "audio": "4_2",
+            "img": ""
+        },
+        {"txt": "Environ 25 000 sont toxiques. Il n’y a qu’environ 600 qui ont la désignation 'niveau d'exposition sûr'.",
+            "audio": "4_3",
+            "img": ""
+        },
+        {"txt": "Pour les autres substances, on ignore les effets sur la santé. Il n'y a aucun contrôle sur l'exposition des employés à ces substances.",
+            "audio": "4_4",
+            "img": ""
+        },
+
+        {"txt": "Responsabilités du SIMDUT",
+            "audio": "5_0",
+            "title": "1"
+        },
+        {"txt": "Importateurs et producteurs : Fournir les fiches signalétiques et les étiquettes de lieu de travail.",
+            "audio": "5_1",
+            "img": "5_1"
+        },
+        {"txt": "Les fournisseurs sont obligés de s'assurer que les renseignements sont mis à jour.",
+            "audio": "5_2",
+            "img": "whmis_5_2"
+        },
+        {"txt": "Les employeurs sont obligés de s'assurer que les FS et les étiquettes sont clairs et disponibles pour les produits.",
+            "audio": "6_1",
+            "img": "whmis_6_2"
+        },
+        {"txt": " Cela se fait en consultation avec le Comité sur la santé et la sécurité. L'employeur doit former l'employé pour que celui-ci puisse déterminer les risques du produit et l'employer en tout sécurité.",
+            "audio": "6_2",
+            "img": "whmis_6_2"
+        },
+        {"txt": "L'employer doit participer à la formation et appliquer les connaissances. L'ouvrier a le droit d'accéder à l'information en tout temps.",
+            "audio": "6_3",
+            "img": "whmis_6_2"
+        },
+
+
+        {   "txt": "Symboles du SIMDUT",
+            "audio": "7_0",
+            "title": "1"
+        },
+        {   "txt": "Classe A: Gaz comprimés",
+            "audio": "8_1",
+            "title": "1"
+        },
+        {   "txt": "Classe B: Matières inflammables et combustibles",
+            "audio": "8_2",
+            "img": "whmis_8_1"
+        },
+        {   "txt": "Classe C: Matières comburantes",
+            "audio": "8_3",
+            "img": "whmis_8_2"
+        },
+        {   "txt": "Classe D1: Matières toxiques ayant des effets immédiats graves",
+            "audio": "8_4",
+            "img": "whmis_8_3"
+        },
+        {   "txt": "Classe D2: Matières toxiques ayant d'autres effets",
+            "audio": "8_5",
+            "img": "whmis_8_4"
+        },
+        {   "txt": "Classe D3: Matières infectieuses",
+            "audio": "8_6",
+            "img": "whmis_8_5"
+        },
+        {   "txt": "Classe E: Matières corrosives",
+            "audio": "8_7",
+            "img": "whmis_8_5"
+        },
+        {   "txt": "Classe F: Matières dangereusement réactives",
+            "audio": "8_8",
+            "img": "whmis_8_5"
+        },
+
+
+        {   "txt": "Classe A: Gaz comprimés",
+            "audio": "9_0",
+            "title": "1"
+        },
+        {   "txt": "Une substance, dont la température ambiante est de 20°C, dans l'état gazeux et gardé sous pression.",
+            "audio": "9_1",
+            "img": "whmis_9_2"
+        },
+        {   "txt": "Elle éclate si l’on la chauffe ou la frappe. Elle peut devenir un « missile » si on la perfore.",
+            "audio": "9_2",
+            "img": "whmis_9_3"
+        },
+        {   "txt": "Par exemple: Les extincteurs, Les cylindres de gaz pour la soudure",
+            "audio": "9_3",
+            "img": "whmis_9_4"
+        },
+        {   "txt": "Ne laissez pas tomber le récipient. Rangez le récipient dans des secteurs indiqués",
+            "audio": "9_4",
+            "img": "whmis_9_5"
+        },
+
+        {   "txt": "Classe B : Matières inflammables et combustibles",
+            "audio": "10_0",
+            "title": "1"
+        },
+        {   "txt": "Il s’agit des matières qui prennent feu si elles sont exposées à une source d'allumage ou si elles sont suffisamment chauffées.",
+            "audio": "10_1",
+            "img": "whmis_9_2"
+        },
+        {   "txt": "L’exposition à la lumière du soleil peut produire assez de chaleur pour prendre feu à certaines matières.",
+            "audio": "10_2",
+            "img": "whmis_9_2"
+        },
+        {   "txt": "Par exemple : L’essence, le butane, conservez ces matières loin des sources de chaleur et des autres matières combustibles.",
+            "audio": "10_3",
+            "img": "whmis_9_2"
+        },
+        {   "txt": "Rangez les récipients de ces substances dans des secteurs indiqués. Ne fumez jamais lorsque vous travaillez avec, ou près de ces matières.",
+            "audio": "10_4",
+            "img": "whmis_9_2"
+        },
+
+        {   "txt": "Classe C : Matières comburantes",
+            "audio": "11_0",
+            "title": "1"
+        },
+        {   "txt": "Il s’agit des substances qui font brûler d’autres substances.",
+            "audio": "11_1",
+            "img": "whmis_11_1"
+        },
+        {   "txt": "Elles peuvent provoquer le feu lorsqu’elles entrent en contact avec les matières combustibles, comme le bois.",
+            "audio": "11_2",
+            "img": "whmis_11_1"
+        },
+        {   "txt": "Elles peuvent éclater si elles sont placées près des matières combustibles, comme l'essence. Gardez ces matières loin des matières inflammables et combustibles.",
+            "audio": "11_3",
+            "img": "whmis_11_3"
+        },
+        {   "txt": "Par exemple : décapant alkalin portez de l’équipement de protection approprié, comme les protecteurs d'œil, de visage et de mains. ",
+            "audio": "11_4",
+            "img": "whmis_11_4"
+        },
+        {   "txt": "Gardez ces matières loin des sources d'allumage et rangez les récipients dans des secteurs indiqués.",
+            "audio": "11_5",
+            "img": "whmis_11_4"
+        },
+
+
+        {   "txt": "Classe D1 : Matières toxiques ayant des effets immédiats graves",
+            "audio": "12_0",
+            "title": "1"
+        },
+        {   "txt": "Il s’agit des matières toxiques ayant des effets immédiats graves.",
+            "audio": "12_1",
+            "img": "whmis_12_1"
+        },
+        {   "txt": "Ils s’agit des poisons qui agissent rapidement avec des effets graves, y compris la mort subite peu après l’exposition.",
+            "audio": "12_2",
+            "img": "whmis_12_2"
+        },
+        {   "txt": "Elles peuvent brûler les yeux ou la peau si elles entrent en contact avec la victime. Par exemple: Sulfure d'hydrogène, cyanure de sodium",
+            "audio": "12_3",
+            "img": "whmis_12_3"
+        },
+        {   "txt": "Évitez le contact avec les yeux et avec la peau en portant l’équipement de protection individuel approprié.",
+            "audio": "12_4",
+            "img": "whmis_12_3"
+        },
+        {   "txt": "Évitez l'inhalation de la substance en travaillant dans des secteurs bien aérés. Lavez-vous soigneusement après avoir utilisé ces matières.",
+            "audio": "12_5",
+            "img": "whmis_12_3"
+        },
+
+        {   "txt": "Classe D2 : Matières toxiques ayant d’autres effets",
+            "audio": "13_0",
+            "title": "1"
+        },
+        {   "txt": "Il s’agit des matières ayant des effets nocifs pendant des jours, des mois, ou des années après l’expositions répétée.",
+            "audio": "13_1",
+            "img": "whmis_13_1"
+        },
+        {   "txt": "Elles peuvent provoquer des allergies, l’irritation de la peau et des yeux ou le cancer.",
+            "audio": "13_2",
+            "img": "whmis_13_2"
+        },
+        {   "txt": "Par exemple: Les huiles de machine, la colle, l’amiante",
+            "audio": "13_3",
+            "img": "whmis_13_3"
+        },
+        {   "txt": "Évitez le contact avec les yeux et avec la peau en portant l’équipement de protection individuel approprié.",
+            "audio": "13_4",
+            "img": "whmis_13_3"
+        },
+        {   "txt": "Évitez l'inhalation de la substance en travaillant dans des secteurs bien aérés. Lavez-vous soigneusement après avoir utilisé ces matières.",
+            "audio": "13_5",
+            "img": "whmis_13_3"
+        },
+
+
+        {   "txt": "Classe D3 : Matières infectieuses",
+            "audio": "14_0",
+            "title": "1"
+        },
+        {   "txt": "Il s’agit d’un organisme ou des toxines qui peuvent causer des maladies infectieuses graves.",
+            "audio": "14_1",
+            "img": "whmis_14_1"
+        },
+        {   "txt": "On les retrouve principalement dans les hôpitaux et dans les laboratoires spécialisés.",
+            "audio": "14_2",
+            "img": "whmis_14_2"
+        },
+        {   "txt": "Par exemple: Les déchets de la salle de premiers secours, les seringues, le sang souillé",
+            "audio": "14_3",
+            "img": "whmis_14_2"
+        },
+        {   "txt": "Prenez toutes les précautions pour éviter la contamination.",
+            "audio": "14_4",
+            "img": "whmis_14_2"
+        },
+        {   "txt": "Portez obligatoirement l’équipement de protection individuel approprié lorsque vous manipulez ces matières.",
+            "audio": "15_1",
+            "img": "whmis_15_1"
+        },
+
+        {   "txt": "Classe E : matières corrosives",
+            "audio": "16_0",
+            "title": "1"
+        },
+        {   "txt": "Il s’agit d’une substance qui érode l'acier, l’aluminium ou qui détruit le tissu animal.",
+            "audio": "16_1",
+            "img": "whmis_16_1"
+        },
+        {   "txt": "Si elles entrent en contact avec la peau ou avec les yeux, elles endommagent irréparablement la peau ou les yeux.",
+            "audio": "16_2",
+            "img": "whmis_16_2"
+        },
+        {   "txt": "Par exemple: L’acide acétique, l’acide chromique, l’acide de pile de voiture",
+            "audio": "16_3",
+            "img": "whmis_16_2"
+        },
+        {   "txt": "Assurez-vous que les récipients sont étroitement fermés.",
+            "audio": "17_1",
+            "img": "whmis_17_1"
+        },
+        {   "txt": "Évitez l’exposition aux yeux et à la peau. Travaillez dans des secteurs bien aérés et portez l'équipement respiratoire.",
+            "audio": "17_2",
+            "img": "whmis_17_2"
+        },
+
+        {   "txt": "Classe F : Matières dangereusement réactives",
+            "audio": "18_0",
+            "title": "1"
+        },
+        {   "txt": "Il s’agit des matières qui réagissent avec l'eau pour produire un gaz toxique ou qui subira une réaction si le récipient est chauffé, mis sous pression ou agité.",
+            "audio": "18_1",
+            "img": "whmis_18_1"
+        },
+        {   "txt": "Elles peuvent éclater si elles sont chauffées dans un récipient fermée ou si le récipient subit un choc.",
+            "audio": "18_2",
+            "img": "whmis_18_2"
+        },
+        {   "txt": "Elles réagissent avec l'eau pour dégager les gaz toxiques. Par exemple: l’acétylène",
+            "audio": "18_3",
+            "img": "whmis_18_2"
+        },
+        {   "txt": "Rangez ces matières dans un secteur frais et un endroit résistant au feu.",
+            "audio": "18_4",
+            "img": "whmis_18_2"
+        },
+        {   "txt": "Gardez ces matières loin de la chaleur. Manipulez les récipients soigneusement.",
+            "audio": "18_5",
+            "img": "whmis_18_2"
+        },
+        
+        {   "txt": "Les composants d'une étiquette de fournisseur",
+            "audio": "20_0",
+            "title": "1"
+        },
+        {   "txt": "Une marque de produit; symboles de risque; expression de risque; mesures de précaution; measures de premiers soins.",
+            "audio": "20_1",
+            "img": "whmis_20_1"
+        },
+        {   "txt": "Rapport indiquant la disponibilité d'une fiche signalétique; marque de fournisseur; contour du SIMDUT.",
+            "audio": "whmis_20_2",
+            "img": "whmis_20_1"
+        },
+
+        {   "txt": "D'autres conditions pour l'étiquette de fournisseur",
+            "audio": "21_0",
+            "title": "1"
+        },
+        {   "txt": "Expédition. Quand le fournisseur envoie des matériaux à l'intérieur d'un récipient plus grand.",
+            "audio": "21_1",
+            "img": "whmis_21_1"
+        }, 
+        {   "txt": "Il peut se transporter les étiquettes pour que l’employeur les appose sur les différents récipients, si l'employeur accepte de le faire par écrit.",
+            "audio": "21_2",
+            "img": "whmis_21_2"
+        }, 
+        {   "txt": "Il faut le faire à la réception du produit, lorsqu’on ouvre la caisse d’expédition.",
+            "audio": "21_3",
+            "img": "whmis_21_2"
+        }, 
+        {   "txt": "Si l'expédition est un produit en vrac et si l’on va l‘employer ou l’emballer après l’arrivée,",
+            "audio": "21_4",
+            "img": "whmis_21_2"
+        }, 
+        {   "txt": "L'employeur recevant le produit peut demander au fournisseur par écrit qu’il fournisse des étiquettes de lieu de travail pour le produit.",
+            "audio": "21_5",
+            "img": "whmis_21_3"
+        }, 
+
+        {   "txt": "Étiquette de lieu de travail",
+            "audio": "22_0",
+            "title": "1"
+        },
+        {   "txt": "Le matériel est produit dans le lieu de travail pour l'utilisation dans le lieu de travail ou pour l'exportation.",
+            "audio": "22_1",
+            "img": "whmis_22_1"
+        },
+        {   "txt": "Le matériel est produit dans le lieu de travail et est destinée à la vente au Canada. ",
+            "audio": "22_2",
+            "img": "whmis_22_2"
+        },
+        {   "txt": "Par conséquent, le matériel portera l'étiquette de fournisseur avant l'expédition.",
+            "audio": "22_3",
+            "img": "whmis_22_3"
+        },
+        {   "txt": "Le matériel est décanté du récipient de fournisseur marqué dans un autre récipient.",
+            "audio": "22_4",
+            "img": "whmis_22_4"
+        },
+        {   "txt": "L'étiquette originale de fournisseur est absente ou devient illisible.",
+            "audio": "22_5",
+            "img": "whmis_22_5"
+        },
+
+        {   "txt": "Il n’y a aucune condition spécifique sur la couleur, la taille ou la forme de l'étiquette de lieu de travail. Elle doit être facile à comprendre et à voir.",
+            "audio": "23_1",
+            "img": "whmis_23_1"
+        },
+        {   "txt": "Il faut réviser et mettre à jour les étiquettes de lieu de travail le moment où la nouvelle information devient disponible.",
+            "audio": "23_2",
+            "img": "whmis_23_1"
+        },
+        {   "txt": "Marque de produit (nom du matériel) Mesures de conservation (comment manipuler le produit sans risque) Un bulletin indiquant au lecteur que la FS est disponible.",
+            "audio": "23_3",
+            "img": "whmis_23_1"
+        },
+
+
+        {   "txt": "FS",
+            "audio": "24_0",
+            "title": "1"
+        },
+        {   "txt": "Qu’est-ce que la FS? La FS est la fiche signalétique. Ce document comporte de l'information sur un produit contrôlé ou dangereux.",
+            "audio": "24_1",
+            "img": "whmis_24_2"
+        },
+        {   "txt": "L'information de produit; ingrédients dangereux; données physiques; risque d'incendie ou d'explosion; données de réactivité.",
+            "audio": "whmis_24_3",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "Prepriétés toxicologiques; mesures préventives; mesures de premiers soins; l'information de préparation.",
+            "audio": "whmis_24_4",
+            "img": "whmis_24_3"
+        },
+
+        {   "txt": "Control Programs",
+            "audio": "whmis_27_0",
+            "title": "1"
+        },
+        {   "txt": "Hazards can be controlled at the following three places:",
+            "audio": "whmis_27_1",
+            "img": "whmis_27_1"
+        },
+        {   "txt": "1. At the source of the substance.",
+            "audio": "whmis_27_2",
+            "img": "whmis_27_2"
+        },
+        {   "txt": "2. Along the path.",
+            "audio": "whmis_27_3",
+            "img": "whmis_27_3"
+        },
+        {   "txt": "3. At the worker.",
+            "audio": "whmis_27_4",
+            "img": "whmis_27_4"
+        },
+
+        {   "txt": "Contrôle à la source",
+            "audio": "28_0",
+            "title": "1"
+        },
+        {   "txt": "Le contrôle de la source de la substance se fait de trois manières:",
+            "audio": "28_1",
+            "img": "whmis_28_1"},
+
+        {   "txt": "Suppression: On peut supprimer l'utilisation de la matière dangereuse pour empêcher ses effets nocifs.",
+            "audio": "28_2",
+            "img": "whmis_28_2"},
+
+        {   "txt": "Substitution: On peut remplacer les produits chimiques dangereux par un produit chimique moins toxique - on peut remplacer le le benzène par le toluène.",
+            "audio": "28_3",
+            "img": "whmis_28_3"},
+
+        {   "txt": "Isolement: Isolez et protégez la matière dangereuse pour empêcher l'exposition accidentelle.",
+            "audio": "28_4",
+            "img": "whmis_28_4"},
+
+
+        {   "txt": "Contrôle en route",
+            "audio": "29_0",
+            "title": "1"
+        },
+        {   "txt": "Le contrôle en route est le moyen par lequel on peut réduire le risque posé par la substance.",
+            "audio": "29_1",
+            "img": "whmis_27_3"
+        },  
+        {   "txt": "Cela se fait par les moyennes suivantes: ménagez bien l’aire de travail: n’obstruez pas les chemins, nettoyez, et organisez le lieu de travail.",
+            "audio": "29_2",
+            "img": "whmis_29_2"
+        },  
+        {   "txt": "Ventilation : Assurez-vous que le lieu de travail a la ventilation appropriée. Cela comprend la ventilation générale et la ventilation locale, telle que des ventilateurs de capot.",
+            "audio": "29_3",
+            "img": "whmis_29_3"
+        },  
+        {   "txt": "Les lieux de travail doivent prendre régulièrement des échantillons de l'air pour s’assurer que la ventilation est suffisante.",
+            "audio": "29_4",
+            "img": "whmis_29_4"
+        },  
+        {   "txt": "Barrières: L'utilisation des barrières portatives aidera également à éliminer certains types de risques.",
+            "audio": "29_5",
+            "img": "whmis_29_5"
+        },  
+
+       {   "txt": "Contrôle au niveau de l'employé",
+            "audio": "30_0",
+            "title": "1"
+        },
+        {   "txt": "Contrôler les matières dangereuses chez l'employé se fait par les méthodes suivantes:",
+            "audio": "30_1",
+            "img": "whmis_30_1"
+        },  
+        {   "txt": "Équipement de protection individuel: Fournissez à l'employé l’équipement de protection individuel approprié et la formation sur la façon de s’en servir. ",
+            "audio": "30_2",
+            "img": "whmis_30_1"
+        },  
+        {   "txt": "Contrôles administratifs: Il s’agit essentiellement des politiques et des procédures du lieu de travail présentées par la compagnie sur la façon de manipuler la substance.",
+            "audio": "30_3",
+            "img": "whmis_30_1"
+        },  
+
+        {   "txt": "Les ouvriers doivent s'assurer qu'ils comprennent les procédures et qu’ils les suivent en conséquence.",
+            "audio": "30_4",
+            "img": "whmis_30_4"
+        },  
+        {   "txt": "Par exemple : les ouvriers travaillent en groupes de deux dans des secteurs ou l’espace est confiné.",
+            "audio": "30_5",
+            "img": "whmis_30_5"
+        },  
+        {   "txt": "Contrôles technologiques : On se sert de la la technologie pour contrôler les risques, comme les chambres isolées.",
+            "audio": "30_6",
+            "img": "whmis_30_5"
+        },  
+
+
+        {   "txt": "Conditions pour contrôler les substances dangereuses",
+            "audio": "31_0",
+            "title": "1"
+        },
+        {   "txt": "Les employeurs doivent fournir suffisamment de contrôles des substances dangereuses.",
+            "audio": "31_1",
+            "img": "whmis_31_1"
+        },   
+        {   "txt": "Le risque ne doit pas obliger l'employé de déployer des efforts anormaux dans le lieu de travail.",
+            "audio": "31_2",
+            "img": "whmis_31_1"
+        },   
+        {   "txt": "L'employeur doit prendre des mesures pour protéger l'employé exposé au risque.",
+            "audio": "31_3",
+            "img": "whmis_31_3"
+        },   
+        {   "txt": "Prenez les mesures de protection pour éliminer le risque du lieu de travail et de l'environnement.",
+            "audio": "31_4",
+            "img": "whmis_31_3"
+        },   
+        
+
+         {   "txt": "Planification de secours",
+            "audio": "32_0",
+            "title": "1"
+        },
+        {   "txt": "La planification de secours est nécessaire:",
+            "audio": "whmis_32_1",
+            "img": "whmis_32_1"
+        },
+        {   "txt": "Elle empêche la mort ou les dégâts; elle réduit les dégâts au lieu de travail; elle permet de reprendre les opérations normales aussitôt que possible.",
+            "audio": "whmis_32_2",
+            "img": "whmis_32_2"
+        },
+
+        {   "txt": "Transport des produits chimiques dangereux",
+            "audio": "33_0",
+            "title": "1"
+        },
+        {   "txt": "Le transport des matières dangereuses, est soumis à la Loi sur le transport des marchandises dangereuses...",
+            "audio": "33_1",
+            "img": "whmis_32_1"
+        },
+
+        {   "txt": "Pratiques en matière de travail",
+            "audio": "34_0",
+            "title": "1"
+        },
+        {   "txt": "Procédures normales de travail (à l’écrit); procédures de ménage; pratiques sûres.",
+            "audio": "34_1",
+            "img": "whmis_32_1"
+        },
+        {   "txt": "Zones de stockage pour certaines matières; étiquettes d'avertissement; réparations de l'équipement; déplacement des obstacles; éclairage suffisant.",
+            "audio": "34_2",
+            "img": "whmis_32_1"
+        },
+        {   "txt": "Transport des matières; utilisation des appareils de manutention mécaniques; besoin réduit de transport des matières. ",
+            "audio": "34_2",
+            "img": "whmis_32_1"
+        },
+        {   "txt": "Entretien de l'équipement.",
+            "audio": "34_2",
+            "img": "whmis_32_1"
+        },
+
+        {   "txt": "Exclusions du SIMDUT",
+            "audio": "35_0",
+            "title": "1"
+        },
+        {   "txt": "Produits exemptés en raison d’autres lois: les explosifs (la Loi sur les explosifs).",
+            "audio": "35_1",
+            "img": "whmis_32_1"
+        }, 
+        {   "txt": "Les aliments et drogues (Règlement sur les aliments et drogues); les pesticides et herbicides (la Loi sur le contrôle des parasites et des produits).",
+            "audio": "35_2",
+            "img": "whmis_32_1"
+        }, 
+        {   "txt": "Les matières radioactives (la Loi sur le contrôle de l'énergie atomique); les déchets dangereuses.",
+            "audio": "35_3",
+            "img": "whmis_32_1"
+        }, 
+        {   "txt": "Les produits de consommation; les produits du tabac; les articles fabriqués.",
+            "audio": "35_4",
+            "img": "whmis_32_1"
+        }, 
+
+        {   "txt": "Exigences de formation de l'employé",
+            "audio": "36_0",
+            "title": "1"
+        },
+        {   "txt": "La formation de l'ouvrier doit comprendre: les étiquettes et les symboles de risque; la FS; les procédures de manipulation des matières dangereuses.",
+            "audio": "36_1",
+            "img": "whmis_32_1"
+        }, 
+        {   "txt": "Les procédures de secours de la compagnie; la formation doit avoir lieu tous les ans; la formation doit être mise à jour pour tenir compte des changements.",
+            "audio": "36_2",
+            "img": "whmis_32_1"
+        }, 
+
+         {   "txt": "Exigences de formation de l'employé",
+            "audio": "36_0",
+            "title": "1"
+        },
+        {   "txt": "La formation de l'ouvrier doit comprendre: les étiquettes et les symboles de risque; la FS; les procédures de manipulation des matières dangereuses.",
+            "audio": "36_1",
+            "img": "whmis_32_1"
+        }, 
+    
+    ]
+}
