@@ -47,14 +47,14 @@
             "audio": "2_0",
             "title": "1"},
         {"txt": "Déterminez les risques",
-            "audio": "",
+            "audio": "2_1",
             "img": ""},
         {"txt": "Comprenez les risques des matériaux avec lesquels vous travaillez",
-            "audio": "",
+            "audio": "2_2",
             "img": ""
         },
         {"txt": "Comprenez comment vous pouvez vous protéger contre les accidents et la maladie",
-            "audio": "",
+            "audio": "2_3",
             "img": ""
         },
 
@@ -64,15 +64,15 @@
             "title": "1"
         },
         {"txt": "C’est le système d'information sur les matières dangereuses utilisées au travail.",
-            "audio": "",
+            "audio": "3_1",
             "img": ""
         },
         {"txt": "Pourquoi a-t-on élaboré le SIMDUT? ",
-            "audio": "",
+            "audio": "3_2",
             "img": ""
         },
-        {"txt": "Pour donner à tous les travailleurs canadiens  une quantité et une qualité appropriées et uniformes d'information sur les matières dangereuses employées dans le milieu de travail.",
-            "audio": "",
+        {"txt": "Pour donner à tous les travailleurs canadiens une quantité et une qualité appropriées et uniformes d'information sur les matières dangereuses employées dans le milieu de travail.",
+            "audio": "3_3",
             "img": ""
         },
 
@@ -110,11 +110,12 @@
             "audio": "5_2",
             "img": "whmis_5_2"
         },
+
         {"txt": "Les employeurs sont obligés de s'assurer que les FS et les étiquettes sont clairs et disponibles pour les produits.",
             "audio": "6_1",
             "img": "whmis_6_2"
         },
-        {"txt": " Cela se fait en consultation avec le Comité sur la santé et la sécurité. L'employeur doit former l'employé pour que celui-ci puisse déterminer les risques du produit et l'employer en tout sécurité.",
+        {"txt": "Cela se fait en consultation avec le Comité sur la santé et la sécurité. L'employeur doit former l'employé pour que celui-ci puisse déterminer les risques du produit et l'employer en tout sécurité.",
             "audio": "6_2",
             "img": "whmis_6_2"
         },
@@ -355,17 +356,59 @@
             "audio": "18_5",
             "img": "whmis_18_2"
         },
+
         
         {   "txt": "Les composants d'une étiquette de fournisseur",
             "audio": "20_0",
             "title": "1"
         },
-        {   "txt": "Une marque de produit; symboles de risque; expression de risque; mesures de précaution; measures de premiers soins.",
+        {   "txt": "Une marque de produit: Il s'agit du nom du produit, qui peut être le nom commun, nom chimique, nom générique ou une marque de fabrique. Le même nom doit apparaître sur le FS du produit.",
             "audio": "20_1",
             "img": "whmis_20_1"
         },
-        {   "txt": "Rapport indiquant la disponibilité d'une fiche signalétique; marque de fournisseur; contour du SIMDUT.",
-            "audio": "whmis_20_2",
+        {   "txt": "Symboles de risque: Il s'agit de l'un ou de plusierurs des huit symboles de risque qui s'appliquent au produit.",
+            "audio": "20_2",
+            "img": "whmis_20_1"
+        },
+        {   "txt": "Si un produit commandé figure les Divisions 1 et 2 de la Classe D, il ne faut que montrer le symbole de la Division 1 sur l'étiquette.",
+            "audio": "20_3",
+            "img": "whmis_20_1"
+        },
+        {   "txt": "Les symboles doivent être des reproductions exactes des symboles prescrits du SIMDUT, à l'exception de la taille et la couleur.",
+            "audio": "20_4",
+            "img": "whmis_20_1"
+        },
+
+        {   "txt": "Expression de risque: Il s'agit des descriptions des effets de l'exposition. Elles fournissent d'autres renseignements sur le risque indiqué par le symbole. Par exemple: dangereux d'inhalation.",
+            "audio": "20_5",
+            "img": "whmis_20_1"
+        },
+
+        {   "txt": "Mesures de précaution: Cette section explique comment éviter les risques liés au produit. Par exemple: portez de l'équipement de protection des yeux approprié.",
+            "audio": "20_6",
+            "img": "whmis_20_1"
+        },
+
+        {   "txt": "Mesures de premiers soins: Cette section explique comment traiter une personne surexposée au produit. Par exemple: lavez le secteur touché avec l'eau courante.",
+            "audio": "20_7",
+            "img": "whmis_20_1"
+        },
+
+        {   "txt": "Rapport indiquant la disponibilité d'une fiche signalétique: ",
+            "audio": "20_8",
+            "img": "whmis_20_1"
+        },
+
+        {   "txt": "Marque de fournisseur: le nom du fournisseur (le distributeur qui achète le produit d'un fournisseur et qui revend le produit sans le remballer n'est pas indiqué sur l'étiquette de fournisseur).",
+            "audio": "20_9",
+            "img": "whmis_20_1"
+        },
+        {   "txt": "Contour du SIMDUT: l'étiquette doit être entourée du contour distinct du SIMDUT. Il n'y a aucune règle pour ce qui est de la taille, de la forme ou de la couleur de l'étiquette tant qu'ils sont en ordre, évidents, et distincts des autres inscriptions.",
+            "audio": "20_10",
+            "img": "whmis_20_1"
+        },
+        {   "txt": "Les données sur l'etiquette de fournisseur doivent être imprimées en anglais et français, sur une étiquette simple et bilingue, ou sur deux étiquettes séparées.",
+            "audio": "20_11",
             "img": "whmis_20_1"
         },
 
@@ -410,12 +453,8 @@
             "audio": "22_3",
             "img": "whmis_22_3"
         },
-        {   "txt": "Le matériel est décanté du récipient de fournisseur marqué dans un autre récipient.",
-            "audio": "22_4",
-            "img": "whmis_22_4"
-        },
         {   "txt": "L'étiquette originale de fournisseur est absente ou devient illisible.",
-            "audio": "22_5",
+            "audio": "22_4",
             "img": "whmis_22_5"
         },
 
@@ -441,10 +480,30 @@
             "audio": "24_1",
             "img": "whmis_24_2"
         },
-        {   "txt": "L'information de produit; ingrédients dangereux; données physiques; risque d'incendie ou d'explosion; données de réactivité.",
+
+
+        <<<<<<< WHMIS-3.fla scene 22 >>>>>>>
+        {   "txt": "L'information de produit:",
             "audio": "whmis_24_3",
             "img": "whmis_24_3"
         },
+        {   "txt": "Ingrédients dangereux:",
+            "audio": "whmis_24_3",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "Données physiques:",
+            "audio": "whmis_24_3",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "Risque d'incendie ou d'explosion:",
+            "audio": "whmis_24_3",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "Données de réactivité:",
+            "audio": "whmis_24_3",
+            "img": "whmis_24_3"
+        },
+
         {   "txt": "Prepriétés toxicologiques; mesures préventives; mesures de premiers soins; l'information de préparation.",
             "audio": "whmis_24_4",
             "img": "whmis_24_3"
