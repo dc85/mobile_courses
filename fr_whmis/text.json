@@ -655,6 +655,30 @@
             "audio": "36_1",
             "img": "whmis_32_1"
         }, 
-    
+        {   "txt": "Les procédures de secours de la compagnie; la formation doit avoir lieu tous les ans; la formation doit être mise à jour pour tenir compte des changements.",
+            "audio": "36_1",
+            "img": "whmis_32_1"
+        }, 
+
+        {   "txt": "Comment les substances entrent dans le corps",
+            "audio": "37_0",
+            "title": "1"
+        },
+        {   "txt": "Les substances nocives peuvent entrer dans le corps par:",
+            "audio": "37_1",
+            "img": "whmis_32_1"
+        }, 
+        {   "txt": "L’inhalation: par exemple, l'amiante; l’absorption par la peau: par exemple, le polyuréthane.",
+            "audio": "37_2",
+            "img": "whmis_32_1"
+        }, 
+        {   "txt": "L’ingestion:  en mangeant de la nourriture dans des secteurs souillés. La plupart des planchers des ateliers sont des secteurs où l’on doit interdire la consommation de la nourriture.",
+            "audio": "37_3",
+            "img": "whmis_32_1"
+        }, 
+        {   "txt": "Les substances nocives peuvent nuire à la foie, causer des hémopathies, le cancer ou des problèmes respiratoires.",
+            "audio": "37_3",
+            "img": "whmis_32_1"
+        }
     ]
 }
