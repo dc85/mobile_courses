@@ -482,52 +482,74 @@
         },
 
 
-        <<<<<<< WHMIS-3.fla scene 22 >>>>>>>
-        {   "txt": "L'information de produit:",
-            "audio": "whmis_24_3",
+        {   "txt": "L'information de produit: Elle indique le nom du produit selon le méme nom indiqué sur l'étiquette et explique la fonction du produit.",
+            "audio": "24_2",
             "img": "whmis_24_3"
         },
-        {   "txt": "Ingrédients dangereux:",
-            "audio": "whmis_24_3",
-            "img": "whmis_24_3"
-        },
-        {   "txt": "Données physiques:",
-            "audio": "whmis_24_3",
-            "img": "whmis_24_3"
-        },
-        {   "txt": "Risque d'incendie ou d'explosion:",
-            "audio": "whmis_24_3",
-            "img": "whmis_24_3"
-        },
-        {   "txt": "Données de réactivité:",
-            "audio": "whmis_24_3",
+        {   "txt": "Ingrédients dangereux: Il s'agit d'une liste de tous les ingrédients du produit qui se figurent sur l'une des huit catégories de risque.",
+            "audio": "24_3",
             "img": "whmis_24_3"
         },
 
-        {   "txt": "Prepriétés toxicologiques; mesures préventives; mesures de premiers soins; l'information de préparation.",
-            "audio": "whmis_24_4",
+        {   "txt": "Données physiques: Elles expliquent comment la matière se comporte en service. Elles donnent une description de la matière, qu'il s'aggisse d'un gaz. ",
+            "audio": "24_4",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "D’un élément solide ou d’un liquide, et décrivent l’odeur de la matière lorsque l’on utilise.",
+            "audio": "24_5",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "Elles indiquent la probabilité d’évaporation de la matière (les matières qui s'évaporent facilement sont habituellement plus dangereuses).",
+            "audio": "24_6",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "Elles indiquent si les gaz montent ou descendent (cela est important pour la surveillance et la ventilation de l'air).",
+            "audio": "24_7",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "Elles indiquent comment ces matières entrent dans le corps et quels effets elles peuvent avoir.",
+            "audio": "24_8",
             "img": "whmis_24_3"
         },
 
-        {   "txt": "Control Programs",
-            "audio": "whmis_27_0",
+        {   "txt": "Risque d'incendie ou d'explosion: la probabilité que la matière brûle ou éclate dans différentes circonstances.",
+            "audio": "24_9",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "Données de réactivité: la stabilité de la mantière; elles indiquent comment elle réagit quand elle est exposée à certains autres produits chimiques, à la chaleur, à l'allumage et aux vibrations.",
+            "audio": "24_10",
+            "img": "whmis_24_3"
+        },
+
+        {   "txt": "Prepriétés toxicologiques: la stabilité de la matière: elles indiquent comment elle réagit quand elle est exposée à certains autres produits chimiques, à la chaleur, à l'allumage et aux vibrations.",
+            "audio": "25_1",
+            "img": "whmis_24_3"
+        },
+
+        {   "txt": "Mesures préventives: il s'agit des procédures sûres pour la manipulation, l'utilisation et le stockage du matériel.",
+            "audio": "26_1",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "Mesures de premiers soins: il s'agit du traitement immédiat à donner à une personne exposée à la matière.",
+            "audio": "26_2",
+            "img": "whmis_24_3"
+        },
+        {   "txt": "L'information de préparation: la personne ou le département qui a préparé la FS, leurs coordonnées, ainsi que la date de la préparation de la FS (la FS doit être mise à jour au moins tous les 3 ans).",
+            "audio": "26_3",
+            "img": "whmis_24_3"
+        },
+
+        {   "txt": "Programmes de contrôle",
+            "audio": "27_0",
             "title": "1"
         },
-        {   "txt": "Hazards can be controlled at the following three places:",
-            "audio": "whmis_27_1",
+        {   "txt": "Cette section aborde les risques de contrôle posés par les substances dangereuses. On peut contrôler les risques de trois manières:",
+            "audio": "27_1",
             "img": "whmis_27_1"
         },
-        {   "txt": "1. At the source of the substance.",
-            "audio": "whmis_27_2",
+        {   "txt": "On contrôle la source de la substance; on fait un contrôle le long du chemin; on fait un contrôle au niveau de l'ouvrier.",
+            "audio": "27_2",
             "img": "whmis_27_2"
-        },
-        {   "txt": "2. Along the path.",
-            "audio": "whmis_27_3",
-            "img": "whmis_27_3"
-        },
-        {   "txt": "3. At the worker.",
-            "audio": "whmis_27_4",
-            "img": "whmis_27_4"
         },
 
         {   "txt": "Contrôle à la source",
@@ -584,6 +606,7 @@
             "audio": "30_1",
             "img": "whmis_30_1"
         },  
+
         {   "txt": "Équipement de protection individuel: Fournissez à l'employé l’équipement de protection individuel approprié et la formation sur la façon de s’en servir. ",
             "audio": "30_2",
             "img": "whmis_30_1"
@@ -634,11 +657,11 @@
             "title": "1"
         },
         {   "txt": "La planification de secours est nécessaire:",
-            "audio": "whmis_32_1",
+            "audio": "32_1",
             "img": "whmis_32_1"
         },
         {   "txt": "Elle empêche la mort ou les dégâts; elle réduit les dégâts au lieu de travail; elle permet de reprendre les opérations normales aussitôt que possible.",
-            "audio": "whmis_32_2",
+            "audio": "32_2",
             "img": "whmis_32_2"
         },
 
@@ -650,7 +673,7 @@
             "audio": "33_1",
             "img": "whmis_32_1"
         },
-
+//29.wav
         {   "txt": "Pratiques en matière de travail",
             "audio": "34_0",
             "title": "1"
@@ -664,11 +687,7 @@
             "img": "whmis_32_1"
         },
         {   "txt": "Transport des matières; utilisation des appareils de manutention mécaniques; besoin réduit de transport des matières. ",
-            "audio": "34_2",
-            "img": "whmis_32_1"
-        },
-        {   "txt": "Entretien de l'équipement.",
-            "audio": "34_2",
+            "audio": "34_3",
             "img": "whmis_32_1"
         },
 
@@ -731,12 +750,12 @@
             "audio": "37_2",
             "img": "whmis_32_1"
         }, 
-        {   "txt": "L’ingestion:  en mangeant de la nourriture dans des secteurs souillés. La plupart des planchers des ateliers sont des secteurs où l’on doit interdire la consommation de la nourriture.",
+        {   "txt": "L’ingestion: en mangeant de la nourriture dans des secteurs souillés. La plupart des planchers des ateliers sont des secteurs où l’on doit interdire la consommation de la nourriture.",
             "audio": "37_3",
             "img": "whmis_32_1"
         }, 
         {   "txt": "Les substances nocives peuvent nuire à la foie, causer des hémopathies, le cancer ou des problèmes respiratoires.",
-            "audio": "37_3",
+            "audio": "37_4",
             "img": "whmis_32_1"
         }
     ]
