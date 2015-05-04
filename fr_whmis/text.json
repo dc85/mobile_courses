@@ -8,39 +8,39 @@
 
         {"txt": "Aperçu de la formation",
             "audio": "1_1",
-            "img": ""},
+            "img": "1_1"},
 
         {"txt": "But de cette formation",
             "audio": "1_2",
-            "img": "whmis_1_1"},
+            "img": "1_1"},
 
         {"txt": "Symboles du SIMDUT",
             "audio": "1_3",
-            "img": "whmis_1_1"},
+            "img": "1_1"},
 
         {"txt": "Étiquettes de fournisseur",
             "audio": "1_4",
-            "img": "whmis_1_1"},
+            "img": "1_1"},
 
         {"txt": "Étiquettes de lieu de travail",
             "audio": "1_5",
-            "img": "whmis_1_1"},
+            "img": "1_1"},
 
         {"txt": "Fiche signalétique (FS)",
             "audio": "1_6",
-            "img": "whmis_1_1"},
+            "img": "1_1"},
 
         {"txt": "Responsabilités",
             "audio": "1_7",
-            "img": "whmis_1_1"},
+            "img": "1_1"},
 
         {"txt": "Effets la santé",
             "audio": "1_8",
-            "img": "whmis_1_1"},
+            "img": "1_1"},
 
         {"txt": "Commandes",
             "audio": "1_9",
-            "img": "whmis_1_1"},
+            "img": "1_1"},
             
 
         {"txt": "Objectifs",
@@ -48,14 +48,14 @@
             "title": "1"},
         {"txt": "Déterminez les risques",
             "audio": "2_1",
-            "img": ""},
+            "img": "2_1"},
         {"txt": "Comprenez les risques des matériaux avec lesquels vous travaillez",
             "audio": "2_2",
-            "img": ""
+            "img": "2_1"
         },
         {"txt": "Comprenez comment vous pouvez vous protéger contre les accidents et la maladie",
             "audio": "2_3",
-            "img": ""
+            "img": "2_1"
         },
 
 
@@ -65,15 +65,15 @@
         },
         {"txt": "C’est le système d'information sur les matières dangereuses utilisées au travail.",
             "audio": "3_1",
-            "img": ""
+            "img": "1_1"
         },
         {"txt": "Pourquoi a-t-on élaboré le SIMDUT? ",
             "audio": "3_2",
-            "img": ""
+            "img": "1_1"
         },
         {"txt": "Pour donner à tous les travailleurs canadiens une quantité et une qualité appropriées et uniformes d'information sur les matières dangereuses employées dans le milieu de travail.",
             "audio": "3_3",
-            "img": ""
+            "img": "1_1"
         },
 
 
@@ -83,19 +83,19 @@
         },
         {"txt": "Substances toxiques : il s’agit des substances qui peuvent nuire à la santé.",
             "audio": "4_1",
-            "img": ""
+            "img": "4_1"
         },
         {"txt": "On utilise plus de 500 000 substances dans les lieux de travail nord-américains.",
             "audio": "4_2",
-            "img": ""
+            "img": "4_1"
         },
         {"txt": "Environ 25 000 sont toxiques. Il n’y a qu’environ 600 qui ont la désignation 'niveau d'exposition sûr'.",
             "audio": "4_3",
-            "img": ""
+            "img": "4_1"
         },
         {"txt": "Pour les autres substances, on ignore les effets sur la santé. Il n'y a aucun contrôle sur l'exposition des employés à ces substances.",
             "audio": "4_4",
-            "img": ""
+            "img": "4_1"
         },
 
         {"txt": "Responsabilités du SIMDUT",
@@ -108,20 +108,20 @@
         },
         {"txt": "Les fournisseurs sont obligés de s'assurer que les renseignements sont mis à jour.",
             "audio": "5_2",
-            "img": "whmis_5_2"
+            "img": "5_1"
         },
 
         {"txt": "Les employeurs sont obligés de s'assurer que les FS et les étiquettes sont clairs et disponibles pour les produits.",
             "audio": "6_1",
-            "img": "whmis_6_2"
+            "img": "6_2"
         },
         {"txt": "Cela se fait en consultation avec le Comité sur la santé et la sécurité. L'employeur doit former l'employé pour que celui-ci puisse déterminer les risques du produit et l'employer en tout sécurité.",
             "audio": "6_2",
-            "img": "whmis_6_2"
+            "img": "6_2"
         },
         {"txt": "L'employer doit participer à la formation et appliquer les connaissances. L'ouvrier a le droit d'accéder à l'information en tout temps.",
             "audio": "6_3",
-            "img": "whmis_6_2"
+            "img": "6_2"
         },
 
 
@@ -131,35 +131,35 @@
         },
         {   "txt": "Classe A: Gaz comprimés",
             "audio": "8_1",
-            "title": "1"
+            "img": "8_1"
         },
         {   "txt": "Classe B: Matières inflammables et combustibles",
             "audio": "8_2",
-            "img": "whmis_8_1"
+            "img": "8_2"
         },
         {   "txt": "Classe C: Matières comburantes",
             "audio": "8_3",
-            "img": "whmis_8_2"
+            "img": "8_3"
         },
         {   "txt": "Classe D1: Matières toxiques ayant des effets immédiats graves",
             "audio": "8_4",
-            "img": "whmis_8_3"
+            "img": "8_4"
         },
         {   "txt": "Classe D2: Matières toxiques ayant d'autres effets",
             "audio": "8_5",
-            "img": "whmis_8_4"
+            "img": "8_5"
         },
         {   "txt": "Classe D3: Matières infectieuses",
             "audio": "8_6",
-            "img": "whmis_8_5"
+            "img": "8_6"
         },
         {   "txt": "Classe E: Matières corrosives",
             "audio": "8_7",
-            "img": "whmis_8_5"
+            "img": "8_7"
         },
         {   "txt": "Classe F: Matières dangereusement réactives",
             "audio": "8_8",
-            "img": "whmis_8_5"
+            "img": "8_8"
         },
 
 
@@ -169,19 +169,19 @@
         },
         {   "txt": "Une substance, dont la température ambiante est de 20°C, dans l'état gazeux et gardé sous pression.",
             "audio": "9_1",
-            "img": "whmis_9_2"
+            "img": "9_1"
         },
         {   "txt": "Elle éclate si l’on la chauffe ou la frappe. Elle peut devenir un « missile » si on la perfore.",
             "audio": "9_2",
-            "img": "whmis_9_3"
+            "img": "9_1"
         },
         {   "txt": "Par exemple: Les extincteurs, Les cylindres de gaz pour la soudure",
             "audio": "9_3",
-            "img": "whmis_9_4"
+            "img": "9_1"
         },
         {   "txt": "Ne laissez pas tomber le récipient. Rangez le récipient dans des secteurs indiqués",
             "audio": "9_4",
-            "img": "whmis_9_5"
+            "img": "9_1"
         },
 
         {   "txt": "Classe B : Matières inflammables et combustibles",
@@ -190,19 +190,19 @@
         },
         {   "txt": "Il s’agit des matières qui prennent feu si elles sont exposées à une source d'allumage ou si elles sont suffisamment chauffées.",
             "audio": "10_1",
-            "img": "whmis_9_2"
+            "img": "9_2"
         },
         {   "txt": "L’exposition à la lumière du soleil peut produire assez de chaleur pour prendre feu à certaines matières.",
             "audio": "10_2",
-            "img": "whmis_9_2"
+            "img": "9_2"
         },
         {   "txt": "Par exemple : L’essence, le butane, conservez ces matières loin des sources de chaleur et des autres matières combustibles.",
             "audio": "10_3",
-            "img": "whmis_9_2"
+            "img": "9_2"
         },
         {   "txt": "Rangez les récipients de ces substances dans des secteurs indiqués. Ne fumez jamais lorsque vous travaillez avec, ou près de ces matières.",
             "audio": "10_4",
-            "img": "whmis_9_2"
+            "img": "9_2"
         },
 
         {   "txt": "Classe C : Matières comburantes",
@@ -211,23 +211,23 @@
         },
         {   "txt": "Il s’agit des substances qui font brûler d’autres substances.",
             "audio": "11_1",
-            "img": "whmis_11_1"
+            "img": "11_1"
         },
         {   "txt": "Elles peuvent provoquer le feu lorsqu’elles entrent en contact avec les matières combustibles, comme le bois.",
             "audio": "11_2",
-            "img": "whmis_11_1"
+            "img": "11_1"
         },
         {   "txt": "Elles peuvent éclater si elles sont placées près des matières combustibles, comme l'essence. Gardez ces matières loin des matières inflammables et combustibles.",
             "audio": "11_3",
-            "img": "whmis_11_3"
+            "img": "11_3"
         },
         {   "txt": "Par exemple : décapant alkalin portez de l’équipement de protection approprié, comme les protecteurs d'œil, de visage et de mains. ",
             "audio": "11_4",
-            "img": "whmis_11_4"
+            "img": "11_3"
         },
         {   "txt": "Gardez ces matières loin des sources d'allumage et rangez les récipients dans des secteurs indiqués.",
             "audio": "11_5",
-            "img": "whmis_11_4"
+            "img": "11_3"
         },
 
 
@@ -237,23 +237,23 @@
         },
         {   "txt": "Il s’agit des matières toxiques ayant des effets immédiats graves.",
             "audio": "12_1",
-            "img": "whmis_12_1"
+            "img": "12_1"
         },
         {   "txt": "Ils s’agit des poisons qui agissent rapidement avec des effets graves, y compris la mort subite peu après l’exposition.",
             "audio": "12_2",
-            "img": "whmis_12_2"
+            "img": "12_1"
         },
         {   "txt": "Elles peuvent brûler les yeux ou la peau si elles entrent en contact avec la victime. Par exemple: Sulfure d'hydrogène, cyanure de sodium",
             "audio": "12_3",
-            "img": "whmis_12_3"
+            "img": "12_1"
         },
         {   "txt": "Évitez le contact avec les yeux et avec la peau en portant l’équipement de protection individuel approprié.",
             "audio": "12_4",
-            "img": "whmis_12_3"
+            "img": "12_1"
         },
         {   "txt": "Évitez l'inhalation de la substance en travaillant dans des secteurs bien aérés. Lavez-vous soigneusement après avoir utilisé ces matières.",
             "audio": "12_5",
-            "img": "whmis_12_3"
+            "img": "12_1"
         },
 
         {   "txt": "Classe D2 : Matières toxiques ayant d’autres effets",
@@ -262,23 +262,23 @@
         },
         {   "txt": "Il s’agit des matières ayant des effets nocifs pendant des jours, des mois, ou des années après l’expositions répétée.",
             "audio": "13_1",
-            "img": "whmis_13_1"
+            "img": "13_1"
         },
         {   "txt": "Elles peuvent provoquer des allergies, l’irritation de la peau et des yeux ou le cancer.",
             "audio": "13_2",
-            "img": "whmis_13_2"
+            "img": "13_2"
         },
         {   "txt": "Par exemple: Les huiles de machine, la colle, l’amiante",
             "audio": "13_3",
-            "img": "whmis_13_3"
+            "img": "13_3"
         },
         {   "txt": "Évitez le contact avec les yeux et avec la peau en portant l’équipement de protection individuel approprié.",
             "audio": "13_4",
-            "img": "whmis_13_3"
+            "img": "13_3"
         },
         {   "txt": "Évitez l'inhalation de la substance en travaillant dans des secteurs bien aérés. Lavez-vous soigneusement après avoir utilisé ces matières.",
             "audio": "13_5",
-            "img": "whmis_13_3"
+            "img": "13_3"
         },
 
 
@@ -288,23 +288,25 @@
         },
         {   "txt": "Il s’agit d’un organisme ou des toxines qui peuvent causer des maladies infectieuses graves.",
             "audio": "14_1",
-            "img": "whmis_14_1"
+            "img": "14_1"
         },
         {   "txt": "On les retrouve principalement dans les hôpitaux et dans les laboratoires spécialisés.",
             "audio": "14_2",
-            "img": "whmis_14_2"
+            "img": "14_2"
         },
         {   "txt": "Par exemple: Les déchets de la salle de premiers secours, les seringues, le sang souillé",
             "audio": "14_3",
-            "img": "whmis_14_2"
+            "img": "14_2"
         },
         {   "txt": "Prenez toutes les précautions pour éviter la contamination.",
             "audio": "14_4",
-            "img": "whmis_14_2"
+            "img": "14_2"
         },
+
+
         {   "txt": "Portez obligatoirement l’équipement de protection individuel approprié lorsque vous manipulez ces matières.",
             "audio": "15_1",
-            "img": "whmis_15_1"
+            "img": "15_1"
         },
 
         {   "txt": "Classe E : matières corrosives",
@@ -313,23 +315,24 @@
         },
         {   "txt": "Il s’agit d’une substance qui érode l'acier, l’aluminium ou qui détruit le tissu animal.",
             "audio": "16_1",
-            "img": "whmis_16_1"
+            "img": "16_1"
         },
         {   "txt": "Si elles entrent en contact avec la peau ou avec les yeux, elles endommagent irréparablement la peau ou les yeux.",
             "audio": "16_2",
-            "img": "whmis_16_2"
+            "img": "16_2"
         },
         {   "txt": "Par exemple: L’acide acétique, l’acide chromique, l’acide de pile de voiture",
             "audio": "16_3",
-            "img": "whmis_16_2"
+            "img": "16_2"
         },
+
         {   "txt": "Assurez-vous que les récipients sont étroitement fermés.",
             "audio": "17_1",
-            "img": "whmis_17_1"
+            "img": "17_1"
         },
         {   "txt": "Évitez l’exposition aux yeux et à la peau. Travaillez dans des secteurs bien aérés et portez l'équipement respiratoire.",
             "audio": "17_2",
-            "img": "whmis_17_2"
+            "img": "17_2"
         },
 
         {   "txt": "Classe F : Matières dangereusement réactives",
