@@ -341,23 +341,23 @@
         },
         {   "txt": "Il s’agit des matières qui réagissent avec l'eau pour produire un gaz toxique ou qui subira une réaction si le récipient est chauffé, mis sous pression ou agité.",
             "audio": "18_1",
-            "img": "whmis_18_1"
+            "img": "18_1"
         },
         {   "txt": "Elles peuvent éclater si elles sont chauffées dans un récipient fermée ou si le récipient subit un choc.",
             "audio": "18_2",
-            "img": "whmis_18_2"
+            "img": "18_2"
         },
         {   "txt": "Elles réagissent avec l'eau pour dégager les gaz toxiques. Par exemple: l’acétylène",
             "audio": "18_3",
-            "img": "whmis_18_2"
+            "img": "18_2"
         },
         {   "txt": "Rangez ces matières dans un secteur frais et un endroit résistant au feu.",
             "audio": "18_4",
-            "img": "whmis_18_2"
+            "img": "18_2"
         },
         {   "txt": "Gardez ces matières loin de la chaleur. Manipulez les récipients soigneusement.",
             "audio": "18_5",
-            "img": "whmis_18_2"
+            "img": "18_2"
         },
 
         
@@ -367,52 +367,48 @@
         },
         {   "txt": "Une marque de produit: Il s'agit du nom du produit, qui peut être le nom commun, nom chimique, nom générique ou une marque de fabrique. Le même nom doit apparaître sur le FS du produit.",
             "audio": "20_1",
-            "img": "whmis_20_1"
+            "img": "20_1"
         },
         {   "txt": "Symboles de risque: Il s'agit de l'un ou de plusierurs des huit symboles de risque qui s'appliquent au produit.",
             "audio": "20_2",
-            "img": "whmis_20_1"
+            "img": "20_2"
         },
         {   "txt": "Si un produit commandé figure les Divisions 1 et 2 de la Classe D, il ne faut que montrer le symbole de la Division 1 sur l'étiquette.",
             "audio": "20_3",
-            "img": "whmis_20_1"
+            "img": "20_2"
         },
         {   "txt": "Les symboles doivent être des reproductions exactes des symboles prescrits du SIMDUT, à l'exception de la taille et la couleur.",
             "audio": "20_4",
-            "img": "whmis_20_1"
+            "img": "20_2"
         },
-
         {   "txt": "Expression de risque: Il s'agit des descriptions des effets de l'exposition. Elles fournissent d'autres renseignements sur le risque indiqué par le symbole. Par exemple: dangereux d'inhalation.",
             "audio": "20_5",
-            "img": "whmis_20_1"
+            "img": "20_3"
         },
-
         {   "txt": "Mesures de précaution: Cette section explique comment éviter les risques liés au produit. Par exemple: portez de l'équipement de protection des yeux approprié.",
             "audio": "20_6",
-            "img": "whmis_20_1"
+            "img": "20_4"
         },
-
         {   "txt": "Mesures de premiers soins: Cette section explique comment traiter une personne surexposée au produit. Par exemple: lavez le secteur touché avec l'eau courante.",
             "audio": "20_7",
-            "img": "whmis_20_1"
+            "img": "20_5"
         },
-
         {   "txt": "Rapport indiquant la disponibilité d'une fiche signalétique: ",
             "audio": "20_8",
-            "img": "whmis_20_1"
+            "img": "20_6"
         },
-
         {   "txt": "Marque de fournisseur: le nom du fournisseur (le distributeur qui achète le produit d'un fournisseur et qui revend le produit sans le remballer n'est pas indiqué sur l'étiquette de fournisseur).",
             "audio": "20_9",
-            "img": "whmis_20_1"
+            "img": "20_7"
         },
         {   "txt": "Contour du SIMDUT: l'étiquette doit être entourée du contour distinct du SIMDUT. Il n'y a aucune règle pour ce qui est de la taille, de la forme ou de la couleur de l'étiquette tant qu'ils sont en ordre, évidents, et distincts des autres inscriptions.",
             "audio": "20_10",
-            "img": "whmis_20_1"
+            "img": "20_7"
         },
+
         {   "txt": "Les données sur l'etiquette de fournisseur doivent être imprimées en anglais et français, sur une étiquette simple et bilingue, ou sur deux étiquettes séparées.",
             "audio": "20_11",
-            "img": "whmis_20_1"
+            "img": "20_7"
         },
 
         {   "txt": "D'autres conditions pour l'étiquette de fournisseur",
@@ -421,23 +417,23 @@
         },
         {   "txt": "Expédition. Quand le fournisseur envoie des matériaux à l'intérieur d'un récipient plus grand.",
             "audio": "21_1",
-            "img": "whmis_21_1"
+            "img": "21_1"
         }, 
         {   "txt": "Il peut se transporter les étiquettes pour que l’employeur les appose sur les différents récipients, si l'employeur accepte de le faire par écrit.",
             "audio": "21_2",
-            "img": "whmis_21_2"
+            "img": "21_1"
         }, 
         {   "txt": "Il faut le faire à la réception du produit, lorsqu’on ouvre la caisse d’expédition.",
             "audio": "21_3",
-            "img": "whmis_21_2"
+            "img": "21_1"
         }, 
         {   "txt": "Si l'expédition est un produit en vrac et si l’on va l‘employer ou l’emballer après l’arrivée,",
             "audio": "21_4",
-            "img": "whmis_21_2"
+            "img": "21_1"
         }, 
         {   "txt": "L'employeur recevant le produit peut demander au fournisseur par écrit qu’il fournisse des étiquettes de lieu de travail pour le produit.",
             "audio": "21_5",
-            "img": "whmis_21_3"
+            "img": "21_1"
         }, 
 
         {   "txt": "Étiquette de lieu de travail",
@@ -446,32 +442,32 @@
         },
         {   "txt": "Le matériel est produit dans le lieu de travail pour l'utilisation dans le lieu de travail ou pour l'exportation.",
             "audio": "22_1",
-            "img": "whmis_22_1"
+            "img": "22_1"
         },
         {   "txt": "Le matériel est produit dans le lieu de travail et est destinée à la vente au Canada. ",
             "audio": "22_2",
-            "img": "whmis_22_2"
+            "img": "22_1"
         },
         {   "txt": "Par conséquent, le matériel portera l'étiquette de fournisseur avant l'expédition.",
             "audio": "22_3",
-            "img": "whmis_22_3"
+            "img": "22_1"
         },
         {   "txt": "L'étiquette originale de fournisseur est absente ou devient illisible.",
             "audio": "22_4",
-            "img": "whmis_22_5"
+            "img": "22_1"
         },
 
         {   "txt": "Il n’y a aucune condition spécifique sur la couleur, la taille ou la forme de l'étiquette de lieu de travail. Elle doit être facile à comprendre et à voir.",
             "audio": "23_1",
-            "img": "whmis_23_1"
+            "img": "23_1"
         },
         {   "txt": "Il faut réviser et mettre à jour les étiquettes de lieu de travail le moment où la nouvelle information devient disponible.",
             "audio": "23_2",
-            "img": "whmis_23_1"
+            "img": "23_2"
         },
         {   "txt": "Marque de produit (nom du matériel) Mesures de conservation (comment manipuler le produit sans risque) Un bulletin indiquant au lecteur que la FS est disponible.",
             "audio": "23_3",
-            "img": "whmis_23_1"
+            "img": "23_3"
         },
 
 
@@ -481,65 +477,64 @@
         },
         {   "txt": "Qu’est-ce que la FS? La FS est la fiche signalétique. Ce document comporte de l'information sur un produit contrôlé ou dangereux.",
             "audio": "24_1",
-            "img": "whmis_24_2"
+            "img": "24_0"
         },
 
 
         {   "txt": "L'information de produit: Elle indique le nom du produit selon le méme nom indiqué sur l'étiquette et explique la fonction du produit.",
             "audio": "24_2",
-            "img": "whmis_24_3"
+            "img": "24_1"
         },
         {   "txt": "Ingrédients dangereux: Il s'agit d'une liste de tous les ingrédients du produit qui se figurent sur l'une des huit catégories de risque.",
             "audio": "24_3",
-            "img": "whmis_24_3"
+            "img": "24_2"
         },
-
         {   "txt": "Données physiques: Elles expliquent comment la matière se comporte en service. Elles donnent une description de la matière, qu'il s'aggisse d'un gaz. ",
             "audio": "24_4",
-            "img": "whmis_24_3"
+            "img": "24_3"
         },
         {   "txt": "D’un élément solide ou d’un liquide, et décrivent l’odeur de la matière lorsque l’on utilise.",
             "audio": "24_5",
-            "img": "whmis_24_3"
+            "img": "24_3"
         },
         {   "txt": "Elles indiquent la probabilité d’évaporation de la matière (les matières qui s'évaporent facilement sont habituellement plus dangereuses).",
             "audio": "24_6",
-            "img": "whmis_24_3"
+            "img": "24_3"
         },
         {   "txt": "Elles indiquent si les gaz montent ou descendent (cela est important pour la surveillance et la ventilation de l'air).",
             "audio": "24_7",
-            "img": "whmis_24_3"
+            "img": "24_3"
         },
         {   "txt": "Elles indiquent comment ces matières entrent dans le corps et quels effets elles peuvent avoir.",
             "audio": "24_8",
-            "img": "whmis_24_3"
+            "img": "24_3"
         },
 
         {   "txt": "Risque d'incendie ou d'explosion: la probabilité que la matière brûle ou éclate dans différentes circonstances.",
             "audio": "24_9",
-            "img": "whmis_24_3"
+            "img": "24_4"
         },
         {   "txt": "Données de réactivité: la stabilité de la mantière; elles indiquent comment elle réagit quand elle est exposée à certains autres produits chimiques, à la chaleur, à l'allumage et aux vibrations.",
             "audio": "24_10",
-            "img": "whmis_24_3"
+            "img": "24_5"
         },
 
         {   "txt": "Prepriétés toxicologiques: la stabilité de la matière: elles indiquent comment elle réagit quand elle est exposée à certains autres produits chimiques, à la chaleur, à l'allumage et aux vibrations.",
             "audio": "25_1",
-            "img": "whmis_24_3"
+            "img": "25_1"
         },
 
         {   "txt": "Mesures préventives: il s'agit des procédures sûres pour la manipulation, l'utilisation et le stockage du matériel.",
             "audio": "26_1",
-            "img": "whmis_24_3"
+            "img": "25_2"
         },
         {   "txt": "Mesures de premiers soins: il s'agit du traitement immédiat à donner à une personne exposée à la matière.",
             "audio": "26_2",
-            "img": "whmis_24_3"
+            "img": "25_3"
         },
         {   "txt": "L'information de préparation: la personne ou le département qui a préparé la FS, leurs coordonnées, ainsi que la date de la préparation de la FS (la FS doit être mise à jour au moins tous les 3 ans).",
             "audio": "26_3",
-            "img": "whmis_24_3"
+            "img": "25_4"
         },
 
         {   "txt": "Programmes de contrôle",
@@ -548,11 +543,11 @@
         },
         {   "txt": "Cette section aborde les risques de contrôle posés par les substances dangereuses. On peut contrôler les risques de trois manières:",
             "audio": "27_1",
-            "img": "whmis_27_1"
+            "img": "27_1"
         },
         {   "txt": "On contrôle la source de la substance; on fait un contrôle le long du chemin; on fait un contrôle au niveau de l'ouvrier.",
             "audio": "27_2",
-            "img": "whmis_27_2"
+            "img": "27_1"
         },
 
         {   "txt": "Contrôle à la source",
@@ -561,19 +556,19 @@
         },
         {   "txt": "Le contrôle de la source de la substance se fait de trois manières:",
             "audio": "28_1",
-            "img": "whmis_28_1"},
+            "img": "28_1"},
 
         {   "txt": "Suppression: On peut supprimer l'utilisation de la matière dangereuse pour empêcher ses effets nocifs.",
             "audio": "28_2",
-            "img": "whmis_28_2"},
+            "img": "28_2"},
 
         {   "txt": "Substitution: On peut remplacer les produits chimiques dangereux par un produit chimique moins toxique - on peut remplacer le le benzène par le toluène.",
             "audio": "28_3",
-            "img": "whmis_28_3"},
+            "img": "28_3"},
 
         {   "txt": "Isolement: Isolez et protégez la matière dangereuse pour empêcher l'exposition accidentelle.",
             "audio": "28_4",
-            "img": "whmis_28_4"},
+            "img": "28_4"},
 
 
         {   "txt": "Contrôle en route",
@@ -582,23 +577,23 @@
         },
         {   "txt": "Le contrôle en route est le moyen par lequel on peut réduire le risque posé par la substance.",
             "audio": "29_1",
-            "img": "whmis_27_3"
+            "img": "29_1"
         },  
         {   "txt": "Cela se fait par les moyennes suivantes: ménagez bien l’aire de travail: n’obstruez pas les chemins, nettoyez, et organisez le lieu de travail.",
             "audio": "29_2",
-            "img": "whmis_29_2"
+            "img": "29_1"
         },  
         {   "txt": "Ventilation : Assurez-vous que le lieu de travail a la ventilation appropriée. Cela comprend la ventilation générale et la ventilation locale, telle que des ventilateurs de capot.",
             "audio": "29_3",
-            "img": "whmis_29_3"
+            "img": "29_2"
         },  
         {   "txt": "Les lieux de travail doivent prendre régulièrement des échantillons de l'air pour s’assurer que la ventilation est suffisante.",
             "audio": "29_4",
-            "img": "whmis_29_4"
+            "img": "29_2"
         },  
         {   "txt": "Barrières: L'utilisation des barrières portatives aidera également à éliminer certains types de risques.",
             "audio": "29_5",
-            "img": "whmis_29_5"
+            "img": "29_3"
         },  
 
        {   "txt": "Contrôle au niveau de l'employé",
@@ -607,29 +602,28 @@
         },
         {   "txt": "Contrôler les matières dangereuses chez l'employé se fait par les méthodes suivantes:",
             "audio": "30_1",
-            "img": "whmis_30_1"
+            "img": "30_1"
         },  
-
         {   "txt": "Équipement de protection individuel: Fournissez à l'employé l’équipement de protection individuel approprié et la formation sur la façon de s’en servir. ",
             "audio": "30_2",
-            "img": "whmis_30_1"
+            "img": "30_1"
         },  
         {   "txt": "Contrôles administratifs: Il s’agit essentiellement des politiques et des procédures du lieu de travail présentées par la compagnie sur la façon de manipuler la substance.",
             "audio": "30_3",
-            "img": "whmis_30_1"
+            "img": "30_1"
         },  
 
         {   "txt": "Les ouvriers doivent s'assurer qu'ils comprennent les procédures et qu’ils les suivent en conséquence.",
             "audio": "30_4",
-            "img": "whmis_30_4"
+            "img": "30_4"
         },  
         {   "txt": "Par exemple : les ouvriers travaillent en groupes de deux dans des secteurs ou l’espace est confiné.",
             "audio": "30_5",
-            "img": "whmis_30_5"
+            "img": "30_4"
         },  
         {   "txt": "Contrôles technologiques : On se sert de la la technologie pour contrôler les risques, comme les chambres isolées.",
             "audio": "30_6",
-            "img": "whmis_30_5"
+            "img": "30_4"
         },  
 
 
@@ -639,19 +633,19 @@
         },
         {   "txt": "Les employeurs doivent fournir suffisamment de contrôles des substances dangereuses.",
             "audio": "31_1",
-            "img": "whmis_31_1"
+            "img": "31_1"
         },   
         {   "txt": "Le risque ne doit pas obliger l'employé de déployer des efforts anormaux dans le lieu de travail.",
             "audio": "31_2",
-            "img": "whmis_31_1"
+            "img": "31_1"
         },   
         {   "txt": "L'employeur doit prendre des mesures pour protéger l'employé exposé au risque.",
             "audio": "31_3",
-            "img": "whmis_31_3"
+            "img": "31_1"
         },   
         {   "txt": "Prenez les mesures de protection pour éliminer le risque du lieu de travail et de l'environnement.",
             "audio": "31_4",
-            "img": "whmis_31_3"
+            "img": "31_1"
         },   
         
 
@@ -661,12 +655,13 @@
         },
         {   "txt": "La planification de secours est nécessaire:",
             "audio": "32_1",
-            "img": "whmis_32_1"
+            "img": "32_1"
         },
         {   "txt": "Elle empêche la mort ou les dégâts; elle réduit les dégâts au lieu de travail; elle permet de reprendre les opérations normales aussitôt que possible.",
             "audio": "32_2",
-            "img": "whmis_32_2"
+            "img": "32_1"
         },
+
 
         {   "txt": "Transport des produits chimiques dangereux",
             "audio": "33_0",
@@ -674,24 +669,24 @@
         },
         {   "txt": "Le transport des matières dangereuses, est soumis à la Loi sur le transport des marchandises dangereuses...",
             "audio": "33_1",
-            "img": "whmis_32_1"
+            "img": "33_1"
         },
-//29.wav
+
         {   "txt": "Pratiques en matière de travail",
             "audio": "34_0",
             "title": "1"
         },
         {   "txt": "Procédures normales de travail (à l’écrit); procédures de ménage; pratiques sûres.",
             "audio": "34_1",
-            "img": "whmis_32_1"
+            "img": "34_1"
         },
         {   "txt": "Zones de stockage pour certaines matières; étiquettes d'avertissement; réparations de l'équipement; déplacement des obstacles; éclairage suffisant.",
             "audio": "34_2",
-            "img": "whmis_32_1"
+            "img": "34_1"
         },
         {   "txt": "Transport des matières; utilisation des appareils de manutention mécaniques; besoin réduit de transport des matières. ",
             "audio": "34_3",
-            "img": "whmis_32_1"
+            "img": "34_1"
         },
 
         {   "txt": "Exclusions du SIMDUT",
@@ -700,32 +695,19 @@
         },
         {   "txt": "Produits exemptés en raison d’autres lois: les explosifs (la Loi sur les explosifs).",
             "audio": "35_1",
-            "img": "whmis_32_1"
+            "img": "35_1"
         }, 
         {   "txt": "Les aliments et drogues (Règlement sur les aliments et drogues); les pesticides et herbicides (la Loi sur le contrôle des parasites et des produits).",
             "audio": "35_2",
-            "img": "whmis_32_1"
+            "img": "35_1"
         }, 
         {   "txt": "Les matières radioactives (la Loi sur le contrôle de l'énergie atomique); les déchets dangereuses.",
             "audio": "35_3",
-            "img": "whmis_32_1"
+            "img": "35_1"
         }, 
         {   "txt": "Les produits de consommation; les produits du tabac; les articles fabriqués.",
             "audio": "35_4",
-            "img": "whmis_32_1"
-        }, 
-
-        {   "txt": "Exigences de formation de l'employé",
-            "audio": "36_0",
-            "title": "1"
-        },
-        {   "txt": "La formation de l'ouvrier doit comprendre: les étiquettes et les symboles de risque; la FS; les procédures de manipulation des matières dangereuses.",
-            "audio": "36_1",
-            "img": "whmis_32_1"
-        }, 
-        {   "txt": "Les procédures de secours de la compagnie; la formation doit avoir lieu tous les ans; la formation doit être mise à jour pour tenir compte des changements.",
-            "audio": "36_2",
-            "img": "whmis_32_1"
+            "img": "35_1"
         }, 
 
          {   "txt": "Exigences de formation de l'employé",
@@ -734,11 +716,11 @@
         },
         {   "txt": "La formation de l'ouvrier doit comprendre: les étiquettes et les symboles de risque; la FS; les procédures de manipulation des matières dangereuses.",
             "audio": "36_1",
-            "img": "whmis_32_1"
+            "img": "36_1"
         }, 
         {   "txt": "Les procédures de secours de la compagnie; la formation doit avoir lieu tous les ans; la formation doit être mise à jour pour tenir compte des changements.",
             "audio": "36_1",
-            "img": "whmis_32_1"
+            "img": "36_1"
         }, 
 
         {   "txt": "Comment les substances entrent dans le corps",
@@ -747,19 +729,19 @@
         },
         {   "txt": "Les substances nocives peuvent entrer dans le corps par:",
             "audio": "37_1",
-            "img": "whmis_32_1"
+            "img": "37_1"
         }, 
         {   "txt": "L’inhalation: par exemple, l'amiante; l’absorption par la peau: par exemple, le polyuréthane.",
             "audio": "37_2",
-            "img": "whmis_32_1"
+            "img": "37_1"
         }, 
         {   "txt": "L’ingestion: en mangeant de la nourriture dans des secteurs souillés. La plupart des planchers des ateliers sont des secteurs où l’on doit interdire la consommation de la nourriture.",
             "audio": "37_3",
-            "img": "whmis_32_1"
+            "img": "37_1"
         }, 
         {   "txt": "Les substances nocives peuvent nuire à la foie, causer des hémopathies, le cancer ou des problèmes respiratoires.",
             "audio": "37_4",
-            "img": "whmis_32_1"
+            "img": "37_1"
         }
     ]
 }
